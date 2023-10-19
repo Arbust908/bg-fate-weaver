@@ -1,0 +1,1659 @@
+"96c02591-b827-4c05-b12b-a1c67464a6f9",--QUEST_Boo_A_Summon (Boo)
+"ed7d57f9-cd5a-4fd4-bdf6-d8b8a6ee10b3",--QUEST_CHA_HeavyVase (Heavy Vase)
+"9ac5a98a-2647-4b96-a1f2-c0facecf3c7d",--QUEST_CHA_MarbleFissure
+"f554be92-737d-4bf0-927a-48ed23db5cd4",--QUEST_CHA_Marble_Fissure_Center
+"48349626-f008-4b9f-997d-aa8884d7a5b9",--QUEST_CHA_Marble_Fissure_Destruct
+"3c858c3d-5eb9-453e-9140-a49397cb4193",--QUEST_CHA_Marble_Fissure_Dungeon_Destruct
+"17742f3f-9c7f-4dab-be21-0d653a80cb12",--QUEST_CHA_Marble_Fissure_Explode (Crumbling Marble)
+"ebda31ee-3f8b-49a9-bd03-8af5d779b6e8",--QUEST_CHA_Marble_Fissure_WalkOn
+"26b29e36-7f64-422c-8513-4109d356ba4a",--QUEST_COL_MF_BasRelief_A (Desecrated Relief)
+"d5c32289-4fcc-483c-885c-1b8ddd519d44",--QUEST_CRA_HermitCrab_Armor_Ring_Of_Illusion_NOTAPPROUVED (Ring of Crabsight)
+"c021c3e7-a363-42b3-8a28-56a994198530",--QUEST_CRE_CaptainsBarrierKey (Githyanki Disruptor Crystal)
+"10110b88-4945-4aaf-9b36-552d00aefe14",--QUEST_CRE_PUZ_Trap_TeleportGlyph_Hatchery (Glyph Of Teleportation)
+"d08c61cb-6aad-4237-82e4-70a6ab738c79",--QUEST_CRE_PlaneCaster (Inert Planecaster)
+"194613a3-2994-4b65-8816-6926e986b63a",--QUEST_Chains (Chains)
+"2981327d-9a53-4cb1-8b06-9b6101f4edab",--QUEST_Chains_A_Rigged_A (Chains)
+"174904fa-69fb-4751-b40a-3fcc25774804",--QUEST_Crown_Karsus_A (Crown of Karsus)
+"3576ad38-6d0d-4e22-b5b4-4cabb937a167",--QUEST_DEN_STORAGEKEY (Storage Key)
+"faf9842d-c11d-414e-a757-cf6e893a1f60",--QUEST_Dungeon_Marble_Tile_D_HiddenStash (Chipped Tile)
+"03e3cdee-1a21-49f4-93a0-5db1939ff04c",--QUEST_END_MindArena_OrbHelper
+"29bdbdd1-3f74-46b0-b42b-41bea7d6f94a",--QUEST_END_Ship_Xebec_Rowboat (Skiff)
+"c569bae0-627a-4e9c-864c-8c44603226d8",--QUEST_END_WallOfForce (Wall of Force)
+"6b881dce-b87f-4c3c-aa98-7ba4b07c009b",--QUEST_FOR_SCROLL_SummonQuasit
+"ad3c0c6b-bcc4-488e-a5cf-32b809188633",--QUEST_FOR_ShadowheartOM_SharCrown (Damaged Headpiece)
+"8733edb7-f04e-4b6d-ad48-7d49fb782bef",--QUEST_FOR_SussurDagger (Sussur Dagger)
+"44dedec0-df82-4ed3-b9ca-147bd830e312",--QUEST_FOR_SussurGreatsword (Sussur Greatsword)
+"6b95bb45-41c3-4954-ac2f-ef1aa169b0b6",--QUEST_FOR_SussurSickle (Sussur Sickle)
+"65b41886-823d-416b-b53e-c332a3aad530",--QUEST_FOR_Village_Blacksmith_FineWeapon (Steelforged Sword)
+"94af8697-bee3-4f35-90c0-801fdcb6ee03",--QUEST_FireOrb (Flame Sphere)
+"3065f8bf-1d06-4b89-8f2a-268f82155317",--QUEST_GEM_Button (Stone of Shadows)
+"9cfae0fb-ef7a-430c-a6aa-6efffae4a690",--QUEST_GEM_Infernal_Diamond (Infernal Diamond)
+"369c04b5-992b-4bde-8451-1eac0a3376ea",--QUEST_GLO_CursedIronFlask
+"c5f0d632-be10-4a64-9482-f3df021a3654",--QUEST_GLO_CursedIronFlask_Empty
+"2a11a29e-ee3e-4ad7-9d06-beb79efea4e5",--QUEST_GLO_Voss_GithRadar (Qua'nith Psionic Detector)
+"c245cb1a-ecfb-4dac-b686-26013dbb00d9",--QUEST_GOB_RoastingDwarf_A (Roasted Dwarf Ribs)
+"84e8df93-cba4-4a0c-b946-73f59258e792",--QUEST_GOB_RoastingDwarf_B (Roasted Dwarf Belly)
+"dc83c211-ef84-4e54-96c4-94aadbd3184a",--QUEST_GOB_RoastingDwarf_C (Roasted Dwarf Leg)
+"f57ad063-af4c-411c-9c91-9ca02cd57dd4",--QUEST_GOB_SuspiciousMeat (Suspicious Meat)
+"1308e876-6541-447f-b3b4-2f981965435d",--QUEST_GoblinPriestess_Statue (Statue)
+"c7a75599-14ca-4e6d-867c-a922ed20142b",--QUEST_GoblinPriestess_Statue_01_Destruct
+"1b11fcaf-6bbc-4209-8916-f8552f4ea899",--QUEST_GoblinPriestess_Statue_02_Destruct
+"a7266677-820a-45f5-a158-159e64df41e5",--QUEST_GoblinPriestess_Statue_03_Destruct
+"0e281f53-f536-4917-b7fd-822a7ce9339d",--QUEST_GoblinPriestess_Statue_04_Destruct
+"e5f721ed-e0f8-4b50-8a9d-c064d666b573",--QUEST_GoblinPriestess_Statue_Broken
+"35f37f05-6942-42dd-98a9-d5c6ebf624eb",--QUEST_HAG_AdHelper (Auntie Ethel)
+"6146ec95-970c-40d1-8312-a3c2496944f9",--QUEST_HAG_WoodWoad_Teleport_Helper
+"d9863839-e955-47a2-8a06-070f5c3c9541",--QUEST_HAV_InfernalReward_001 (Flawed Helldusk Armour)
+"6d60fcbb-e7a5-47ad-9cca-44565cbc0856",--QUEST_HAV_InfernalReward_002 (Flawed Helldusk Helmet)
+"b673f1dc-d925-4811-a78e-53adcce847e8",--QUEST_HAV_InfernalReward_003 (Flawed Helldusk Gloves)
+"b9eeaebb-9b00-4552-940f-5d829a66e8cb",--QUEST_HAV_InfernalReward_004 (Orthon Explosive)
+"11fdda30-7f37-46b5-9491-bf738810874d",--QUEST_HUM_Harbor_Boat_Small_B (Skiff)
+"9e31fd58-c2a6-487c-9054-913aecd5ce32",--QUEST_HalsinQuest_HalsinDagger (Promise)
+"bcd0ad1a-19b3-4068-a3b0-b968c8d50bf7",--QUEST_HermitCrab_Item (Hermit Crab)
+"7b587210-09a6-4333-85ad-4591831d9828",--QUEST_IRN_IronThrone_FallingDebris (Fallen Debris)
+"1b2fc147-7d51-468f-9c0b-f8c1f0c27b7a",--QUEST_IRN_IronThrone_HeatDetector (Heat Detector)
+"9be48133-7a5d-4515-ad2d-fbbce695c25c",--QUEST_IRN_IronThrone_ReinforcementsMarker (Bubbling Emergence)
+"1a36a3e0-5a03-4736-9869-5f98fe76b524",--QUEST_IRN_SecurityCard (Security Card)
+"f548f892-a91d-473b-a081-b4ba8280833f",--QUEST_IRN_Submersible (ls::TranslatedStringRepository::s_HandleUnknown)
+"ab546f8b-7a7b-432a-b045-b7697c04105c",--QUEST_LOOT_Human_Bodypart_Hand_A_Stone (Stone Hand)
+"e4c17191-72da-42e5-bb48-c1eac2e536b9",--QUEST_LOW_CompletedSkeleton (Sarin at Peace)
+"d41a9f59-bf00-46c6-81eb-b38d9a588fdc",--QUEST_LOW_DeadMansSwitch (Motivator)
+"10d9e4a8-8019-47a9-88e3-dac74f7b8ae5",--QUEST_LOW_DeadMansSwitch_Shield
+"2e271e7b-36a7-46ca-90ec-290d1abcc8f1",--QUEST_LOW_ForsakenSkeleton (Forsaken Skeleton)
+"1d0137cc-2735-4ba1-8e33-67537848c0fe",--QUEST_LOW_ForsakenSkull (Forsaken Skull)
+"a5ba71a8-989b-479c-92e9-0a12b85d1e9e",--QUEST_LOW_HagSurvivors_HagSpysStash (Old Armchair)
+"1a62610c-567e-4f92-9a88-4aac11f6c401",--QUEST_LOW_HoH_InfernalDiamond_Socket (Inert Infernal Gem)
+"e692fe33-f719-459a-90cf-497ccd22e48d",--QUEST_LOW_HoH_InfernalDiamond_Socket_Glow (Infernal Control Gem)
+"3b0ad947-fba8-40c1-b52b-4087d3ef0e36",--QUEST_LOW_MephistosVault_Portal
+"267cf1bc-59fd-4876-bd84-93ebbf724b2d",--QUEST_LOW_MephistosVault_Portal_Base (Construct)
+"2071b74c-95b4-4490-91b7-cf5e250f22ab",--QUEST_LOW_SteelWatchFoundry_DestroyedCollar (Destroyed Kill Collar)
+"47af23c3-7eb0-4a49-a4a4-f2ee5ab521c0",--QUEST_LOW_SteelWatchFoundry_ExplodingCollar (Kill Collar)
+"88cb9fcf-3626-4f68-8781-ab747bf12dd3",--QUEST_MOO_BalthazarsSecrets_BookLever_A (Balthazar's Book)
+"d8796aaf-224e-4726-8b2e-f1418db0a21b",--QUEST_MOO_BalthazarsSecrets_BookLever_B (Book Title)
+"03e61bb2-e411-4380-ab09-d9a4d04d9c83",--QUEST_MOO_BalthazarsSecrets_BookLever_C (Balthazar's Book)
+"3deeefb0-fa5b-4b40-a894-8d92f5163b44",--QUEST_MOO_BalthazarsSecrets_BookLever_D (Book Title)
+"64a8c123-327b-40c1-b8c7-c265ff1b6e4d",--QUEST_MOO_BalthazarsSecrets_SecretAltar
+"814f2a2c-9be9-47b4-897a-aea2c313a1e1",--QUEST_MOO_BalthazarsSecrets_SecretAltar_Used (Ancient Altar)
+"a049e7f9-0cbc-4efe-8ec5-4c353d9b1a9b",--QUEST_MOO_DrowPriestess_FallingBlock_Heavy (Cube 1x1x1)
+"71bd8602-ea3e-4f6d-95b0-7c77298561e0",--QUEST_MOO_MasterKey (Moonrise Guard's Key)
+"3301071e-be9c-4473-92c0-4eb1c51b66e3",--QUEST_Mysterious_Puzzlebox (Cryptic Artefact)
+"5c90f6c2-80ef-4640-9fbb-aa89fb89ba43",--QUEST_Netherstone_Complete (Triune Netherstone)
+"91dcff74-81db-4d14-9242-7f38c3f6b011",--QUEST_Netherstone_Gortash (Gortash's Netherstone)
+"99d576b9-46b5-4da6-b9c4-197d17c668a4",--QUEST_Netherstone_Ketheric (Ketheric's Netherstone)
+"bbf64afc-a02d-4186-a3be-d6579735c018",--QUEST_Netherstone_Orin (Orin's Netherstone)
+"ffc6092a-58a1-4446-a226-84456e87f79b",--QUEST_NoteFromOrin (Dirge of the Unholy Assassin)
+"020e5c6c-d8d6-4792-aba6-713c2e40cec1",--QUEST_PLA_Platform_Goblin_05_Destruct (Broken Platform)
+"1dcc46e4-ca45-4ca6-b7ad-0158847290c1",--QUEST_PLA_Platform_Wood_4W4D_A (Wooden Planks)
+"0c611a8b-978f-42ef-860d-0eb44120357b",--QUEST_PLA_Platform_Wood_4W4D_A_Destruct
+"9955f0bd-cf96-4541-a73f-2d6258b6b5d5",--QUEST_PLA_Rope_6m_Destructable (Rope)
+"ad871cbd-aa9f-43bd-b491-16a33d1d40bf",--QUEST_PLT_Collector_Floor_Destruct (Wooden Ladder)
+"b4d78b91-222e-43f2-82fd-6a1fae228abe",--QUEST_PLT_Collector_Floor_Explode (Ruined Bridge)
+"e7bd4fe8-a8c6-4f3e-b377-e41796700cb5",--QUEST_PortalFromAstralPlane
+"433367ab-9b6b-4a02-9183-2626d62574eb",--QUEST_PortalFromAstralPlane_Emperor
+"49a19618-8a19-4bd4-a9c2-afb0248ea82f",--QUEST_PortalToAstralPlane (Portal to the Astral Plane)
+"7e5ca70d-7ec3-4eb6-b9c9-7cbc004dfd91",--QUEST_PortalToMindArena (ls::TranslatedStringRepository::s_HandleUnknown)
+"d8a26e06-c582-40cc-9e58-487709552e59",--QUEST_Rope_Destructable
+"8d1183be-290d-45ed-be44-4469a3013306",--QUEST_SHA_MakeshiftVessel (Makeshift Vessel)
+"f1defa42-3b48-4451-9451-e48f05053dba",--QUEST_SHA_NecromancerAlchemyLab (Alchemy Lab)
+"f577ad66-b4dd-48d8-a3ae-da740ca77831",--QUEST_SHA_SafeTomb
+"5b4b20c7-3b27-4237-8a1f-611c896b3239",--QUEST_SHA_TempleMap (Gauntlet of Shar Map)
+"39082ded-2213-421c-992b-d86f35bccf75",--QUEST_SHA_TrialGemSocket
+"276ee71f-d67a-40ce-9468-e959e89146ab",--QUEST_SHA_TrialGemSocket_B
+"19b11f13-86f2-4f0e-98ed-7f60ff58665e",--QUEST_SHA_TrialGemSocket_With_Gem
+"ead9a841-dd1f-4b85-8353-104faea5a5cc",--QUEST_SHA_TrialGemSocket_Without_Gem
+"610df3fc-9976-453b-b316-c7551f09f52e",--QUEST_SHA_TrialGemSocket_Without_Orb_A (Orb Socket)
+"fd3fd8a9-a5fc-4726-9b6e-77f5ecf54cea",--QUEST_SHA_TrialOrb (Umbral Gem)
+"446baacd-e5e1-4557-a6a9-0ae0f094b218",--QUEST_SHA_TrialSacrificeBowl (Sacrificial Bowl)
+"d76b561b-4122-4f98-bae4-06691f804046",--QUEST_SHA_TrialSacrificeBowl_Pickable (Sacrificial Bowl)
+"4a997f13-4fb8-4aca-b3f1-cf206b108805",--QUEST_SHA_VampiricDagger (Vampiric Dagger)
+"73d60327-a321-4d8f-b0db-161b65917fb7",--QUEST_Statue_Balduran_Gem_A (Balduran trial gem)
+"def9e410-c2a3-4132-a38c-f7dc436679ad",--QUEST_TWN_TollCollector_ArmorPart_Arm_L (Accursed Coins - Left Arm)
+"6dce5e63-42bd-4d49-830a-e40d9641cef4",--QUEST_TWN_TollCollector_ArmorPart_Arm_R (Accursed Coins - Right Arm)
+"d7ba60e5-fe90-4503-9919-0f831c306c53",--QUEST_TWN_TollCollector_ArmorPart_Head (Accursed Coins - Head)
+"17e965b2-7ae6-4b28-b545-b11469efbd9c",--QUEST_TWN_TollCollector_ArmorPart_Leg_L (Accursed Coins - Left Leg)
+"cb3330bd-672d-4d4c-973c-fcc7e7c037c5",--QUEST_TWN_TollCollector_ArmorPart_Leg_R (Accursed Coins - Right Leg)
+"ee8533b8-483e-4ce6-93d4-82d5a1c29a30",--QUEST_TWN_TollCollector_ArmorPart_Torso (Accursed Coins - Chest)
+"88f58d6f-2907-49b2-9c5f-8dc10a9013c1",--QUEST_TWN_TollCollector_Reward
+"f2b2327e-0aae-4389-87fb-cc999f7121ed",--QUEST_UND_CallarduranTrinket (Fetish of Callarduran Smoothhands)
+"a2b87e2f-cd46-430d-aa80-19ff7dfb2cd6",--QUEST_UND_FairyRings_FakeWall (Rock Face)
+"1064fce3-46ff-448e-9768-d6460bfe6fcb",--QUEST_UND_LeomundSecretChest (Toy Chest)
+"b37c96da-816d-42cd-a839-af7b94b0cee9",--QUEST_UND_SovereignKey (The Sovereign's Key)
+"43570a53-3f94-442c-9317-f964ed76fdf0",--QUEST_UNI_CRE_DaisyCaveEntrance (Beckoning Cave)
+"b551469c-5a53-4df3-a2c9-91516ef55695",--QUEST_WPN_Flail_DreadedSkulls (Flail of Dread Skulls)
+"90b745f4-5166-49a5-9225-1234dde533ae",--QUEST_WYR_GemlessRing (Gemless Ring)
+"cecf95a1-5a07-45cb-9f69-f892054e494e",--QUEST_WYR_InsightPuzzle_Hint2 (Suelto's Ethic of War)
+"17085d73-6f20-4dad-b40e-26fa2b68f8ed",--QUEST_WYR_InsightPuzzle_Hint3 (Stedd's Virtues of Unions)
+"f97e6e80-1f6e-4560-9fb8-27e399c80d57",--QUEST_WYR_InsightPuzzle_Hint6 (Amaps' Memoirs)
+"40899561-06fa-4cbf-8031-c839fea44331",--QUEST_WYR_RedKnightChessPiece (Red Knight Chess Piece)
+"9030e638-b086-4e0d-aeb9-365b03470679",--QUEST_WYR_RestoredMagicRing (Magic Ring)
+"219a9d40-41b3-4225-a187-64bbc8e96525",--QUEST_WYR_RinglessGemstone (Ringless Gemstone)
+"0ffa0863-2c12-4fb8-b4b7-f617022e9d7a",--QUEST_WeepingTree_Helper
+"435685c4-f7ec-4720-8d3c-c297b75267ea",--Quest_BasiliskGate_Florrick_ExecutionNotice (Execution Notice)
+"35877d3c-e31e-485e-a8b9-a053abd0fd23",--Quest_CHA_Crane_Ropes_A (Coiled Rope)
+"5a487ea1-3b04-4012-9e6a-f20d03030024",--Quest_CHA_TargetVines_A (Vines)
+"e5dad8d6-6e77-4596-b200-bf345174777c",--Quest_CMB_BoulderThrowable (Loose Boulder)
+"10051779-42d5-4bc6-8d55-10f6ce504758",--Quest_CMB_Crystal_Shard_Wall (Attuned Crystal)
+"710fc72b-14c9-4ccc-8cce-c0c1eedf1e89",--Quest_CMB_FallingStalactite (Fissured Stalactite)
+"7706c802-cf39-442b-aa7d-8d4e0766a44d",--Quest_CMB_FallingStalactite_A_Gravity
+"4232f4c5-24d7-4a6e-9df8-a49bbb8392ca",--Quest_CMB_FallingStalactite_B_Gravity
+"b280fa7a-1fc9-4b4e-b0d8-30e356eb4ba4",--Quest_CMB_FallingStalactite_D_Gravity
+"572084f8-e591-4c0f-8837-11eca14dea63",--Quest_CMB_FallingStalactite_Gravity
+"0febed02-0ae8-4076-9f7b-65bff3b4121d",--Quest_CMB_LightningStrike (Lightning Strike)
+"88fbb698-6dd9-4239-a29c-51606b95af1c",--Quest_CMB_StalkBulb (Brine Bulb)
+"10c7fb61-9c54-4910-a152-78ae743e51fb",--Quest_CMB_StalkBulb_Gravity (Brine Bulb)
+"27f77a61-a259-4fe2-9d7d-d94d2f0a5bee",--Quest_CMB_ThrowingRock (Heavy Stone)
+"d3acc742-d4ff-4843-afec-5d7c352bec63",--Quest_COL_ApostleInvisibleHelper
+"47d0ac01-b412-44f6-9fcf-fe6888764c1d",--Quest_COL_Ketheric_DeathBloom (Skeletal Involucre)
+"4decad83-3a46-4e1e-a3ae-3c2a0c4f7684",--Quest_COL_Ketheric_DeathBloom_Walkthrough
+"374111f7-6756-4f5f-b6e3-e45e8d25def0",--Quest_CON_OwlBearEgg (Owlbear Egg)
+"0b8b0139-300e-4133-9e6c-6807067d02d3",--Quest_D20 (Divine Odds)
+"e89505df-2be5-4b3c-b1bc-c49e77c4b866",--Quest_DEN_BattleHorn (War Horn)
+"7f19a186-4f04-4a8d-b1eb-c2442b3eba33",--Quest_DEN_GoblinBarrel (Transport Barrel)
+"6774f642-6aa3-4756-a07d-a6be51ad6f06",--Quest_FOR_BrokenSpear_Head (Head of a Broken Spear)
+"414956be-4aa5-447f-99c0-fb6382881ff5",--Quest_FOR_BrokenSpear_Shaft (Shaft of a Broken Spear)
+"ea99e006-80e1-414a-8995-c03d92eaf170",--Quest_FOR_SussurBark (Sussur Tree Bark)
+"909dbdf7-c4de-4317-a9d9-623f911a660c",--Quest_FlyingImp (Imp)
+"3023d5a5-14f0-4549-8ff2-1f34336c243c",--Quest_GOB_DrunkGoblin_Ring (Crusher's Ring)
+"efa87028-d04d-4f70-8b63-2cccbbcb4374",--Quest_GOB_RoastingDwarf_SmellyPants (Klagga's Pants)
+"01d74aea-9e8a-4d03-9b55-e43458b61163",--Quest_GOB_WolfPens_AmuletOfBeastmaster (Beastmaster's Chain)
+"1481eb98-786c-48bc-8b30-4f0b2a0a4b27",--Quest_HAG_FairyRingMushroom (Mushroom)
+"eec5de82-c988-40e6-8f10-474d5675c550",--Quest_HAG_HagHair_Charisma (Auntie Ethel's Hair)
+"d16922ba-a36b-4015-8072-27610821fb53",--Quest_HAG_HagHair_Constitution (Auntie Ethel's Hair)
+"7e3afbf6-4e1a-444e-826d-f8e0e0a8308f",--Quest_HAG_HagHair_Dexterity (Auntie Ethel's Hair)
+"9abbab89-d29f-47c0-9ffe-f12018dd83d9",--Quest_HAG_HagHair_Intelligence (Auntie Ethel's Hair)
+"8f6b0c08-d1b1-4ae7-ade2-da3c679ce323",--Quest_HAG_HagHair_Strength (Auntie Ethel's Hair)
+"de2c9582-fab5-4d5e-9a81-44d67af6a681",--Quest_HAG_HagHair_Wisdom (Auntie Ethel's Hair)
+"8309936f-5826-45ad-a646-3a0c044beae8",--Quest_PLA_FallingRock_A
+"3e6da5a1-4a04-45bf-933b-e2493056a8f2",--Quest_PLA_FallingRock_B
+"8d10c2c9-91fd-4f4c-ae59-03ef06c1673b",--Quest_PLA_Footprints_Gnolls (Tracks)
+"8108ee1e-9992-4464-b679-cb70815aa750",--Quest_SCE_BackUpWeapon (Selunite Mace)
+"4c25cfed-9a0f-4c38-ba09-cf11f272c0e5",--Quest_SCE_PurifiedSpear (Selunite Spear)
+"d2fe9a24-affd-464a-b757-a48d6f50dd7d",--Quest_SCE_SeluniteSpear (Selûne's Spear of Night)
+"9046e0e3-1e70-4267-9430-3901201e8cbd",--Quest_SCL_Moonblade (Moonblade)
+"735997bc-d726-40d2-abcc-c6ac72f9429a",--Quest_SCL_PrayersAndCharms (Prayers and Charming Charms)
+"a27b505a-ab5b-4714-bee1-5f0435014741",--Quest_SHA_Darkblade (Darkblade)
+"21ef368f-11b2-44c1-8d8d-9e95617f5a81",--Quest_SHA_NightsongHeart (Nightsong's Heart)
+"d9ea2161-694c-436d-b049-7537d52dd699",--Quest_Swarming3Imp_01 (Imp)
+"258551c8-b0a9-4222-9acc-a1e9f55689c5",--Quest_Swarming3Imp_02 (Imp)
+"e94fa62c-d974-4334-a9d9-e4edec70dfc3",--Quest_Swarming3Imp_03 (Imp)
+"e51eee05-4464-488c-87ca-9c23a964a033",--Quest_Swarming5Imp_01 (Imp)
+"f1af66ca-d492-4b28-94fc-85ae6882897b",--Quest_Swarming5Imp_02 (Imp)
+"6810d76d-0db4-4b68-89c8-3c7dba2d6cf3",--Quest_Swarming5Imp_03 (Imp)
+"468f7203-e615-4888-89d7-9e380f2e2678",--Quest_Swarming5Imp_04 (Imp)
+"539be3b4-523b-418c-9775-e4410eccb1de",--Quest_Swarming5Imp_05 (Imp)
+"d7d60037-0619-45a1-b913-2f5f54c515de",--Quest_TUT_FlyingRedDragon (Red Dragon)
+"e4e73ef5-ab76-4831-ad9c-183821555970",--Quest_WLD_Footprints_OwlBear (Beast Tracks)
+"33483035-c9ee-497c-8e05-e2150021946a",--Quest_WYR_WulbrenHead (Wulbren's head)
+"13f3991e-01d3-498f-ad71-a55900c39516",--REF_BOOK_Book_A
+"2b858e2d-1431-4208-9024-b233d271d6db",--REF_BOOK_Letter_Map (Map)
+"c412a7e2-d887-4c46-aedb-8e40e14eaff2",--REF_BOOK_Letter_Scroll_A
+"dc1a3895-a328-4ba9-a090-e5251f4b44bd",--REF_CLIMB_Primitives_Cube_1x1x1 (Cube 1x1x1)
+"ee193eb1-83e0-4373-b862-5b58fb2f62b7",--REF_CONT_Chest_A_Gold (Reference Chest)
+"6af96f40-eeec-4b20-93bb-7ab2faf6e431",--REF_CONT_Chest_A_Metal (Reference Chest)
+"3baeb26e-7d36-4d5c-95fd-9352f2e4bbc4",--REF_CONT_Chest_A_Wood (Reference Chest)
+"a8128065-6377-44ea-8796-6c593c4d7770",--REF_CON_Plant_A (Toxic Mushroom)
+"5bc25780-73e6-4960-828d-ce4ff045ccf9",--REF_DEC_Statue_A_Dynamic_NOTAPPROVED
+"538c37f5-b913-4be4-8c18-70fc49f2c963",--REF_DOOR_DoubleBig_Round_A_Metal (Iron Door)
+"7fd7fea7-865e-49a6-a971-c85366f1a336",--REF_DOOR_DoubleBig_Round_A_Wood (Wooden Door)
+"34b67317-8375-42cc-a5a5-606989ffa3f0",--REF_DOOR_DoubleBig_Square_A_Metal (Double Iron Doors)
+"238d10d8-54be-4bc2-b5f7-0bdc8f071603",--REF_DOOR_DoubleBig_Square_A_Wood (Double Oak Doors)
+"2c74b381-baf6-4476-b5a2-87d6878ab615",--REF_DOOR_DoubleMedium_A_Metal (Double Doors)
+"d2c05242-b20e-49c8-a2b5-4ac8eca56226",--REF_DOOR_DoubleMedium_A_Wood (Double Doors)
+"e2de5ad2-ca7a-4a90-bf59-518d226cde30",--REF_DOOR_DoubleSmall_A_Metal (Double Doors)
+"c8f6c76d-e5c8-416f-90de-0f97f5ef67b6",--REF_DOOR_DoubleSmall_A_Wood (Double Doors)
+"a8799bf3-d7a3-4d1b-95ae-e939769b195e",--REF_DOOR_Double_A_TEST (Double Oak Doors)
+"f5f21d83-8e7c-48c5-9103-3293c5dd07d8",--REF_DOOR_GateDown_A (Iron Grate)
+"83067a86-5558-4e32-a707-737ba70a9d30",--REF_DOOR_GateSide_A (Iron Grate)
+"4bbe1faa-6473-4565-855a-15ffa18fd0e2",--REF_DOOR_GateUp_A (Portcullis)
+"d19066e4-649d-485a-b94b-e61fae7edb88",--REF_DOOR_Hatch_A (Hatch)
+"e6b2c824-c25e-43fb-818e-638f4779169b",--REF_DOOR_Single_A_Metal (Iron Door)
+"d12486d9-030a-4bf0-a5d6-d36fb39d39f2",--REF_DOOR_Single_A_Wood (Wooden Door)
+"fdcc7682-7d4c-410c-88c1-5aaedb6f4a0c",--REF_DOOR_Single_Wall_Hidden_A (Wall)
+"f42bb689-a84b-4051-a1bb-57edd7f20acc",--REF_FUR_Bed (Bed)
+"d90384de-6ab2-45a2-aec5-3a224bca33a5",--REF_FUR_Bench (Wooden Bench)
+"5f9243d8-892f-4b4b-81ae-346c5ccd217c",--REF_FUR_Chair (Chair)
+"4d4f30a9-e61d-4943-b3bc-4c0e1186c161",--REF_FUR_Mattress (Mattress)
+"0e92c207-f20f-46a7-a92a-6d71114122f8",--REF_ITM_Primitives_Cube_1x1x1 (Cube 1x1x1)
+"6d9c000e-e8eb-4ee8-9c5e-96112111b6e2",--REF_ITM_Primitives_Cube_2x2x0n5 (Cube 1x1x1)
+"03aa01e4-d743-4e5e-b263-3658f5adb053",--REF_ITM_Primitives_Cube_2x2x2 (Cube 2x2x2)
+"d576b381-92d6-4d44-8c55-9c692dfa5b3e",--REF_ITM_Primitives_Cube_3x1x1 (Cube)
+"9d71809c-765b-4451-85b0-5949e6e709e5",--REF_ITM_Primitives_Cube_3x3x3 (Cube 3x3x3)
+"548b0870-6103-489e-bdff-b936f73c7d12",--REF_LOOT_Backpack_A (Backpack)
+"6993a790-f9e2-4c79-a633-79605becdd35",--REF_LOOT_Bag_A (Pouch)
+"31efba30-8b1f-46cf-ba98-1f43d9b91e8e",--REF_Lava_Cube_1x1x1
+"53c481bf-a37b-48db-907b-0728745877c1",--REF_PUZ_Button_A (Touch)
+"340d2b77-5cdd-4e17-8758-ad35225c9ddf",--REF_PUZ_Dirtpile_A (Dirt Pile)
+"e2a26e55-e455-4f71-97b1-f51657285f75",--REF_PUZ_Gaspit_A (Iron Grate)
+"b2caaad3-a783-43ea-a371-dcb77628823d",--REF_PUZ_Lever_Floor_A (Lever)
+"c42768fb-ee31-459c-b0c3-1c92efaf0304",--REF_PUZ_Lever_Wall_A (Lever)
+"b66736fc-36db-4c79-8b9d-4098787fd35f",--REF_PUZ_Trap_Mine_A (Spiked Device)
+"3301c80e-d2c5-44d3-b750-b0203fc5919b",--REF_PUZ_Trap_SpikedFloor_A (Spikes)
+"74f6080c-c525-4dbb-9bdb-1c294303f791",--REF_Primitives_Cube_3x0n5x1n5 (Cube 5x5x5)
+"157b16a0-3cf8-4172-8048-d2911d1bf298",--REF_Primitives_Cube_3x0n5x3 (Cube 5x5x5)
+"39a4ae95-9bd8-3e28-2bab-db052b8f486d",--REF_SCN_Primitives_Cube_3x0n5x1n5_converted (Reference Primitives: Cube 5x5x5)
+"edb70fff-9a8a-4c5d-aad2-af361873bd27",--REF_TOOL_Ladder_A (Ladder)
+"57205d8e-f176-433e-8156-c7406d606142",--SCL_HAV_HalsinPortal (Portal)
+"ce486c60-427e-4ddf-8a11-9992392b7821",--SCL_HAV_OliverPortal (Portal)
+"711d4995-7913-4217-8785-2159bbf178df",--SCRIPTING_Campfire_Bedroll_Closed (Bedroll)
+"d590884d-55a2-4136-9777-531ee7d53f7e",--SHA_SharSpear (Spear of Night)
+"c034d391-aa9f-4ee7-a187-fe1ce14c4907",--SHA_Turret_Invisible_A
+"71723f45-380a-4707-b507-41750348c133",--SHA_UNI_Nightsong_Brazier (Brazier)
+"460abd2c-3f01-42d2-a532-1e5bd54c9ae7",--S_DEN_GraveDigTemp (Fresh Grave)
+"f908ab45-01a2-4e1e-912a-a74715305f05",--S_DEN_GraveMarker (Grave Marker)
+"ede89af4-5416-406b-a2d2-2fdf261f98bc",--S_LOW_CazadorDungeon_key (Key to Cazador's Dungeon)
+"6bf1c054-4095-4e83-bbe3-993c86870122",--S_LOW_CountingHouse_Vault6_BulglaryPlanVlaakiths (The Astral Prism Heist)
+"723707e1-73ff-4aee-bc89-b24c6edfe0dd",--S_LOW_JaheirasHouse_UseableHarperBookcase (Bookcase)
+"d2986570-0c0a-434e-a393-65c3047113e8",--S_LOW_Overdose_OpenedSleepPotion (Empty Potion of Sleep)
+"b2409a86-dc0d-4193-9985-4f11419c64be",--S_Placeholder_MerregonMask (Devilfoil Mask)
+"3c7bd24f-c0b1-4839-b31e-1b74f05b59ef",--S_SHA_LastJusticiar_RatTunnel_Dynamic (Rat Tunnel)
+"6907d0ff-c1d3-4171-b9bd-71974e0a12f4",--S_UND_BOOOALHotline_Altar_A (Blood-Stained Boards)
+"7e0a2990-7526-4807-a14f-d5d9442d969d",--S_WYR_Flophouse_TenantLog (Fraygo's Flophouse Guestbook)
+"291662b7-f0f1-404f-9de5-54e308748d64",--S_WYR_WyrmRockPrison_EntranceDoorKey (Prison Entrance Key)
+"5037e35c-9789-49c2-9b86-9050b5b40211",--Severed Head
+"4f7bcf44-0e1b-4e1f-a498-d6975ccf023b",--ShadowProxy_2x2_A_Dynamic (ls::TranslatedStringRepository::s_HandleUnknown)
+"40b27448-e550-4fc3-9723-cc351be3e8b4",--Shar_Altar_C_Platform_Interactive
+"8b5f7965-6cd1-42c1-8449-c6562a270ad9",--Solution_Toxin_Basic (Simple Toxin)
+"2fe60c2f-9071-4ca2-9af3-e41e4107a639",--TD_Dungeon_SharTemple_Platform_C_Dynamic_A (Black Marble Stone)
+"3e14b721-4815-4547-9925-3b555eed0a9a",--TD_GEN_FootPrints_Gnome_B
+"2138a91f-6359-4770-ade0-a0414ee21e30",--TEMP_Cinematic_DONOTUSE_BASE_CONS_Food_Fruit
+"101eb634-8b38-4129-a487-9e6f62038a26",--TEMP_Cinematic_DONOTUSE_CONS_Drink_Wine_Glass_A
+"b8cc0e90-78b5-424d-9b99-f19a5aca4522",--TEMP_Cinematic_DONOTUSE_CONS_Drink_Wine_Pitcher_D
+"df5a78da-c626-4474-b058-9f816f58bc2a",--TEMP_Cinematic_DONOTUSE_CONS_FOOD_Fruit_Grapes_A_Green_A
+"85fb8816-5aae-457b-a71b-d92e368f3571",--TEMP_Cinematic_DONOTUSE_CONS_FOOD_Fruit_Grapes_A_Purple_A
+"a8d15032-dcd4-4da5-bd7b-57ff38c75376",--TEMP_Cinematic_DONOTUSE_CONS_FOOD_Fruit_Kiwi_A
+"8c3284bf-8924-4f9a-a6c4-5a0d629ba4fc",--TEMP_Cinematic_DONOTUSE_CONS_FOOD_Fruit_Lemon_A
+"35891ce3-163f-4c81-b221-623bf6dc443b",--TEMP_Cinematic_DONOTUSE_CONS_FOOD_Fruit_Melon_Half_A
+"cc507f3d-6f06-4c70-84ca-c86a5ccb3dd7",--TEMP_Cinematic_DONOTUSE_CONS_FOOD_Fruit_Melon_Piece_A
+"3c27dff6-a4ec-4fb8-97da-fa1cfc46c30c",--TEMP_Cinematic_DONOTUSE_CONS_FOOD_Fruit_Orange_A
+"4108ffb5-948a-47de-b935-74842db5bbb3",--TEMP_Cinematic_DONOTUSE_CONS_FOOD_Fruit_Pear_A
+"a7817989-aac8-447f-92ca-7b42b8062b71",--TEMP_Cinematic_DONOTUSE_CONS_FOOD_Vegetable_Carrot_A
+"98931185-3c27-4f76-9fb0-e642e3e3e087",--TEMP_Cinematic_DONOTUSE_CONS_FOOD_Vegetable_Potato_A
+"e6f07487-0947-4129-9293-5f4ca865e52a",--TEMP_Cinematic_DONOTUSE_CONS_FOOD_Vegetable_Zucchini_A
+"e36db780-e1b6-4bde-a836-4ebd8a9f4a22",--TEMP_Cinematic_DONOTUSE_CONS_GEN_Drink_Cup_Metal_A_Empty
+"28082872-e45d-471f-bef7-49a9f36e1a5e",--TEMP_Cinematic_DONOTUSE_CONS_GEN_FOOD_Vegetable_Potato_A_Boiled
+"a72de17f-30ac-43e9-ba4d-13bca919a773",--TEMP_Cinematic_DONOTUSE_CONS_GEN_Food_Bowl_Porridge_Rich_A
+"4e42e812-7244-4cae-85e3-3b77d00ff414",--TEMP_Cinematic_DONOTUSE_CONS_GEN_Food_Bowl_Soup_Mushroom_A
+"d6d6f943-7927-4ca7-8ce8-b5e4eaabad85",--TEMP_Cinematic_DONOTUSE_CONS_GEN_Food_Bowl_Soup_Shrimp_Rich_A
+"23c6c122-9daa-4494-a992-aa364a2b0dcc",--TEMP_Cinematic_DONOTUSE_CONS_GEN_Food_Bread_Bagel_A
+"9bac1dd2-81ba-449b-9110-3d2a4e989a1e",--TEMP_Cinematic_DONOTUSE_CONS_GEN_Food_Bread_Baguette_A
+"4bfc1739-6814-4ec0-acbf-d0bfb4754ae0",--TEMP_Cinematic_DONOTUSE_CONS_GEN_Food_Bread_Bun_A
+"6e1b47ec-fa59-4020-82a2-e33c05f3aa35",--TEMP_Cinematic_DONOTUSE_CONS_GEN_Food_Bread_Loaf_B
+"65b50e91-860b-46ae-ad42-8c5314ab99b3",--TEMP_Cinematic_DONOTUSE_CONS_GEN_Food_Cheese_A
+"226e30cc-ed3b-4079-a3ee-fcc67120eba4",--TEMP_Cinematic_DONOTUSE_CONS_GEN_Food_Egg_A
+"3494a3de-9b2f-455b-ba2d-bb9ad29a19e5",--TEMP_Cinematic_DONOTUSE_CONS_GEN_Food_GlowcapMushroom_A
+"5e722743-e2c8-470d-8a8b-5c94a72fe022",--TEMP_Cinematic_DONOTUSE_CONS_GEN_Food_Meat_PorkHead_A
+"e0cb18da-32bc-425e-9ab1-c42d3e9f78b3",--TEMP_Cinematic_DONOTUSE_CONS_GEN_Food_Meat_Sausage_A_Individual_A
+"b89f4993-7c36-4ced-ac1b-a177809a3ab0",--TEMP_Cinematic_DONOTUSE_CONS_GEN_Food_Meat_Sausage_A_Individual_B
+"b19531d0-928a-4bd4-8638-cafb414c97d4",--TEMP_Cinematic_DONOTUSE_CONS_GEN_Food_Meat_Sausage_A_Piled_A
+"95d5c066-9cd3-4c07-aca8-72f11839c552",--TEMP_Cinematic_DONOTUSE_CONS_GEN_Food_Meat_Sausage_B_Individual_A
+"1425da82-e6b7-4891-a3aa-98fdbee00957",--TEMP_Cinematic_DONOTUSE_CONS_GEN_Food_Meat_Sausage_C
+"e1f06d3c-73f4-4fb7-ac40-15eec36184e4",--TEMP_Cinematic_DONOTUSE_CONS_GEN_Food_Pastrie_Tart_A
+"1d6251a3-a369-4a48-a3d8-8d142278c05c",--TEMP_Cinematic_DONOTUSE_CONS_GEN_Food_Pastry_Bread_Braided_A
+"ce683662-f262-4c6f-b42f-4f59c2110c6b",--TEMP_Cinematic_DONOTUSE_CONS_GEN_Food_Pastry_Roll_A
+"89123508-93e6-4e24-91e6-aef9edf84bdf",--TEMP_Cinematic_DONOTUSE_CONS_GEN_Food_SalmonPie_A
+"e9bdef53-3afb-4ca7-9b02-1d15cfbb7738",--TEMP_Cinematic_DONOTUSE_CONS_GEN_Food_Tart_Treacle_A
+"3e9cd4d0-722c-47dc-a9a4-827f11daaf05",--TEMP_Cinematic_DONOTUSE_CONS_Herbs_Balsam_Bundle_A
+"7680676d-99f8-4221-b48e-660678bacb6a",--TEMP_Cinematic_DONOTUSE_CONS_Herbs_Belladonna_Bundle_A
+"71aba569-24ae-4534-90e6-b5c3e35cd4d7",--TEMP_Cinematic_DONOTUSE_CONS_Herbs_Mergrass_Bundle_A
+"de0fdd7e-7c21-4a7f-9b09-cddc4efece11",--TEMP_Cinematic_DONOTUSE_CONS_Herbs_Weavemoss_Bundle_A
+"976cc596-f777-4d2b-946f-09c489a660ee",--TEMP_Cinematic_DONOTUSE_DEC_GEN_Kitchen_CuttingBoard_A
+"a7e7f659-3771-4b62-8a3b-9c3ecdf47ca2",--TEMP_Cinematic_DONOTUSE_DEC_GEN_Statue_Bust_Male_A
+"eb4ed5fd-1045-498b-8fdf-668dc4a48e3d",--TEMP_Cinematic_DONOTUSE_DEC_HAR_Fish_Big_A_Headface_A
+"2628855d-97ed-4110-ae67-353bb034c6bf",--TEMP_Cinematic_DONOTUSE_DEC_HAR_Fish_Big_A_Headless_A
+"22832f82-8838-4801-b150-0216a291ad4d",--TEMP_Cinematic_DONOTUSE_DEC_HAR_Fish_Small_B
+"8941dc7f-07f8-483a-94b0-8314bb2f0149",--TEMP_Cinematic_DONOTUSE_DEC_HAR_Fish_Small_C
+"9515f37a-d116-4b5b-85bc-2c2ea05a6a4f",--TEMP_Cinematic_DONOTUSE_DEC_HAR_Fish_Small_D
+"c4bedd47-44a0-4e83-a0c2-bc81be2f5374",--TEMP_Cinematic_DONOTUSE_DEC_HAR_Fish_Steak_A
+"70d87475-8668-4075-b150-d2888bd59c69",--TEMP_Cinematic_DONOTUSE_DEC_Harbour_Shell_Starfish_A
+"2fbd1750-6c95-4f06-9027-42db03238198",--TEMP_Cinematic_DONOTUSE_LOOT_GEN_Dining_Plate_Elevated_Silver_Rich_A
+"1907147d-4473-48a9-a3b9-a5216e25a0c1",--TEMP_Cinematic_DONOTUSE_LOOT_GEN_Dining_Plate_Elevated_Silver_Rich_B
+"a8517bd7-c405-4d88-be94-e4beb1f464c0",--TEMP_Cinematic_DONOTUSE_LOOT_GEN_Dining_Plate_Silver_Rich_A
+"8e760fcd-da3c-4107-8b15-f5242cd738f9",--TEMP_Cinematic_DONOTUSE_LOOT_GEN_Dining_Plate_Silver_Rich_B
+"fd3a9310-f889-4c2d-9a7a-0e32593b1a94",--TEMP_Cinematic_DONOTUSE_LOOT_GEN_Dining_Plate_Silver_Rich_F
+"4d3750f6-4bed-41ae-8cf8-11f099a6042f",--TEMP_Cinematic_DONOTUSE_LOOT_GEN_Dining_Plate_Silver_Rich_H
+"9495e8ce-3600-485b-8004-1d0e8fa0197e",--TEMP_Cinematic_DONOTUSE_LOOT_GEN_Dining_Plate_Silver_Rich_J
+"79f94c7a-9e73-4fb8-9633-abff86cd73dc",--TEMP_Cinematic_DONOTUSE_LOOT_GEN_Dining_Ustensil_Fork_Silver_Rich_A
+"e2a6cd5d-39d2-4866-8fab-69ec625c1cfd",--TEMP_Cinematic_DONOTUSE_LOOT_GEN_Dining_Ustensil_Knife_Silver_Rich_A
+"b5bf2fe3-c702-4b40-96b0-50d08a0c9cc7",--TEMP_Cinematic_DONOTUSE_LOOT_GEN_Kitchen_Cutlery_Plate_Rich_A
+"9a5304a0-3d08-49cf-84d8-015b1cb2ff8b",--TEMP_Cinematic_DONOTUSE_QUEST_GOB_RoastingDwarf_C
+"a6852f3a-795e-4a6a-8adf-c359e1553136",--TEST_Crate (Wooden Crate)
+"3334893b-504a-4339-ac8a-97722e70d702",--TEST_Crate_Debris (Wooden Crate)
+"c57161c0-bb24-42f2-9961-6795bab5e469",--THR_ThrowableBoulder[ONHOLD] (Throwable Boulder)
+"a1645f21-4934-4225-882f-b1e002874782",--TOOL_Camp_Bedroll_Closed_A (Bedroll)
+"530e440f-2c2e-44d5-b632-278c8c10ca4f",--TOOL_Camp_Bedroll_Open_A (Bedroll)
+"06e3372a-03f8-440b-a56d-e8abbc1caee5",--TOOL_Camp_Bedroll_Open_B
+"020adfe3-f0fb-482f-8a46-158d4820578c",--TOOL_Camp_Bedroll_Open_C
+"1aec757f-0584-4f10-801b-f42c6e05b9a9",--TOOL_Camp_Bedroll_Open_D
+"94aabfd3-19c7-4bf6-832e-a69d979eb13b",--TOOL_Camp_Bedroll_Open_E
+"228dc996-e452-4f8d-8bd6-1aa0736dbeb1",--TOOL_Camp_Bedroll_Open_F
+"2a87b593-97f7-4c90-8fb6-161b4cc27fca",--TOOL_Camp_Bedroll_Open_G
+"8c5df9d9-8bad-4f70-98b6-172b4d3f2ec4",--TOOL_Camp_Bedroll_Open_H
+"6d597738-bd49-471f-94bf-5a9ad8393342",--TOOL_GEN_Arcane_Teleport_Device_A (Power Generator)
+"638f981f-f06d-4813-9eb0-d8e1925ecc54",--TOOL_GEN_Arcane_Teleport_Device_A_Activated_A (Power Generator)
+"80ba6a39-ac48-4261-8a07-b7a7427ad3ad",--TOOL_GEN_Arcane_Teleport_Device_A_Broken_A (Broken Power Generator)
+"2a0f1421-9695-40d4-a7da-66ee4ff0fd86",--TOOL_GEN_Arcane_Teleport_Platform_A_Activated_A (Teleportation Platform)
+"4d2d0b3e-a02d-4a7d-9892-245e414081b2",--TOOL_GEN_Arcane_Teleport_Platform_A_Deactivated_A (Teleportation Platform)
+"788278b2-4772-4372-a5e7-accb3e48857e",--TOOL_GEN_Barber_Kit_A (Barber Kit)
+"68621363-4d85-4c74-a7c5-cefe7ae36d15",--TOOL_GEN_Barber_Kit_B (Barber kit)
+"f146f74f-6871-4a98-8f65-30329d564e82",--TOOL_GEN_Barber_Shears_A_Metal_A (Barber Shears)
+"ac769cef-e9c3-4e93-a7e3-6c5eeff22b13",--TOOL_GEN_Branch_Stake_A (Branch)
+"6d4888e6-6133-46cf-842c-5e9af1c22a34",--TOOL_GEN_Branch_Stake_A_Branch_L (Branch)
+"e99c1760-ad76-455d-948c-0a1870c9f93b",--TOOL_GEN_Branch_Stake_A_Branch_R (Branch)
+"cbb98d74-68e9-4d0f-a4ff-6fa92cfcea13",--TOOL_GEN_Broom_A (Broom)
+"c012aabc-8263-4c0e-b146-fd69a5b2f2d8",--TOOL_GEN_Broom_A_Destruct (Broken Barricade)
+"7e695757-a137-4bbc-9a1d-8dcf1db63fee",--TOOL_GEN_Broom_B (Broom)
+"b06df50c-e665-4e06-91a2-9282f2cc694c",--TOOL_GEN_Broom_B_Destruct (Broken Barricade)
+"22c74b5e-bef2-41b1-b9ed-f4acc766d4ee",--TOOL_GEN_Disam_Toolkit_A (Trap Disarm Toolkit)
+"239edfa9-46b4-44ad-b0c4-faa4421a8a57",--TOOL_GEN_DisguiseKit_A_Closed (Disguise Kit)
+"8ec2a70b-32cc-4223-9c4e-fb845deb262d",--TOOL_GEN_DisguiseKit_A_Open (Disguise Kit)
+"d621fb20-02e2-464c-9793-f902612c5b65",--TOOL_GEN_Dragon_Ballista_A (Ballista)
+"2a5091cf-5637-4472-8432-16267b6ff19e",--TOOL_GEN_Dragon_Ballista_Arrow_A (Ballista Arrow)
+"5114c34c-d779-46d9-ae98-d15a0ff0ac31",--TOOL_GEN_ForgeryKit_Closed_A (Forgery Kit)
+"0a1bde2b-8bc0-47ab-aec9-9204b8e4d1ba",--TOOL_GEN_ForgeryKit_Opened_A (Forgery Kit)
+"dc7b9a9e-02f6-4a95-be1b-c2d480fcd207",--TOOL_GEN_Gong_A (Gong)
+"c2a14b56-9dca-4ad1-bcea-71204365f6a9",--TOOL_GEN_Hammer_Repair_A (Hammer)
+"a63fa775-bd30-4753-8c63-395aa5e9d03c",--TOOL_GEN_Identifying_Glass_A (Magnifying Glass)
+"8693aa7e-cd47-4990-80e7-51041f036400",--TOOL_GEN_Mine_Pickaxe_A (Pickaxe)
+"6f769b8f-6fbf-4be0-953b-a5ecab1a1ffc",--TOOL_GEN_Mine_Pickaxe_B
+"868fa1ab-8044-4a82-9c2b-bf4ffb241536",--TOOL_GEN_Music_Drum_Big_A (War Drum)
+"4c9ea428-7679-434c-9679-071847c648a6",--TOOL_GEN_Music_Drum_Small_A (Hand Drum)
+"76944b2f-1e79-4c22-8d9a-e6c30e5194e0",--TOOL_GEN_Music_Drum_Small_B (Hand Drum)
+"848ad8dc-59f3-464b-b8b2-95eab6022446",--TOOL_GEN_Music_Flute_A (Flute)
+"8f98a7e7-c773-4b58-9127-5cf79b9206e9",--TOOL_GEN_Music_Guitar_Lute_A
+"79b74639-066c-4099-87de-30d435a78f3e",--TOOL_GEN_Music_Guitar_Lute_A_Broken (Broken Lute)
+"d8f758fa-34db-4c00-a56a-25e32941d2b4",--TOOL_GEN_Music_Guitar_Lute_A_Destruct (Broken Barricade)
+"f2487101-548f-4494-9ec8-b20fa3ad6f7b",--TOOL_GEN_Music_Guitar_Lute_B (Lute)
+"410229c5-ac20-4d0c-9205-af557abe9782",--TOOL_GEN_Music_Guitar_Lute_B_Alfira (Lute)
+"a33acb20-c036-46b5-bbad-5b38e9b5bf7c",--TOOL_GEN_Music_Guitar_Lute_B_Alfira_Broken (Broken Lute)
+"697ce5fe-08ab-49f5-89dc-69684112a8c7",--TOOL_GEN_Music_Guitar_Lute_B_Broken (Broken Lute)
+"cc0e5642-fed1-425a-a997-20b94b2ff696",--TOOL_GEN_Music_Horn_A (Horn)
+"cdd2f2e1-09a1-4069-b955-7869c9d986d2",--TOOL_GEN_Music_Horn_A_Destruct (Broken Barricade)
+"810c748b-e70b-419f-b707-1162b221d01d",--TOOL_GEN_Music_Horn_B (Horn)
+"13739f15-7366-4d7f-9926-991e98b9e964",--TOOL_GEN_Music_Lyre_A (Lyre)
+"ebdae296-fa2c-4b43-a466-ec592d3017fc",--TOOL_GEN_Music_Lyre_A_Destruct (Broken Barricade)
+"288e21d0-6d1e-4346-b7b3-9cf519b3b5a5",--TOOL_GEN_Music_Viol_A_Destruct (Broken Barricade)
+"5ec5cdf2-cbe3-42bb-b55b-bc6043c76469",--TOOL_GEN_Music_Viol_A_TOBEDELETED (Viol)
+"aca5d144-773b-42ba-aca1-6903c60c418c",--TOOL_GEN_Music_Violin_A (Violin)
+"7efb7ddb-1c1a-4dd5-bf4a-3b737684ef30",--TOOL_GEN_Paralyzing_Device_A (ls::TranslatedStringRepository::s_HandleUnknown)
+"c8274575-61a2-43a7-bde0-65a278dde287",--TOOL_GEN_Pitchfork_A (Pitchfork)
+"a4e6d25a-989d-4293-8815-0e187b122b9c",--TOOL_GEN_Pitchfork_A_Destruct (Broken Barricade)
+"4002fe47-3c18-4381-b853-74b9d7eff251",--TOOL_GEN_Plaque_Standing_Bronze_A (Plaque)
+"7a16b0fd-8a22-4df4-9295-6447b3f352ad",--TOOL_GEN_Plaque_Standing_Bronze_B
+"29ac515d-7c7f-4583-bc55-c8e88bc26980",--TOOL_GEN_PoisonerKit_A_Closed_A (Poisoner's Kit)
+"ed1335e1-5804-4d7e-afbd-5700103f481a",--TOOL_GEN_PoisonerKit_A_Open_A (Poisoner's Kit)
+"866b0263-ce85-4af6-a990-df075e10f9db",--TOOL_GEN_RoadSign_Wood_A (Signpost)
+"be3fce60-d0ea-4009-afcf-9109d1eaeb61",--TOOL_GEN_RoadSign_Wood_A_Broken_A (Broken Signpost)
+"2f263a45-bc96-4193-8aa7-1441b6949bef",--TOOL_GEN_RoadSign_Wood_A_Destruct
+"caddc03b-b1a0-4999-9a90-d4c3b56e82a3",--TOOL_GEN_RoadSign_Wood_B (Signpost)
+"7ab4ba6a-57b9-4150-baa9-ca01b6806532",--TOOL_GEN_RoadSign_Wood_B_Destruct
+"2ac42999-df36-44d1-8614-8665d17dcc8f",--TOOL_GEN_RoadSign_Wood_C (Signpost)
+"2892dc25-d7c3-49f1-bde8-d8f70fcc92eb",--TOOL_GEN_RoadSign_Wood_C_Destruct
+"60b5787c-8ab0-4c51-ad2d-1169920e7d14",--TOOL_GEN_RoadSign_Wood_D (Signpost)
+"4c96a306-3c4d-498e-aef8-cd6a95361e6c",--TOOL_GEN_RoadSign_Wood_D_Destruct (Broken Signpost)
+"808fec9f-b0e2-4f88-ad40-7d567db6d5e1",--TOOL_GEN_RoadSign_Wood_E (Signpost)
+"b0337d1a-8f6c-4187-ae20-2e533de0097f",--TOOL_GEN_RoadSign_Wood_E_Destruct
+"ae8b0d21-dcaa-4882-9ad9-940e4014c3ec",--TOOL_GEN_RoadSign_Wood_F (Signpost)
+"b78ef562-8a02-482c-896b-6811718db6a4",--TOOL_GEN_RoadSign_Wood_F_Destruct
+"73efd1f7-5616-4ca8-84e6-6128aa6efaea",--TOOL_GEN_Shovel_A (Shovel)
+"2f61dd35-f64c-49a9-bbf2-f55c41cecfa5",--TOOL_GEN_Shovel_A_Destruct (Broken Barricade)
+"f4242851-8bf5-47b0-926e-d7b2c932e109",--TOOL_GEN_Shovel_Small_A (Small Shovel)
+"49844a53-bf40-48a2-a8d5-80ea5863f207",--TOOL_GEN_Shovel_Small_A_Destruct (Broken Barricade)
+"e2da16ab-e787-4bb1-a6e5-2b34db59e8c6",--TOOL_GEN_Siege_Harpoon_Magic_A (Arcane Harpoon)
+"7f34cd03-dbd9-4653-9eee-52047464a5e7",--TOOL_GEN_Siege_Harpoon_Magic_Arrow_A (Arcane Harpoon Arrow)
+"0cbd644f-4b14-4e73-a692-328f82eb4087",--TOOL_GEN_Sign_Wall_A_Gold (Sign)
+"b1b8a6ff-3eb7-4d31-badf-49c49c204e14",--TOOL_GEN_Sign_Wall_A_Wood (Sign)
+"7dc63d8d-c4b7-49a1-906d-9dff56e805f8",--TOOL_GEN_Telescope_A (Telescope)
+"08851ac0-3bfa-44f3-80c6-6ab0536f0e10",--TOOL_GEN_ThievesTools_A_Closed_A (Thieves' Tools)
+"e32a200c-5b63-414d-ae57-00e7b38f125b",--TOOL_GEN_ThievesTools_A_Open_A
+"50d8cbfb-c98f-4013-8c67-53b3767a9bd9",--TOOL_GEN_Tong_A (Tongs)
+"6051a6d2-88e9-4ab4-999c-f463632453eb",--TOOL_GEN_Tower_Bell_A (Bell)
+"4d64bcbe-a37d-4537-8ff1-510083989435",--TOOL_GOB_Branding_Tool_A (Cultist Brand)
+"2c4a5085-b485-4956-8063-99ff9d2e1e65",--TOOL_GTY_Button_A (Touch)
+"28ab797e-47ba-4b2b-812b-57590ad59a9c",--TOOL_GTY_Control_Panel_A (Control Panel)
+"b933e64e-7508-4cfb-bf50-c57e09fdc7dc",--TOOL_GTY_Control_Panel_A_Empty_A (Control Panel)
+"f989c605-8931-4610-bb8d-5a94f8ca0251",--TOOL_GTY_Control_Panel_B (Control Panel)
+"61187e8b-1f32-4085-a684-9d15fbfb33d9",--TOOL_GTY_Control_Panel_B_Empty_A (Control Panel)
+"4d04eb21-092a-4eb4-857a-2f1dc0882200",--TOOL_GTY_Control_Panel_Gem_A (Githyanki Portal Stone)
+"4aa89614-e2fb-4d3c-82e8-bfd6a5a4496f",--TOOL_GTY_Lever_A (Lever)
+"df17b2fb-c14f-4b22-9660-f4da4999adee",--TOOL_GTY_Microscope_A (Microscope)
+"aa04567d-02f7-44a9-910a-f9697000cd04",--TOOL_GTY_Portal_A (Portal)
+"9001f0a0-63a3-4686-b18a-0b5df64712b4",--TOOL_GTY_Portal_B (Portal)
+"c3cd979a-21e8-4f70-adb8-1e81a6250e2e",--TOOL_Goblins_Ladder_10n5H_A
+"e6218c99-620e-49c8-96e6-289ebc537243",--TOOL_Goblins_Ladder_10n5H_A_Destruct  (Wooden Ladder)
+"a396879d-a4d3-4805-af32-8b9415194b02",--TOOL_Goblins_Ladder_12H_A
+"a396879d-a4d3-4805-af32-8b9415194b02",--TOOL_Goblins_Ladder_12H_A (Wooden Ladder)
+"eefbc03b-377c-4426-bb72-95460affa95e",--TOOL_Goblins_Ladder_12H_A_Destruct (Wooden Ladder)
+"d5ba6220-f7b3-407b-b1b7-020b1fb5c277",--TOOL_Goblins_Ladder_3H_A
+"3c263ddd-7491-4d8f-af76-fc73eda6a2f6",--TOOL_Goblins_Ladder_3H_A_Destruct (Wooden Ladder)
+"a53c0876-80d4-45af-922f-bbb27ce0a8e3",--TOOL_Goblins_Ladder_4n5H_A
+"2af717c0-52f7-4220-a751-47e5404bc7e4",--TOOL_Goblins_Ladder_4n5H_A_Destruct (Wooden Ladder)
+"7d4f59f9-39b8-469b-a4ab-ebf7b1d4b5e3",--TOOL_Goblins_Ladder_6H_A
+"30a6e2cd-f922-4545-b3f7-c4edf2862282",--TOOL_Goblins_Ladder_6H_A_Destruct (Wooden Ladder)
+"7bd28716-0d4a-4728-9873-c037649dc6b8",--TOOL_Goblins_Ladder_7n5H_A
+"e8e2a955-97ed-4739-a0c0-96402c283e33",--TOOL_Goblins_Ladder_7n5H_A_Destruct (Wooden Ladder)
+"6ba71b64-1809-41e9-9fc9-41751f546d9b",--TOOL_Goblins_Ladder_9H_A
+"89fd03d0-381d-4404-9480-ef9a829bbe62",--TOOL_Goblins_Ladder_9H_A_Destruct (Wooden Ladder)
+"70b86e8f-06b1-4eb2-8211-17f1d850086d",--TOOL_Hospital_Surgery_Kit_A (Surgery Kit)
+"55fb2f34-00d7-4149-8b52-e189e05ba0ca",--TOOL_Hospital_Surgery_Kit_B (Surgery kit)
+"3d01cf80-2d13-4225-a520-6558a7f407cd",--TOOL_Hospital_Surgery_Scalpel_A (Scalpel)
+"d029bf99-3dcb-4682-b67d-215011c8fef6",--TOOL_Ketheric_Anvil_A (Anvil)
+"4873848c-a509-4890-9c0f-4e6489410874",--TOOL_Ketheric_Anvil_B (Anvil)
+"6781372e-564a-44a5-89d5-6e4d89baf074",--TOOL_Ketheric_Anvil_Base_A (Sturdy Base)
+"a07a467c-2bd1-44fa-84c6-98310c3616fc",--TOOL_Ladder_Bronze_6H_A
+"900a7b1e-cd38-4006-a8b0-208cacc4f39f",--TOOL_Ladder_Bronze_6H_B
+"e44b41b1-14ec-4427-aedd-985707e7bedb",--TOOL_Ladder_Cliff_Granite_10n5H_A (Cragged Rock)
+"bc3c04f9-f093-4c4e-890c-66037a2ee99b",--TOOL_Ladder_Cliff_Granite_10n5H_A_Grass (Cragged Rock)
+"cddaade0-c8f6-40c4-874c-3c5e3aae3907",--TOOL_Ladder_Cliff_Granite_10n5H_A_Wet (Cragged Rock)
+"275b9d94-b37d-489d-990c-7d0602e38d46",--TOOL_Ladder_Cliff_Granite_15H_A (Cragged Rock)
+"98318032-1fc1-4d63-84d9-0acd2ed0b8d7",--TOOL_Ladder_Cliff_Granite_15H_A_Wet (Cragged Rock)
+"4b1d9733-ca52-4927-8c68-db62fc90f980",--TOOL_Ladder_Cliff_Granite_3H_A (Cragged Rock)
+"1fd18bae-46fe-4b44-8965-b947648917ef",--TOOL_Ladder_Cliff_Granite_3H_A_Grass (Cragged Rock)
+"cb2541d0-b0fa-429e-8cc5-3e8b635f2351",--TOOL_Ladder_Cliff_Granite_3H_A_Wet (Cragged Rock)
+"14ccbc29-1aa1-405c-93e3-96b243779385",--TOOL_Ladder_Cliff_Granite_4n5H_A (Cragged Rock)
+"3140ac92-227f-4eda-9d6f-cd7ea45c4e5d",--TOOL_Ladder_Cliff_Granite_4n5H_A_Grass (Cragged Rock)
+"7fd62b6c-544b-44b6-949d-e5291c91fc24",--TOOL_Ladder_Cliff_Granite_4n5H_A_Wet (Cragged Rock)
+"1095718f-9ca3-419c-a5f5-43a387ba0d33",--TOOL_Ladder_Cliff_Granite_6H_A (Cragged Rock)
+"b7a66c3f-f393-48d9-88a6-9d65359aa3f4",--TOOL_Ladder_Cliff_Granite_6H_A_Grass (Cragged Rock)
+"c2892b9a-726e-4e80-ba10-87e29a8e6906",--TOOL_Ladder_Cliff_Granite_9H_A (Cragged Rock)
+"77a4cc60-ad7b-44a0-a11e-6602e279821b",--TOOL_Ladder_Cliff_Granite_9H_A_Grass (Cragged Rock)
+"f2cd62ef-f654-4880-ab3e-01589d6402c8",--TOOL_Ladder_Cliff_Granite_9H_A_Wet (Cragged Rock)
+"3cd5823b-94b1-452e-a756-7220a5052204",--TOOL_Ladder_Cliff_Limestone_15H_A (Cragged Rock)
+"36048a68-0ee2-4357-83fa-589fcb2a16fc",--TOOL_Ladder_Cliff_Limestone_6H_A (Cragged Rock)
+"dd4421a2-1f82-4ed1-9842-431d0443552a",--TOOL_Ladder_Cliff_Limestone_9H_A (Climbable Cliff)
+"5f6cd718-a74f-4ce0-b63d-d0d99da2dfe6",--TOOL_Ladder_Cliff_SandStone_15H_A (Cragged Rock)
+"4d253321-bdad-4749-9701-cc2858fe640f",--TOOL_Ladder_Cliff_SandStone_15H_A_Dirt (Cragged Rock)
+"608019b3-460c-4824-a4bc-7b63a9d8678b",--TOOL_Ladder_Cliff_SandStone_15H_A_Height (Cragged Rock)
+"3b7082fe-4c34-4c45-be24-a1f654371706",--TOOL_Ladder_Cliff_SandStone_15H_A_Moss (Cragged Rock)
+"bf1d6402-ec74-46f1-87bd-f3f4a3abbef4",--TOOL_Ladder_Cliff_SandStone_6H_A (Cragged Rock)
+"46c17b6e-4fed-40f9-8a3f-e23d2c0f5e44",--TOOL_Ladder_Cliff_SandStone_6H_A_Dirt (Cragged Rock)
+"d486a214-69ca-495f-a804-e5bb80f95162",--TOOL_Ladder_Cliff_SandStone_6H_A_Height (Cragged Rock)
+"fe5b3e83-1ee8-4b80-878d-d7c0f140038b",--TOOL_Ladder_Cliff_SandStone_6H_A_Moss (Cragged Rock)
+"212d5304-f845-4551-ae0f-7b29e13719fb",--TOOL_Ladder_Cliff_SandStone_9H_A (Cragged Rock)
+"8cb17a24-e531-4ca0-9d12-60e0545027df",--TOOL_Ladder_Cliff_SandStone_9H_A_Dirt (Cragged Rock)
+"31ac7295-dbe6-4641-907e-ca6c299e11d5",--TOOL_Ladder_Cliff_SandStone_9H_A_Height (Cragged Rock)
+"7bf9c821-a950-445c-a4cc-af8c7e70a822",--TOOL_Ladder_Cliff_SandStone_9H_A_Moss (Cragged Rock)
+"1851f8da-3791-4f5a-83be-1c5a67780e61",--TOOL_Ladder_Cursed_Roots_10n5H_A (Roots)
+"efae57c5-ee7b-4cad-8d87-c7e6d6f34d2e",--TOOL_Ladder_Cursed_Roots_12H_A (Roots)
+"0594b5d7-db02-4ad5-8fae-ea01baff271b",--TOOL_Ladder_Cursed_Roots_15H_A (Roots)
+"c97a9df5-79e5-428c-8d80-f35be6d05763",--TOOL_Ladder_Cursed_Roots_3H_A (Roots)
+"7f0ab379-bf5c-4913-b811-9eb01ecc47a4",--TOOL_Ladder_Cursed_Roots_6H_A (Roots)
+"9129e946-c138-4b9c-abdd-3383b7905703",--TOOL_Ladder_Cursed_Roots_6H_B (Roots)
+"0b957643-2177-4ae6-8667-986204478828",--TOOL_Ladder_Fishnet_10H_A (Rope Netting)
+"06f9fce8-de04-4522-8eb5-312729ce2362",--TOOL_Ladder_Fishnet_10H_A_Destruct (Wooden Ladder)
+"3fe4c8f5-881f-4995-8e60-9fcf4e44307d",--TOOL_Ladder_Fishnet_3H_A (Rope Netting)
+"cbcf5726-ca66-491b-8b29-67b99568097b",--TOOL_Ladder_Fishnet_3H_A_Destruct (Wooden Ladder)
+"987ec285-6b53-4928-9a27-30d1cdd01823",--TOOL_Ladder_Fishnet_6H_A (Rope Netting)
+"395f694f-0524-4ef2-8b78-c1a35ddcf9fd",--TOOL_Ladder_Fishnet_6H_A_Destruct (Wooden Ladder)
+"9410b71e-bfee-4845-b72f-918976b34bf7",--TOOL_Ladder_Fishnet_8H_A (Rope Netting)
+"94bf5340-b023-470c-9a78-8943b6523093",--TOOL_Ladder_Fishnet_8H_A_Destruct (Wooden Ladder)
+"f5fcc1c7-8c93-47fd-a12d-c7b97dbaecb7",--TOOL_Ladder_MF_Membrane_10H_A
+"a71ca7b9-814c-423e-8444-981419f68a5a",--TOOL_Ladder_MF_Membrane_3H_A (Arterial Mesh)
+"5aabdd22-7b10-43d2-890c-be1e6dfb8cd3",--TOOL_Ladder_MF_Membrane_3H_B (Arterial Mesh)
+"51b51723-0379-44ca-b375-3f56acaa6dfb",--TOOL_Ladder_MF_Membrane_6H_A
+"12886fc9-c18e-4fb3-994a-215af9869ac4",--TOOL_Ladder_MF_Membrane_8H_A
+"bdf1878a-4db3-4398-b8aa-0831de13d842",--TOOL_Ladder_Metal_10n5H_A (Iron Ladder)
+"8d3f1378-2d20-44e0-8baa-be42afe05172",--TOOL_Ladder_Metal_10n5H_B (Iron Ladder)
+"1036ed50-aafc-4d46-8dc3-5c1ca44c3559",--TOOL_Ladder_Metal_12H_A (Iron Ladder)
+"cd44c50b-a405-4259-82b5-b2d7bf11aa2d",--TOOL_Ladder_Metal_12H_B (Iron Ladder)
+"ad5f68ed-44d3-40d4-b7bc-e6b10ae8ee65",--TOOL_Ladder_Metal_3H_A (Iron Ladder)
+"264bd21d-b4bc-4e0e-aa4d-1365c9d94844",--TOOL_Ladder_Metal_4n5H_A (Iron Ladder)
+"43649b09-8e92-464a-8313-1920d427e0bf",--TOOL_Ladder_Metal_6H_A (Iron Ladder)
+"12479101-0c91-438b-9673-741fd6a1aa1a",--TOOL_Ladder_Metal_7n5H_A (Iron Ladder)
+"8eacbe23-0364-4260-b4ba-1692a6ad2fe7",--TOOL_Ladder_Metal_9H_A (Iron Ladder)
+"0faf2f62-047d-48a3-a0a8-d0e9bd910a0b",--TOOL_Ladder_Metal_9H_B (Iron Ladder)
+"65f8abd2-d7b3-4473-afe0-f6f5935268de",--TOOL_Ladder_Roots_12H_A (Knotted Roots)
+"d39ac761-bab8-4d85-aad7-8b09f5d129df",--TOOL_Ladder_Roots_12H_A_Moss (Knotted Roots)
+"1e80f01e-167b-4ba1-b35d-dc49cacc47db",--TOOL_Ladder_Roots_12H_A_Sussur (Knotted Roots)
+"bfce18d5-93c2-41c6-8e8b-9850f2c159e6",--TOOL_Ladder_Roots_18H_A (Knotted Roots)
+"3cf67bbb-a75f-4b92-85f8-9a81001d04ee",--TOOL_Ladder_Roots_18H_A_Moss (Knotted Roots)
+"6897797a-3cef-4194-853a-57256c98d078",--TOOL_Ladder_Roots_18H_A_Sussur (Knotted Roots)
+"7a393f77-9adb-4508-a57c-d8ea1e6261aa",--TOOL_Ladder_Roots_6H_A (Knotted Roots)
+"28a2a709-c462-42f8-b730-594ae51da5c4",--TOOL_Ladder_Roots_6H_A_Moss (Knotted Roots)
+"a3bafe30-5bb3-4958-83bd-df33af6d4291",--TOOL_Ladder_Roots_6H_A_Sussur (Knotted Roots)
+"dec3ed22-2090-416c-8160-b0509d2d4b89",--TOOL_Ladder_Roots_6H_B (Knotted Roots)
+"d20db7ac-132b-4a08-920c-69ba7e7e729d",--TOOL_Ladder_Roots_6H_B_Sussur (Knotted Roots)
+"eaf196cd-a009-4e2a-8652-e391391f96c6",--TOOL_Ladder_Roots_9H_A (Knotted Roots)
+"3de0e999-4f06-4327-9858-67f942c64e79",--TOOL_Ladder_Roots_9H_A_Moss (Knotted Roots)
+"dc6a20b5-0e3b-4aae-bf26-61d52c14e498",--TOOL_Ladder_Roots_9H_A_Sussur (Knotted Roots)
+"7fac2c2d-86a2-44d8-830d-331c19266f0c",--TOOL_Ladder_Rope_10n5H_A (Rope Ladder)
+"2b2286bf-927f-4159-a589-feb1b19dfb7d",--TOOL_Ladder_Rope_10n5H_A_Destruct (Wooden Ladder)
+"a8cf2166-9cb3-4265-983d-bf8b2cb29482",--TOOL_Ladder_Rope_12H_A (Rope Ladder)
+"434d4bde-dd19-43c8-8edb-7fa08495e7d4",--TOOL_Ladder_Rope_12H_A_Destruct (Wooden Ladder)
+"c04c74fc-0718-4f81-9d27-b287c831ea4d",--TOOL_Ladder_Rope_3H_A (Rope Ladder)
+"ab385ca1-826b-400e-b636-56d57277c0ef",--TOOL_Ladder_Rope_3H_A_Destruct (Wooden Ladder)
+"e491f5de-f432-46c7-b3d5-7d1620300e43",--TOOL_Ladder_Rope_4n5H_A (Rope Ladder)
+"d0d310a3-9497-4577-9152-813326e5be28",--TOOL_Ladder_Rope_4n5H_A_Destruct (Wooden Ladder)
+"f75c4c9b-2656-4bb8-933d-8c120912c765",--TOOL_Ladder_Rope_6H_A (Rope Ladder)
+"0c95c537-39cf-4ac0-9add-243e7170c729",--TOOL_Ladder_Rope_6H_A_Destruct (Wooden Ladder)
+"af5e123b-6f8b-4b85-a952-e4de34f97b73",--TOOL_Ladder_Rope_7n5H_A (Rope Ladder)
+"5cb8d2a2-0c89-419c-92f9-42b0a100acef",--TOOL_Ladder_Rope_7n5H_A_Destruct (Wooden Ladder)
+"cbe097ab-ee9d-4042-bda5-87b69bdf4476",--TOOL_Ladder_Rope_9H_A (Rope Ladder)
+"cf2f2429-ac89-4972-9c41-0e7270a56699",--TOOL_Ladder_Rope_9H_A_Destruct (Wooden Ladder)
+"55c748a8-c57e-4d08-90a2-eafbcd922980",--TOOL_Ladder_Vines_4n5H_A (Knotted Roots)
+"b8e850a6-bd14-4aaa-b0e7-afd75f397e65",--TOOL_Ladder_Vines_4n5H_A_Test (Knotted Roots)
+"1d8510fc-4475-444d-b546-399707074596",--TOOL_Ladder_Web_10n5H_A (Spiderweb)
+"2729976b-f474-4608-8d4f-585c58d21100",--TOOL_Ladder_Web_12H_A (Spiderweb)
+"f1f7a83f-9d09-4195-a3ab-857fb9ff21d7",--TOOL_Ladder_Web_3H_A (Spiderweb)
+"44a84984-2a9e-4f07-b9fe-57231965f51c",--TOOL_Ladder_Web_4n5H_A (Spiderweb)
+"f3c4ab15-94bf-491e-99e7-5589961b2360",--TOOL_Ladder_Web_6H_A (Spiderweb)
+"1c1f6604-7f41-4d67-8f43-d91d7ba9d440",--TOOL_Ladder_Web_7n5H_A (Spiderweb)
+"7460fc4c-54f9-4929-b928-61cd75fc16ee",--TOOL_Ladder_Web_9H_A (Spiderweb)
+"d10e701e-9232-4e4c-96ec-e298073a66f0",--TOOL_Ladder_Wood_10n5H_A
+"770c3d74-4682-4eab-8d89-eccd9f494ca2",--TOOL_Ladder_Wood_10n5H_A_Destruct (Wooden Ladder)
+"f2193a5b-5fe8-4692-b04f-c71b6719d04d",--TOOL_Ladder_Wood_10n5H_B
+"f261b2d3-e708-4f64-aebd-872b5bf8b6a9",--TOOL_Ladder_Wood_10n5H_B_Destruct (Wooden Ladder)
+"7ab27bce-9afd-4512-9771-77c1accdb275",--TOOL_Ladder_Wood_12H_A
+"99647e37-8638-4317-a221-a470c3de24bb",--TOOL_Ladder_Wood_12H_A_Destruct (Wooden Ladder)
+"99783fde-7b79-41ce-8a66-a2d21e434551",--TOOL_Ladder_Wood_12H_B
+"71aab28c-4aee-4fc0-9087-29bedf95b687",--TOOL_Ladder_Wood_12H_B_Destruct (Wooden Ladder)
+"0f4c35b6-2a53-4461-aa8b-567e371a766d",--TOOL_Ladder_Wood_3H_A
+"70eaf29d-d35f-48ed-aed9-8702e7933f02",--TOOL_Ladder_Wood_3H_A_Destruct (Wooden Ladder)
+"9b10caa5-40d7-45e9-98e5-0f2c8b80bbce",--TOOL_Ladder_Wood_3H_B
+"eaaad297-9b33-4f56-923c-4923340cc822",--TOOL_Ladder_Wood_3H_B_Destruct (Wooden Ladder)
+"3bf5a635-4dfe-4929-b377-2ee42caee980",--TOOL_Ladder_Wood_4n5H_A
+"6a0011eb-834e-4b1e-9b5d-7df6a727f567",--TOOL_Ladder_Wood_4n5H_A_Destruct (Wooden Ladder)
+"24110824-95b2-4bfe-93a1-ccf85a67ea3d",--TOOL_Ladder_Wood_4n5H_B
+"afbb7661-b2c0-4b00-af1f-f75e00ffa8d2",--TOOL_Ladder_Wood_4n5H_B_Destruct (Wooden Ladder)
+"027f81ff-8712-410f-9cf9-da40cc0e4737",--TOOL_Ladder_Wood_6H_A
+"404a7ffe-4ad1-4931-af1e-70a00ecc63fc",--TOOL_Ladder_Wood_6H_A_Destruct (Wooden Ladder)
+"b6f62fe7-7ea4-4f56-ab10-e3d0947a3327",--TOOL_Ladder_Wood_6H_B
+"644b80a8-19a2-454c-a642-951a72907dfe",--TOOL_Ladder_Wood_6H_B_Destruct (Wooden Ladder)
+"2419b4a3-fce5-4cb2-9f44-9b2f034a082b",--TOOL_Ladder_Wood_7n5H_A
+"fb7c34f5-0649-47c2-81c0-312dcb739979",--TOOL_Ladder_Wood_7n5H_A_Destruct (Wooden Ladder)
+"ab813abb-dc42-4eb5-af75-45a382a02616",--TOOL_Ladder_Wood_7n5H_B
+"901fc99f-5405-44f2-8a72-0ce6214c320c",--TOOL_Ladder_Wood_7n5H_B_Destruct (Wooden Ladder)
+"2263d67e-7579-4978-bd52-79aedab691e6",--TOOL_Ladder_Wood_9H_A
+"f6578347-0631-4d5c-8fc5-b3e9cbb70a1a",--TOOL_Ladder_Wood_9H_A_Destruct (Wooden Ladder)
+"5756e03c-9c85-4c9d-b09e-dd729bb9ec5b",--TOOL_Ladder_Wood_9H_B
+"a0bea3d0-20dd-440b-acf3-6918f302c74f",--TOOL_Ladder_Wood_9H_B_Destruct (Wooden Ladder)
+"a7249edb-3444-4194-8f50-7189be6b46fc",--TOOL_MF_Resonance_Crystal_A (Resonance Stone)
+"dada4b23-18bd-43dc-bb36-2ac8c44ac561",--TOOL_MF_Resonance_Crystal_A_Destruct
+"a7edf7ca-1999-4d2c-b1bf-035d6e2b9e6e",--TOOL_MF_Resonance_Crystal_Legless_A (Resonance Stone)
+"b8a2487f-b870-4bfb-b436-fdc17af731ae",--TOOL_Masonry_Chisel_Kit_A (Weathered Chisel Set)
+"dd5c7204-df29-4bab-b012-9831f84b7fc7",--TOOL_Masonry_Hammer_A (Lump Hammer)
+"63400c5f-cc10-4009-8d8f-b01dbb47060a",--TOOL_Rope_A
+"a79a6a96-0ce7-4f17-b915-1c381dfa0edf",--TOOL_Smith_Anvil_A (Anvil)
+"84dc46a0-eb7e-43fb-b3cd-9200bd017a15",--TOOL_Smith_Anvil_B (Anvil)
+"93007451-a8db-462c-837c-8c6ca6143632",--TOOL_Smith_Anvil_Broken_CombatThrowable (Shattered Anvil)
+"2bb3ae90-316a-476c-8af3-507940aa7467",--TOOL_Smith_Anvil_CombatThrowable (Anvil)
+"45ecb2cc-3bcb-4a85-8d59-0a813d37997e",--TOOL_Smith_Whetstone_Wheel_A (Whetstone)
+"27162cbf-ab57-401b-a578-cd9f34209926",--TOOL_Smith_Whetstone_Wheel_B (Whetstone)
+"1b5ea20d-5bae-4311-930e-72650ef586e9",--TOOL_Tower_Bell_mechanism_A (Bell Mechanism)
+"0be6c453-8150-49df-b5ea-ba1eaea16fb7",--TOOL_Wand_Fireballs (Wand of Fireballs)
+"a5d93495-c01c-4dd4-928c-3793f620121f",--TWN_Poison_Paralytic_A (Karabasan's Poison)
+"0e92e1a8-2422-47e9-8d90-50807244189a",--Test_Helmet_Dragonborn_Limits (Test Helmet)
+"8e592329-ddb0-435d-b548-ebdf3d26f6c8",--UND_BLD_Worm_Wall_Hole_A_Interactable (Hole)
+"941dd668-253a-4966-8f02-03a4b89fddb2",--UND_BLD_Worm_Wall_Hole_B_Interactable (Hole)
+"069b4a98-5a0e-4ee9-95f7-29d37eebfb16",--UND_BLD_Worm_Wall_Hole_Big_A_Interactable (Hole)
+"eb4ee306-92ed-4171-983c-beb52b9a5855",--UND_BLD_Worm_Wall_Hole_Big_B_Interactable (Hole)
+"f1237064-035d-4e6f-8f67-ae12c5edf4c7",--UND_BLD_Worm_Wall_Hole_Big_C_Interactable (Hole)
+"e2e44a79-4342-409a-b1d7-61270023cefb",--UND_BLD_Worm_Wall_Hole_Small_A_Interactable (Hole)
+"c2358c3b-9d0e-477d-b9ee-14534b061794",--UND_BLD_Worm_Wall_Hole_Small_B_Interactable (Hole)
+"5ff88763-e8ca-4b32-84d0-1f94ef0951e0",--UND_BLD_Worm_Wall_Hole_Small_C_Interactable (Hole)
+"c6779a39-92de-402d-ba4a-b943ad9223d7",--UND_BLD_Worm_Wall_Hole_Small_D_Interactable (Hole)
+"cc311e88-9276-4e3e-adc4-f29d3ccbb1ee",--UND_Bibberbang (Bibberbang)
+"8d8bcfc9-ce4d-4fc1-9d9c-99412943d7aa",--UND_CaveInBooster_LegsContainer (Crushed Body)
+"d0342f97-8329-4d42-a55f-04b3648daa11",--UND_ClericStrengthChair (Stool of Hill Giant Strength)
+"9676d66b-9387-4325-820e-d99c3ae4ee5e",--UND_DEC_GEN_Statue_Selune_Flipped_A_Eyes (Eyes of Selûne)
+"85aedcb0-e2f4-443e-815f-16630d4c8cff",--UND_DEC_GEN_Statue_Selune_Flipped_A_Eyes_BlueGlow (Eyes of Selûne)
+"0c7d5be3-89cf-483f-b490-efc25bde9798",--UND_DEC_GEN_Statue_Selune_Flipped_A_Eyes_NoGlow (Eyes of Selûne)
+"827421ea-d85d-432a-ae14-8e64b29bac0b",--UND_DEC_GEN_Statue_Selune_Normal_A_Eyes (Eyes of Selûne)
+"3245bfb6-d1c0-437e-902a-873088bf2dd6",--UND_DEC_GEN_Statue_Selune_Normal_A_Eyes_BlueGlow (Eyes of Selûne)
+"fa671dce-4ca0-4708-a650-75f85f928c57",--UND_DEC_GEN_Statue_Selune_Normal_A_Eyes_NoGlow (Eyes of Selûne)
+"a47c13a1-1a8e-4b3b-9cd9-53cf9c7058f0",--UND_FairyRings_AntiCharmHelmet (Helmet of Autonomy)
+"046598e3-8cb4-497c-bfd2-866ff88b50db",--UND_MushroomHunter_RingOfExploration (Explorer's Ring)
+"1a4f004c-d050-49e7-b0d6-d76ad2d62510",--UND_NAT_Tree_Beech_F_Trunk_Hole (Burrow)
+"4aa70e55-f2e4-401c-a56f-49e58e679cac",--UND_StoneFigure (Statue)
+"768010ce-dcfe-43bb-8398-2d681d4fa6eb",--UND_StrengthChair_Leg (Club of Hill Giant Strength)
+"67914214-e45d-4181-97e6-1c22e406b031",--UND_SwordInStone (Phalar Aluve)
+"df040e30-b424-4a89-be1b-83ffd57eb5a1",--UNI_ARM_Boots_Metal_DevilsBlacksmith (Unwanted Masterwork Greaves)
+"1abd032b-c138-45ee-b85e-62b5bbb6ea2d",--UNI_ARM_DEN_Thieflings_Ring1 (Ring of Being Really Invisible)
+"4ca7ff5f-2c7b-407c-b754-b227d6e4fc31",--UNI_ARM_DEN_Thieflings_Ring2 (Ring of Resistance to Ants)
+"1f2df119-5ca2-4860-ba0c-ecbb9c140e37",--UNI_ARM_DEN_Thieflings_Ring3 (Ring of Infinite Wishes)
+"46e1228a-6682-4766-af76-bf5a42fe8611",--UNI_ARM_DEN_Thieflings_Ring4 (Ring of the Lekinesus)
+"eb4e9410-3d33-4986-a5c2-8642ca5bbfc4",--UNI_ARM_DEN_Thieflings_Ring5 ('Magic' Ring)
+"b337cd63-d206-4229-84fd-4b77809f7eb3",--UNI_ARM_Gloves_DevilsBlacksmith (Unwanted Masterwork Gauntlets)
+"5d3b434b-4448-47c3-8dc3-92e1ca946e29",--UNI_ARM_Gloves_Jaheira
+"ca434b15-c387-4557-810a-d11fcf773b15",--UNI_ARM_Gloves_OgrePower
+"c1cb7388-bd2f-4cc7-8305-7d7a0651874f",--UNI_ARM_MartyrAmulet (Amulet of Elemental Torment)
+"6d84b9e5-e9e4-477c-8d5b-a3f232a4415a",--UNI_ARM_OfArchery_Gloves (Gloves of Archery)
+"58315437-f06a-4797-a26a-6bbcff80c4fe",--UNI_ARM_OfDefense_Gloves (Bracers of Defence)
+"9481aa27-ce9c-414c-84ff-5e974fd64d89",--UNI_ARM_OfGiantHillStrength_Gloves (Gauntlets of Frost Giant Strength)
+"687cc55b-77a3-4893-a7d7-cfbafdc2737c",--UNI_ARM_OfMissileSnaring_Gloves (Gloves of Missile Snaring)
+"fef0dda1-1d06-45b5-a302-a31e545b8ede",--UNI_ARM_OfTeleportation_Helm (Helm of Arcane Gate)
+"935f9927-2df0-4a8d-a831-b7cb5bbbcae3",--UNI_ARM_Sarevok_Armor (Sarevok's Wretched Armour)
+"139b28dc-7db0-40b2-a383-3a4ce4c09812",--UNI_ARM_Sarevok_Horned_Helmet (Sarevok's Horned Helmet)
+"5ff8df3a-6924-4eb4-9d1a-9e87bd644bf7",--UNI_ARM_ScaleMail_DevilsBlacksmith (Unwanted Masterwork Scalemail)
+"25fea821-5ec1-4052-bd6c-60c249e72a79",--UNI_Apprentice_Antidote (Elixir of Silvanus)
+"397dbd19-efed-4507-85f9-66daebad5258",--UNI_Astarion_StarterArmor
+"cdb69de5-d603-49be-b4d1-ca0272adb2f6",--UNI_BLD_AdamantineForge_Crucible
+"a0a04f87-1868-44d0-be9a-1819e12905c4",--UNI_BLD_AdamantineForge_CrucibleFilled
+"f39150de-5512-4f13-8c6b-f310e38a893c",--UNI_BLD_AdamantineForge_Longsword
+"d67a171a-b605-44b9-8ac4-6189c89731d5",--UNI_BLD_AdamantineForge_Mace
+"8677c8eb-6b43-4e4f-971a-93c64f461033",--UNI_BLD_AdamantineForge_MoldHolder (Mould Chamber)
+"886b5401-754d-4a66-97e8-9cb571cb387b",--UNI_BLD_AdamantineForge_Scalemail
+"476c89a5-c182-44f1-9850-1481bbb42ce3",--UNI_BLD_AdamantineForge_Scimitar
+"6d8a020c-e518-4f1b-aa2f-5d78c1839273",--UNI_BLD_AdamantineForge_Shield
+"0fce209f-9217-4e28-8cb8-2d57a1a2db2f",--UNI_BLD_AdamantineForge_Splint
+"4433079e-9cd3-4d58-9611-f52be75052f5",--UNI_BLD_MF_MindArena_Platform_A (Platform)
+"6f70dceb-1370-4eee-b983-9e8269cd529b",--UNI_BLD_MF_MindArena_Platform_B (Platform)
+"27401ebe-5abd-4407-bff6-2c325ab85811",--UNI_BLD_MF_MindArena_Platform_C (Platform)
+"e50a3124-4233-48ec-97ba-54dd9621f2d3",--UNI_BLD_MF_MindArena_Platform_D (Platform)
+"643c6650-7680-4f2a-9011-2fc4150baf45",--UNI_BLD_MF_MindArena_Platform_E (Platform)
+"378f8cf9-26e1-49f9-bd91-5327646e2051",--UNI_BLD_MF_MindArena_Platform_F (Platform)
+"2e188f6e-7e0e-4aa6-ab72-d95e15d6b45a",--UNI_BLD_MF_MindArena_Platform_G (Platform)
+"8c3f9e99-dc6a-43f0-945a-43d2526e4064",--UNI_BLD_MF_MindArena_Platform_H (Platform)
+"432ab95d-e594-47b4-923f-9e15a9f4ccf3",--UNI_BOOK_DevilsFee_GrimoireSinglePage (Opening a Hell Gate)
+"f5e8b331-c495-4d3a-ab82-90f6b9a1f3d6",--UNI_BOOK_HAV_LastLightResistance (Halfred's Ledger.)
+"1cf7de46-086c-44a0-8a88-536ffa81e830",--UNI_BOOK_LOW_AuntieEthelsRevenge_AdventureBook (Adventures on the Sea of Fallen Stars)
+"d63694a2-69c3-443d-ba79-f332ea8e89fc",--UNI_BOOK_LOW_AuntieEthelsRevenge_Deed (Starborn Auction Receipt)
+"127f9061-d225-457b-b73a-38ebaddffc6a",--UNI_BOOK_LOW_AuntieEthelsRevenge_LorasMap (Treasured Map)
+"ee6af396-bd5b-45e9-b91e-968cc8295918",--UNI_BOOK_LOW_AuntieEthelsRevenge_NurseryRhymes (Night-Night, Pirate Ship)
+"b52bdc3a-b07a-44fe-a57f-e9d6dfec713b",--UNI_BOOK_LOW_BaldursGate_AccessOrders (Upper City Access Orders)
+"23fc188f-cce7-41df-a64c-3db3fb37a586",--UNI_BOOK_LOW_BasiliskGate_BattlefieldReport (Reports from the Battlefield)
+"f9afd678-3773-4d61-a645-eda741c49901",--UNI_BOOK_LOW_BasiliskGate_CitizenComplaints (Registry of Citizens' Complaints)
+"3ad0df7b-5d29-4655-b685-567e7f1dbf57",--UNI_BOOK_LOW_BasiliskGate_DevellasRequest (URGENT - Bhaalist Resurgence)
+"09ddf5b0-f8eb-45c2-ad59-a1bebb9f92ec",--UNI_BOOK_LOW_BasiliskGate_Disappearances (Urgent - Rapid Increase in Reported Disapperances)
+"33333b99-a3d2-4f28-8ca1-f489fe5b2c92",--UNI_BOOK_LOW_BasiliskGate_FlorrickSentence (Counsellor Florrick's Sentence)
+"79e449c6-eba2-498d-bfde-3c7228c53820",--UNI_BOOK_LOW_BasiliskGate_FoundryLocation (Steel Watcher Maintenance)
+"d9ecb5d7-bb47-41c0-976e-6ca0d7187f42",--UNI_BOOK_LOW_BasiliskGate_MurderInvestigations (Ongoing Murder Investigations)
+"0793bbed-520b-4914-8258-c0f8edacc674",--UNI_BOOK_LOW_BasiliskGate_RavengardOrders (Orders from Duke Ravengard)
+"706852f5-576a-4c50-a475-03e7ec5e5dbc",--UNI_BOOK_LOW_BasiliskGate_StoneLordReports (The Stone Lord: A New Threat)
+"4cc147e0-cb1c-45e8-958f-47c6834d4946",--UNI_BOOK_LOW_BasiliskGate_ThreatOfAbsolute (Writ: High Alert)
+"2887f89c-2b85-407f-85b0-1f0e5855bc1b",--UNI_BOOK_LOW_BonecloakApothecary_AilmentHelp (Got the Shivering Fantods)
+"3a4fb92b-b14a-4b71-aff6-388fae0949ec",--UNI_BOOK_LOW_BonecloakApothecary_Complaint (I Have a Serious Complaint!)
+"0d9697ec-fb88-472a-8558-a5be06066d02",--UNI_BOOK_LOW_BonecloakApothecary_DerrythLetter (To Glumbor from Derryth)
+"11cf7f6b-fc91-4993-88d5-f68b404527a0",--UNI_BOOK_LOW_BonecloakApothecary_Journal_BaelenDead (Derryth's Journal)
+"cee1fe69-bf00-4ddd-b3c2-642831172e9d",--UNI_BOOK_LOW_BonecloakApothecary_Journal_BaelenHealed (Derryth's Journal)
+"4ef75ca7-1f32-4cc7-a490-089aded03514",--UNI_BOOK_LOW_BonecloakApothecary_Journal_BaelenUnhealed (Derryth's Journal)
+"2ec5ceb8-eacd-4570-b935-ee0f250c6ddb",--UNI_BOOK_LOW_BonecloakApothecary_PlantsFaerun (Don't Sniff The Specimen)
+"85d16edb-f995-4b8e-823c-1f5cac8081b2",--UNI_BOOK_LOW_BonecloakApothecary_PlantsFeywilds (Don't Swallow The Specimen)
+"5b4f5863-9235-4677-b53c-e0d2568e3c70",--UNI_BOOK_LOW_BonecloakApothecary_PlantsUnderdark (Don't Prod The Specimen)
+"308ced2d-fbca-4947-b379-cb8c03c040e1",--UNI_BOOK_LOW_CountingHouse_BasementLedger (Shipments Registry)
+"11e2fa84-b1c8-4f82-b905-7cd20c13fdd1",--UNI_BOOK_LOW_CountingHouse_CounterLedger (Vault Pass Ledger)
+"a7d4442e-93a9-45f4-a349-83ed73c2673a",--UNI_BOOK_LOW_CountingHouse_FinanceNumbers (Detailed Ledger)
+"a47c492f-fd85-4c25-af46-f7e4fcbf7efe",--UNI_BOOK_LOW_CountingHouse_GamblingBook (Beating the House: Divination and Gambling)
+"90f0d480-8104-46d7-81e8-2f23d377f2b3",--UNI_BOOK_LOW_CountingHouse_GuildDebts (A PARDON)
+"89226194-a30a-4cee-a51e-c2440aacf330",--UNI_BOOK_LOW_CountingHouse_GuildNumbers (Counting House Accounts - Number 47)
+"c284c394-e73a-4e68-a01d-3aec67e71293",--UNI_BOOK_LOW_CountingHouse_LanguageBook (Basics of Beginner's Dwarvish)
+"8e7c71db-e39f-4086-a015-34468c897774",--UNI_BOOK_LOW_CountingHouse_MeadhoneyLetter (Instructions for Receipt of Chest)
+"d06ccb7c-e349-489f-b298-a057694ad7c8",--UNI_BOOK_LOW_CountingHouse_PatriarSponsors (Record of the Honoured)
+"d487a192-9346-4dc4-bdd7-26a118db25e5",--UNI_BOOK_LOW_CountingHouse_SewersHint_Note (Orders from J)
+"730d1d0b-c001-4a85-978b-6aa1f9b7d73f",--UNI_BOOK_LOW_CountingHouse_UnderhandedNote (Our Little Secret)
+"b080fe62-1389-43df-b3f8-7fde608d7d3c",--UNI_BOOK_LOW_CountingHouse_VaultHoldersList (Counting House Family Vault List)
+"b45868e5-18e0-42aa-b0ca-df6b28ff61ef",--UNI_BOOK_LOW_CountingHouse_VaultRules (Counting House Vault Rules)
+"6c622922-fd5b-452a-80b1-d567b5fcefa1",--UNI_BOOK_LOW_CountingHouse_VaultsLedger (Vault Visitor Log)
+"d7908626-8248-4cda-b7a0-d1a36551f94b",--UNI_BOOK_LOW_CountingHouse_VaultsPamphlet (Safe and Sound: a Guide to our Vaults)
+"0bd7ff5a-871c-4738-b9a5-14b842026eb2",--UNI_BOOK_LOW_CountingHouse_WaukeenLore1 (Waukeen's Guide to Commerce)
+"fd204b28-68cb-4d39-9578-1ee4db92bb1a",--UNI_BOOK_LOW_CountingHouse_WaukeenLore2 (Waukeen's Imprisonment)
+"c27aaee7-7014-4b5e-9ce2-5d6648591175",--UNI_BOOK_LOW_CountingHouse_WaukeenLore3 (After the Interdeium)
+"c2ddbd05-71dd-4bc9-8934-1297c8e32cf6",--UNI_BOOK_LOW_CurriculumStrategy (The Red Knight's Final Strategem)
+"af78fb06-9f2f-4da0-b65f-e06bcd502f7a",--UNI_BOOK_LOW_Dammon_InfernalArmsJournal (Dammon's Journal)
+"8f79740f-dc98-4ca5-a63c-0af22ab62a49",--UNI_BOOK_LOW_DevilsFee_BloodProcessing (The Enigmatic Art of Hemomancy)
+"caa0f367-2f31-43b6-9923-1442d2a35e2b",--UNI_BOOK_LOW_FireworksHouse_ExplosiveTemplates (Whipping up Booms)
+"4b566ec1-1d8d-48a2-bb66-f3f48b8d9cf7",--UNI_BOOK_LOW_FireworksHouse_FireworksRecipes (Boom, Bang, Blast: The joy of fireworks)
+"76a5673d-db19-4d20-9263-d82264c2785a",--UNI_BOOK_LOW_FireworksHouse_IronThroneExplosives (Installation Report)
+"bb8e2f0f-79f2-4450-aa88-a1467112b288",--UNI_BOOK_LOW_FireworksHouse_ProductionLedger (Ledger of Production: Explosives)
+"960378af-2689-42d3-9f82-c075eff02bb9",--UNI_BOOK_LOW_GortashHome_LettersBook (Scrapbook of Letters)
+"4373a78f-e768-4d43-92ab-62438569e34c",--UNI_BOOK_LOW_GortashHouse_UltimateState (The Ultimate State)
+"9038f8fb-5670-412c-aa34-98edd21931c6",--UNI_BOOK_LOW_Gortash_ShieldStewardInterrogation (Shield Steward Interrogation LogScroll or letter)
+"5655e70a-6150-4ea5-b7e1-03bdfd55b15a",--UNI_BOOK_LOW_HoH_SecurityBreachReport (Security Breach)
+"2766a645-74da-4abd-86f1-00432189b4d9",--UNI_BOOK_LOW_HouseOfHope_GuestList (Guest Book)
+"8eb14f02-ad67-49a0-86ed-b16bbb24d049",--UNI_BOOK_LOW_JewelryShop_JewelsBrochure (The Glitter Gala - Glittering Baldur's Gate for over Twenty Years)
+"a8043f0e-f39a-4979-b1c7-b0ceb0b490ea",--UNI_BOOK_LOW_JewelryShop_JewelsSellerBook (Stock Display: A Primer, by Sana Aeran)
+"0a118ee9-b4d4-4950-adcf-2712925bdee7",--UNI_BOOK_LOW_JewelryShop_MusicSellerLetter (I Miss You!)
+"7389b3c1-b876-487b-b8e8-0585734e8e34",--UNI_BOOK_LOW_JewelryShop_MusicSheet_BardDance (Music and Lyrics: 'Bard Dance')
+"602e4e17-4969-4260-bb96-ea14f17def7b",--UNI_BOOK_LOW_JewelryShop_MusicSheet_OfDivinityAndSin (Music and Lyrics: 'Of Divinity and Sin')
+"032e5784-040d-4879-9558-86499eca07d0",--UNI_BOOK_LOW_JewelryShop_MusicSheet_OldTimeBattles (Music and Lyrics: 'Old Time Battles')
+"181861a2-2696-43af-a0d9-3a7838fed6d3",--UNI_BOOK_LOW_JewelryShop_MusicSheet_QueenHihSeas (Music and Lyrics: 'The Queen's High Seas')
+"3e368974-1c74-49dc-a3fc-af944d599a5d",--UNI_BOOK_LOW_JewelryShop_MusicSheet_SingForMe (Music and Lyrics: 'Sing For Me')
+"53b32e10-99fd-49d7-8214-549a9976ba4b",--UNI_BOOK_LOW_JewelryShop_MusicSheet_ThePower (Music and Lyrics: 'The Power')
+"e0d64b31-07f4-4573-9cf7-b4acfb63338f",--UNI_BOOK_LOW_JewelryShop_PopularSongsSwordCoast (Sword Coast Songbook)
+"97b8a9e0-ef1f-470c-afb8-9ea64b34404c",--UNI_BOOK_LOW_JolsHouse_DaughterLetter (Letter from Sylai)
+"fb10d21a-ffdc-4af7-ae5b-23a8889fe5ce",--UNI_BOOK_LOW_JolsHouse_Mantras (Mantras and Meditations of the Sun Soul)
+"679c531a-ef16-423e-b808-2134df97528c",--UNI_BOOK_LOW_MirrorTrove_Poster_01 (Creased Missing Poster)
+"5c950fd9-7ebd-4aad-b9e2-57899a6327e4",--UNI_BOOK_LOW_MirrorTrove_Poster_02 (Faded Missing Poster)
+"1fc1fd22-31f2-4cde-9664-c71a3df7062e",--UNI_BOOK_LOW_MirrorTrove_Poster_03 (Damp Missing Poster)
+"9618910c-df56-424b-92f9-7f250642db53",--UNI_BOOK_LOW_MirrorTrove_Poster_04 (Curled Missing Poster)
+"e16e94f6-be06-4bdf-a7b9-691661b9ef8c",--UNI_BOOK_LOW_SerialKiller_DoppelgangerReports_Figaros (A Murderous Masterpiece)
+"0f5bc3eb-b91e-445c-b33b-be0bc32b3bde",--UNI_BOOK_LOW_SerialKiller_DoppelgangerReports_PlayerAssassin (An Unexpected Talent)
+"3e085a90-cf0a-4b8c-add6-b1625558ce1a",--UNI_BOOK_LOW_SerialKiller_DoppelgangerReports_WineFestival (A Promising Candidate)
+"b9170400-152f-4e12-a673-316b1fba10e2",--UNI_BOOK_LOW_SerialKiller_Highberrys_CoastWayRoutes (Merchant's Almanac: The Coast Way)
+"92460efe-6ad5-4665-9250-f0493a5f0786",--UNI_BOOK_LOW_SerialKiller_Highberrys_Letter1 (My Thanks, Cora)
+"31c986dd-0f75-4a15-8881-76822efb8b09",--UNI_BOOK_LOW_SerialKiller_Highberrys_Letter2 (Tear-stained Letter)
+"4911de84-7b94-4767-8a24-e0b6f232f0d0",--UNI_BOOK_LOW_SerialKiller_Highberrys_Prayerbook (Dusty Prayerbook)
+"0704ee73-4471-447e-b0b9-ddf4d117c953",--UNI_BOOK_LOW_SerialKiller_Highberrys_TradeWayRoutes (Merchant's Almanac: The Trade Way)
+"74dc0ae4-2f88-4579-97e9-229509d472fc",--UNI_BOOK_LOW_SerialKiller_Highberrys_WinesOfSwordCoast (A Modest Guide To Sword Coast Wine)
+"c56a5d58-ac72-43c8-bf7d-06355e3ec7f8",--UNI_BOOK_LOW_ShadyDealings (Stained Letter)
+"7b290606-909c-437b-991a-f2e125d271bb",--UNI_BOOK_LOW_SightOfTheSeelie (Caution Before the Seelie)
+"126adf20-9f9d-4b57-98eb-190ebae96fff",--UNI_BOOK_LOW_StormshoreTabernacle_TabernacleAdrielleHelpRequest (A Plea)
+"281c2850-8c24-44ae-ad4a-93b1bfcb903c",--UNI_BOOK_LOW_StormshoreTabernacle_TabernacleBhaalOffering (CONFIDENTIAL: REPORT RECORD)
+"6bf81178-ec84-41d8-9be1-0885590af7de",--UNI_BOOK_LOW_StormshoreTabernacle_TabernacleBlessingsRefugees (Blessings for the Refugees)
+"2eabd463-e5f3-41a2-ad6f-adffa400fa03",--UNI_BOOK_LOW_StormshoreTabernacle_TabernacleDeadThreeEssay (In-progress Essay)
+"22ff2ddd-cbf6-419c-b5cc-26a1a0fb229d",--UNI_BOOK_LOW_StormshoreTabernacle_TabernacleDonations (Charter of Tabernacle Donations)
+"b06b9c80-cf21-4783-ba60-c75efd5c9692",--UNI_BOOK_LOW_StormshoreTabernacle_TabernacleHauntedBlessings (The Layperson's Guide To Holy Exorcism)
+"e68bad7f-d035-471f-9edc-a9b75f4daf93",--UNI_BOOK_LOW_StormshoreTabernacle_TabernaclePrayersCollection (Dedications to the Pantheon)
+"3a9da8f2-3c13-4515-b753-6f0c659f0280",--UNI_BOOK_LOW_StormshoreTabernacle_TabernaclePrayersTempus (Prayer to Tempus)
+"c9792c72-d217-44e4-8a77-2c9c653ea24b",--UNI_BOOK_LOW_StormshoreTabernacle_TabernacleQuestinoingCitizen (Hear My Prayer. Please?)
+"af63faa5-c058-4a75-83a4-47cfb0ed39eb",--UNI_BOOK_LOW_StormshoreTabernacle_VicarPrayerDraft (Non-Demoninational Prayer of Peace)
+"5b79c81b-11a7-4ecf-b57b-7a1ce1e73b5b",--UNI_BOOK_LOW_StormshoreTaberncale_TabernacleAbsoluteThreat (Regarding Prayer Monitoring)
+"c10384cf-0151-4790-ba68-8dc8a07d553f",--UNI_BOOK_MOO_SwallowedIsobelsMotherLetter (Stained Letter)
+"f0f94de7-bbfd-472f-a83c-0d5311295872",--UNI_BOOK_SCL_EmeraldEnclaveEscapeRoutes (Get to Baldur's Gate)
+"130b4eb0-e432-4fce-9fd9-34fe8cb1a52d",--UNI_BOOK_SCL_Entrance_CultOrders (Orders)
+"4735acba-ab0f-4e75-b2ca-074a58b86b19",--UNI_BOOK_SCL_InquisitionLedger (Investigation Notes.)
+"852ee9d1-c9b8-4ddd-9e95-ac07a6e94b95",--UNI_BOOK_SCL_MastiffPoachers_LetterFromEmployer (The Task at Hand.)
+"6e9bfde4-1153-4b88-8376-9e0bc592d643",--UNI_BOOK_SCL_TrueSoulKorliss (Journal Log of True Soul Korliss)
+"065ce896-e8e0-4d00-beea-d15bbc9b0904",--UNI_BOOK_SHA_BalthazarsOrder1 (Orders from B)
+"b63e0bbd-4e23-4930-a79c-354d9a9978bf",--UNI_BOOK_SHA_BalthazarsOrder2 (Instructions from B)
+"0cf9ee12-fa16-4ef0-bb8f-6e984c0c53b0",--UNI_BOOK_SHA_FaithLeapTrial (Tome of Faith-leap Trial)
+"e6e91952-d96b-4b30-8a57-f62725f39308",--UNI_BOOK_SHA_SpearOfTheNight (The Final Sacrifice of the Moon Daughter)
+"a62996b4-c5ff-4423-9967-f1016b832f32",--UNI_BOOK_SHA_SpearOfTheNightHint (Sharran Initiate's Notes)
+"679e625f-e5f7-4547-9ec1-961ed8d3f1e5",--UNI_BOOK_TWN_MasonsLog (Mason's Log)
+"5e8253cd-2529-4566-8ff1-e03ae5c7e296",--UNI_BOOK_WYR_PopulismAndPropaganda (Populism and PropagandaStack of paper)
+"08c75e58-6e70-469a-a22e-44c184995e6c",--UNI_Bag_Blackpowder (Smokepowder Satchel)
+"2e3a2651-18ce-44b0-b7bd-3e2565bf666c",--UNI_Barbarian_Karlach
+"8ee5bdde-c22f-452f-add9-2d82ec3dc390",--UNI_Barbarian_Karlach_Gloves
+"20f935fc-c55b-4841-9f14-1bd71c4bf3c8",--UNI_Barbarian_Karlach_Shoes (Karlach's Boots)
+"6ba92e84-2a6d-4a28-80f6-48f0882b417a",--UNI_Book_DevilsFee_InfernalScroll (A Diabolist's Exhortation)
+"b4431865-5b66-4727-8eeb-23b54af2ba1e",--UNI_Book_MOO_CreationOfMarcusWings (A Little Gift)
+"216f0362-f77b-420c-84cb-d84853aa173d",--UNI_Boots_Daisy (Dreamsome Boots)
+"edcc4d57-ba17-4470-ad78-bc2b967b524c",--UNI_Boots_Jaheira (Jaheira's Boots)
+"db4a3e0f-6315-4337-abce-aad5f38513aa",--UNI_Bow_SpellslotRecharge (Spellthief)
+"ee20ef22-87f5-4ebc-864e-21c040022437",--UNI_CAMP_CircusStatuePedestal (Pedestal)
+"e89d55a7-9a68-445a-bac9-b4a02654f0c7",--UNI_CHA_TalismanOfJergal (The Amulet of Lost Voices)
+"4075b462-15a9-4f4d-b3af-843a6b9d1ae7",--UNI_COL_NecroLab_Candle (Ritual Candle)
+"dbc5b484-26d6-41f3-bd50-dc74b8f9cc9b",--UNI_COL_Us_Summon_Brain (Summon Us)
+"fd2fe1eb-af9e-4233-8cad-ccc47eec03dc",--UNI_CONS_Drink_Potion_ExplosiveBlood (Mysterious Potion)
+"de6b186e-839e-41d0-87af-a1a9d9327785",--UNI_CONS_Goodberry (Goodberry)
+"a81549e9-3abd-4d67-aad1-6a99c5ba07ad",--UNI_CONS_Potion_Immortality_A (Elixir of Immortality)
+"7090a500-c392-4566-a79f-0c9453323bc8",--UNI_CONS_Potion_Sleep_A (Potion of Sleep)
+"f73bb86b-6091-4b5e-b5d5-ccf730971fd9",--UNI_CONS_Potion_Sleep_A_Opened_A (Potion of Sleep)
+"7c95e3bd-90c8-4ed4-bd9d-97f5fb624774",--UNI_CONT_DEVIL_PuzzleBox_A (Mysterious Artefact)
+"4e00f7f9-7ee0-4eaa-be95-db3f0ad9427a",--UNI_CRA_Fisher_LoveLetter (Perfumed Letter)
+"24d15799-8781-4a18-98fc-a094ccb22341",--UNI_CRA_HarperScroll (Harper's Map)
+"3b05b86b-4282-4a92-ace7-e323c1fc1d1e",--UNI_CRE_DawnmasterCrest (Dawnmaster's Crest)
+"96a35552-0c05-4df0-9974-2a8f142e4be6",--UNI_CRE_HUM_Sun_Mace_BloodOfLathander (Blood of Lathander)
+"3462aa18-bb93-403c-b28d-9841c147787f",--UNI_CRE_HatcheryBoots (Varsh Ko'kuu's Boots)
+"c6555b5d-4d26-41ce-bcd6-d31ed7bed86b",--UNI_CRE_KethericOrders (Missive from Moonrise)
+"55f57f88-bed2-43bd-9f2d-4fd839b7b531",--UNI_CRE_MisCutSunCrystal (Imperfectly Cut Sun Gem)
+"a6bc05c1-5cca-4b54-b83f-0ed546b5e326",--UNI_CRE_RawSunCrystal (Raw Sun Crystal)
+"b80175d7-8faf-4bc0-a7c8-c122186d6f27",--UNI_CRE_RooftopLanceControlPanel (Control panel with a unique slot.)
+"30c5721d-bdc3-4150-8cd1-d99197eb4870",--UNI_Camp_Refugee_EternalDebtors (Debtor's Attire)
+"9f8a0a1c-b1f0-4f09-93eb-de364f1063f1",--UNI_Cazador_FeignDeathPotion (Mysterious Elixir)
+"c5375a2c-f03c-464b-a482-5251debbfabb",--UNI_Cazador_RitualDagger (Rhapsody)
+"b1e7bbad-db77-4790-af6b-f300b52498e7",--UNI_ClericPetCollar (Dog Collar)
+"d002844c-ea81-4208-92c2-fbcb7bad4f86",--UNI_Cloak_Daisy
+"b50eeee7-09dd-492c-8929-8dc216967a66",--UNI_CursedTree (Shadow-Cursed Tree)
+"7ffc896d-1916-4f9a-8cac-9ff5892e0227",--UNI_DEC_GEN_BoilingCauldron_Apprentice_Antidote (Bubbling Cauldron)
+"b9cb5ac8-8ba0-4568-898c-86feda9bf77e",--UNI_DEC_GEN_Crate_Stack_A (Wooden Crates)
+"0402786b-de54-4e4b-b551-1f2acb5f61a8",--UNI_DEC_GEN_Crate_Stack_B (Wooden Crates)
+"6ded8312-9f38-4c48-bb6e-2dc0d3ba6042",--UNI_DEC_GEN_Crate_Stack_C (Wooden Crates)
+"22df3f62-41c7-4aea-b356-57b7a10c63d8",--UNI_DEC_GEN_Mannequin_MindFlayer_Armor_A (Emperors Robes)
+"2cbb6a53-5702-42cb-afc3-ed5eb7882d2d",--UNI_DEC_TUT_Lab_Brain (Glutinous Brain)
+"be745c7b-f5a0-48cb-a7bd-3b7713f6e702",--UNI_DEN_Arabella_Locket (Komira's Locket)
+"0de9e072-7048-4d07-8bbe-79e0591674c2",--UNI_DEN_HalsinBlade (Sorrow)
+"eadad0c4-d4a5-45cb-b4c3-e16a9b3ebe0a",--UNI_DEN_HarpyMeal_NestRing (Ring of Colour Spray)
+"276f2902-308d-4efe-9144-226c73f3edaa",--UNI_DEN_KanonsHandkerchief (Kanon's Handkerchief)
+"b47a53a6-9533-4896-9d74-69aa0cff7c81",--UNI_DEN_PoisonousThorn_A_Unidentified (Poison Branch)
+"d22e2679-aff0-4244-9ed2-7aac981b82cf",--UNI_DEN_RaidingParty_GoblinCaptain_Gloves (Gloves of Power)
+"28b38ae1-8d66-4d8e-a4f0-5d4c6c342c59",--UNI_DEN_StaffOfRain (Rain Dancer)
+"db4d4560-dc72-4d64-b552-5caf442c0927",--UNI_DEN_TieflingLeader_HellridersPride (Hellrider's Pride)
+"d943c31f-a8c9-49b0-8eba-f120b5075a67",--UNI_DaisyDress (Elegant Robe)
+"bf4700bb-f1db-4586-8332-4e3e0c3e0fe0",--UNI_DaisyPlaysuit (Elegant Robe)
+"aa0917ea-5f66-4a22-97de-654228484128",--UNI_Daisy_Plate (Elegant Robe)
+"dd3f1c98-cdf7-46f3-bb8b-5489dc3433ca",--UNI_DarkJusticiarArmor_HalfPlate (Nightsinger's Half-Plate)
+"3523b640-e9da-4d89-b031-6ffe1d5fd3ed",--UNI_DarkJusticiar_Helmet (Dark Justiciar Helmet)
+"dff731f7-d6da-403d-80cf-7f3d9cc7345b",--UNI_DarkUrge_Bhaal_Cloak (The Deathstalker Mantle)
+"a96864dd-63b5-4851-accd-db3ad70c0f11",--UNI_DevilsFee_Horns_A (Monster's Horn)
+"339cc090-786f-4566-8ad7-75b7e3d5db2c",--UNI_DevilsFee_MonsterBones (Monster's Skull)
+"5feb233d-7992-4c6b-adba-b574daa271aa",--UNI_DevilsFee_MonsterSkull (Monster's Skull)
+"67a88e15-bccf-411c-941d-45f70685025f",--UNI_Devils_Needle_Levistus_A (This dagger, forged to honour the Frozen Prince of Stygia, sends a prickling shiver down the spine when grasped.)
+"86aab372-cd8a-47bb-8f5b-cc3486d01412",--UNI_DivineInterventionSupplies (Bestowed Bounty)
+"2f481fef-1877-4eac-820d-dc3210ff0b36",--UNI_DoomHammer (Doom Hammer)
+"259e206a-75d1-47a1-8996-811704c4743e",--UNI_Druid_Lockdown_Vine_A (Impenetrable Vines)
+"73121309-2863-434b-a565-aeaa649b6eaa",--UNI_END_DEC_Guard_Statue_Collapse_A (Statue)
+"11a1e00f-3c6c-49a9-acc8-7ec884aeb217",--UNI_END_DEC_Guard_Statue_Collapse_A_Destruct (Broken Barricade)
+"58226238-d68d-49e8-b55b-9d84574eeaa7",--UNI_END_DEC_Guard_Statue_Collapse_A_Destruct_No_Visual (Fallen Statue)
+"4b714a4c-cbf4-499a-92e2-ee8334bf55a3",--UNI_FOR_Bottomless_HermitBook1 (Bloody Journal)
+"0eb19717-e850-4fc5-a3fb-910d06ddd916",--UNI_FOR_Bottomless_HermitBook2 (Tattered Journal)
+"aa278c4f-d191-43a6-8699-73ffcfe68fb7",--UNI_FOR_Bottomless_HermitBook3 (Burnt Journal)
+"1227a1ce-c286-4e08-a117-93263dff6d22",--UNI_FOR_Bottomless_HermitBook4 (Web-Covered Journal)
+"f09b6c2f-e5f3-43df-82c7-9ed5862a7421",--UNI_FOR_DeathOfATrueSoul_TrueSoul_Ring (Absolute's Smite)
+"b269ae5b-54d7-4558-9d4a-c288aaaa6b79",--UNI_FOR_IncompleteMasterwork_Furnace
+"077573ae-45d0-4aeb-b6b1-a69e4b62d360",--UNI_FOR_IncompleteMasterwork_FurnaceWithBark
+"08712231-9c7c-4a83-8125-289a419e210f",--UNI_FOR_MasterworkPlans (Highcliff's Blueprints)
+"8f4876f1-44d9-4bb8-802e-907c6b0a0dba",--UNI_FOR_OgresForHire_HeadbandOfIntellect (Warped Headband of Intellect)
+"0db056b3-23d1-4873-883d-482b5d9337b5",--UNI_FOR_SpiderQueen_Robe (Poisoner's Robe)
+"d0666101-d24e-4d2b-bc63-63f67532b38c",--UNI_FOR_SpiderstepShoes (Spiderstep Boots)
+"79f752d4-1680-4eaa-acfa-1c92c9b9477b",--UNI_FOR_ThayanTome_Open (The Necromancy of Thay)
+"87918b9b-8551-476b-8544-68a2a3ce9e2e",--UNI_FOR_ThayanTome_Open_Unsocketed (The Necromancy of Thay)
+"215dc202-2b77-4825-b6d1-c72954f6394a",--UNI_FOR_ThayanTome_Socketed (The Necromancy of Thay)
+"feecea9b-c091-46fd-9795-738e9c0e3019",--UNI_FOR_ThayanTome_Unsocketed (The Necromancy of Thay)
+"baa8bd91-09ec-4c92-a0e1-4a5a9d4ea8ed",--UNI_FOR_WebStaff (Spiderstep Staff)
+"6d8706b9-b5b3-47e6-b928-229fb4cd3bcd",--UNI_FUR_GEN_House_Table_Rich_Medium_D (Table Rich)
+"aa9c5d5f-2818-4880-8be7-a71ed06f2a1a",--UNI_FUR_GEN_Wardrobe_B_Door_A (Wardrobe)
+"9aca1109-a59d-47d3-8f35-f248b70518f9",--UNI_GLO_Moonlantern (Moonlantern)
+"2c99f1f1-776b-45dd-a9d7-06e6a8e14b3f",--UNI_GLO_Moonlantern_Broken (Broken Moonlantern)
+"c9ebcfae-8c9a-4acc-8a30-da7830b32121",--UNI_GLO_Moonlantern_Gale (Shadow Lantern)
+"66079879-2c5c-492a-8fb6-bfbae79475e6",--UNI_GLO_Orin_TeleportRing (Orin's Temple Ring)
+"338848e7-b2c6-4f97-879b-cb3439b4f959",--UNI_GOB_DrowCommander_Amulet (Amulet of Misty Step)
+"0271f69c-ef7f-4246-9286-41036fd2e235",--UNI_GOB_DwarfsPoem (Dwarf's Poem)
+"95b04c9c-8b58-44c5-bf1f-7d4d1027d57e",--UNI_GOB_Priest_Amulet (Absolute's Talisman)
+"711d3410-e033-4cc1-b3e2-0e3b3abc9a85",--UNI_GOB_Scroll_GoblinDrawingBook (Goblin's Drawing)
+"e7bf966a-b611-4c36-89fe-0a3b28393d97",--UNI_GOB_SeluneAmulet (Amulet of Selûne's Chosen)
+"9410a467-3e49-4b14-b067-ea8ad6a0d431",--UNI_GaleRobe
+"5a0ee632-9145-48b2-9b92-97c32c2ccbd9",--UNI_Gloves_Daisy
+"ca7faba9-aafb-4a04-b838-17b5d4eadee6",--UNI_Gloves_Minsc
+"c6ec5f13-d54c-44ca-9387-3be692a9ae10",--UNI_Gloves_Of_Missile_Snaring
+"3d57c1a7-2dee-4a0f-aa7a-e7b6574b75e3",--UNI_Gob_Priest_Shield (Absolute's Warboard)
+"1771fba5-526e-4279-a679-1bd8a4002c12",--UNI_HAG_ShadowTree_Bark_A (Wooden Crevice)
+"0bf738cf-c0b7-471c-b66e-91578a6f657f",--UNI_HAG_SwampedHero_FancyOldGreatsword (Reinforced Greatsword)
+"910ed403-38b3-4128-b07b-0de5d14da8f8",--UNI_HAG_SwampedHero_OldFancyHelmet (Reinforced Helmet)
+"4e96bce7-827d-4a72-9532-2449a675bfeb",--UNI_HAG_Torch_A_Static_ForPersonalizedCamp (ls::TranslatedStringRepository::s_HandleUnknown)
+"b1b872db-43f0-45f7-b34f-d814ef9cb64c",--UNI_HAG_Wand_SummonHusband (Second Marriage)
+"78e4a3ef-eb0f-4beb-b95f-895ab4d38362",--UNI_HAG_Wand_SummonHusband_Incomplete (Bitter Divorce)
+"fa8ebc43-7fa6-4d8f-946c-59f45466b353",--UNI_HAV_Blackboard_NoWeaponsAllowed (Blackboard)
+"e3d5a6a7-56c2-4ffe-ae4b-4495351a36ae",--UNI_HAV_Siege_Portal_Small
+"062c6dd0-113d-4ca0-935c-bd937091a9eb",--UNI_HAV_Thiefling_ArrowOfSlaying (Arrow of Sparrow Slaying)
+"e14df0f7-0361-42ea-a0af-a4d4033f85e2",--UNI_HAV_Thiefling_CursedSpoon (Spoon of Saltiness)
+"ac49f3e0-d5d5-448c-b3cf-dd1ad9a96013",--UNI_HAV_Thiefling_DecanterOfEndlessWater (Decanter of Nearly Endless Water)
+"a366a1b3-2338-434a-9815-97243bb1821e",--UNI_HAV_Thiefling_FishingRod (Fishing Rod of Alertness)
+"60d14cc7-d47f-4e8d-a888-50619b80bf28",--UNI_HAV_Thiefling_SendingShell (Sending Shell)
+"66d6cbd5-c231-4fc4-a3b7-80f781b579f7",--UNI_HUM_ShadowBlade (Shadow Blade)
+"4668297e-7fc8-4384-af34-165813e9abe1",--UNI_HUM_Torch_A_Blue (Cemetery-Blue Torch)
+"6b4aca7f-69dd-484a-a663-5807f1efeeb1",--UNI_HUM_Torch_A_Cursed (Curse-Pink Torch)
+"fabf8b48-9c73-498a-a4ad-f9bf07024f19",--UNI_HUM_Torch_A_Green (Plague-Green Torch)
+"f7c72034-b7ed-459f-9f2f-3c42144271ef",--UNI_HUM_Torch_A_Purple (Drunk-Purple Torch)
+"f893a2a4-6b64-40c2-8130-26bd362e230f",--UNI_HUM_Torch_A_True (Sepulchre-White Torch)
+"987b5a8d-1300-4f32-9e01-c07313b17a11",--UNI_HagVoodooDoll (Voodoo Doll)
+"eb99ce71-8ef2-4ff6-a94a-a7b9cff3d45b",--UNI_Halsin_Gloves
+"3d8889c6-936b-4009-955c-d1f3aef46df5",--UNI_HeroesFeast (Feast Supplies)
+"fffed42d-f849-47ad-9931-3f7fe72e364c",--UNI_Horn_Ogres (Lump's War Horn)
+"1f4f4587-ed01-4a11-ad5c-f9e98e0e7492",--UNI_Horn_Ogres_CineTemplate (Lump's War Horn)
+"7410c28f-6e12-4122-9c7b-b14139f8b498",--UNI_InteractableEasel
+"94988aa9-03e9-491a-9861-462ebc758364",--UNI_KEY_DevilsFee_LetterBoxKey (Gold Key)
+"21dbfaab-6274-46b1-bdf9-203c3d6ac984",--UNI_KEY_HouseOfHope_ArchiveDisplayCase (A key that unlocks the display case in the House of Hope Archive.)
+"9a4382e3-6b8d-40b9-b92b-824f9c4ea9ca",--UNI_KEY_LOW_HoH_Desk1 (Rosewood Desk Key)
+"59578cc3-b49f-4355-a860-d86225e95d5d",--UNI_KEY_LOW_HoH_WestWing (House of Hope - West Wing Key)
+"1a00cf0b-e8ea-467f-b122-0bea5f0c3ff2",--UNI_KEY_LOW_SteelwatchFoundry_MetalCrate (Metal Crate Key)
+"4feea24d-ebe3-4140-8944-624dedf2a01c",--UNI_KEY_SHA_BarracksBackdoor (Key)
+"d7fdb70e-75b3-487a-8ece-3e7d4b3a8370",--UNI_KEY_TWN_MorgueLab (Necrotic Laboratory Spare Key)
+"d6622a6a-47a5-4fd3-8dc1-4fae24099ecb",--UNI_KEY_TWN_TollhouseClerk (Tollhouse Clerk's Key)
+"86a4cad6-2ffc-4b4b-a89c-42ba22590f77",--UNI_Ketheric_Cloak
+"348649e0-e74c-4968-9613-fe3712796dd6",--UNI_LOOT_AdamantineForge_LongswordMold (Longsword Mould)
+"a1cd6c84-84bc-4546-b052-a58e38faf4a5",--UNI_LOOT_AdamantineForge_MaceMold (Mace Mould)
+"e0dd88fa-b057-499a-b2fd-fe8e92a856df",--UNI_LOOT_AdamantineForge_ScalemailMold (Scale Mail Mould)
+"fecf2955-a5a2-42e5-86f3-4bf87b3d0e2a",--UNI_LOOT_AdamantineForge_ScimitarMold (Scimitar Mould)
+"8e2c856e-6317-40f3-89a4-b195b70b9fa1",--UNI_LOOT_AdamantineForge_ShieldMold (Shield Mould)
+"e3526b0a-b74f-43c5-9466-334c08de88fe",--UNI_LOOT_AdamantineForge_SplintMold (Splint Mould)
+"c8fa7c2f-d34a-4b42-a4fa-c2476fab6c92",--UNI_LOOT_Darkurge_Gale_Severed_Hand (Gale's Severed Hand)
+"86b7cbe1-c6b9-48d8-b53e-c750c031d7ae",--UNI_LOOT_GEN_Bloody_Eyepatch_A (Mol's Eyepatch)
+"3aa5fdba-f1a5-40ce-aadb-7a22d273a649",--UNI_LOW_BaldursMouth_ArticleBlock (Article Block)
+"897914a5-b482-4fce-9cda-1ab5a4fbc88d",--UNI_LOW_BaldursMouth_BlockMaker
+"5ffe11b1-4949-47cd-ab49-80053db261f9",--UNI_LOW_BaldursMouth_DailyPaper (Baldur's Mouth Gazette)
+"bd2b33f4-c7ea-4c39-a151-8b9bb2a7ea1e",--UNI_LOW_BaldursMouth_FinishedBlock (Pressed Print Block)
+"989c36c4-490a-46ea-9791-14c3da8707cb",--UNI_LOW_BaldursMouth_MasterBlock (A blank master print block.)
+"ae4af670-5674-4fed-bbf9-4083f06519b0",--UNI_LOW_Boots_DimensionalDoor (Spaceshunt Boots)
+"31ee026d-5d51-4efb-97ba-7992b642efbc",--UNI_LOW_CountingHouse_AlarmTrigger (Alarm Machine)
+"0cccc96d-ad0e-4329-8079-c0c9a35ced59",--UNI_LOW_DevilsFee_InfernalMarble (Infernal Marble)
+"7dc0d241-f391-4714-a996-1400bc9b0200",--UNI_LOW_DevilsFee_TrapWardHead (Thirsty Ward)
+"ff95f7c4-8366-418d-aee4-dbbab06273ec",--UNI_LOW_DevilsFee_TrapWardHead_Disarmed (Ward)
+"d49d9c13-4c1c-42eb-8a90-0dd70a381ba1",--UNI_LOW_Elfsong_KoTS_SewersKey (Silver Key)
+"be7ef1cc-3be9-4e1c-8e0f-0fb7dc091352",--UNI_LOW_Flour_Sack (Flour Sack)
+"46b1d5d4-34e0-467e-b1b8-a43ae33f7541",--UNI_LOW_GuildRing (Guild Ring)
+"79304aa1-be73-48bb-8255-81338d8f4939",--UNI_LOW_HOH_RestorationPondDevice (Restoration Faucet)
+"c41ae0f5-7936-49de-8739-b33399b92e20",--UNI_LOW_HighberrysHouse_BasementChest02_Key (Silver Key)
+"5c64e2f7-ad13-465c-9fb9-e994fc8d0af4",--UNI_LOW_HouseOfHope_BoudoirKey (Boudoir Invitation)
+"25fd19c7-26d9-4e85-ac3e-dc8987af7be9",--UNI_LOW_HouseOfHope_BoudoirKeybox (Invitation Box)
+"64f0c416-3959-48cd-9b88-1aa07d423a32",--UNI_LOW_HouseOfHope_RichClock (Rich Clock)
+"0389d068-177e-4a7f-8ce7-39b0ed44aaad",--UNI_LOW_HouseOfHope_Telescope
+"443a4b1a-92d4-4a62-816e-d7437eee0a0e",--UNI_LOW_Key_DevilsFeeCellarChest (Silver Key)
+"21727b7b-1ed0-40e8-a329-1daa1cec511a",--UNI_LOW_Key_DiabolicForge (The Forge Key)
+"d4d4c5a2-84e2-4b8f-bbf1-d6ce72316cc5",--UNI_LOW_Key_DiabolicForge_CellarDoor (Basement Key)
+"b5d480b0-a0f2-4b69-a9a6-f4bbf7f7279f",--UNI_LOW_MurderTribunal_TombstoneShopKey (Tombstone Shop Key)
+"4677925e-fb7e-4534-bfd4-48638857cd4c",--UNI_LOW_MurderTribunal_TombstoneShopPainting
+"e7968b1c-d109-4a4f-b296-d90dd3662a9d",--UNI_LOW_NightsongPamphlet (FOR THE STOUT AND STURDY)
+"948b5555-1ebd-455b-ab22-781111cd9d0b",--UNI_LOW_SharGrotto_WyvernWhiskey (Wyvern Whiskey)
+"b627f83f-8533-4440-95a0-ad2f319fe4ed",--UNI_LOW_SorcerousSundries_BestialCommunionScroll (Scroll of Bestial Communion)
+"21e67b0e-913d-411a-9046-6c54e8d0bf53",--UNI_LOW_SorcerousSundries_CurriculumOfStrategyScroll (Scroll of Artistry of War)
+"b2e1168a-021d-4a81-a041-6d2e1421a1fb",--UNI_LOW_SorcerousSundries_DethroneScroll (Scroll of Dethrone)
+"c0320880-b942-49a2-9f30-ca5893c5c1ce",--UNI_LOW_SteelWatchFoundry_WatcherHarpoonCrossbowDiagram
+"7d613f5e-f800-4cf6-b596-9d5b6563754f",--UNI_LOW_SteelWatchFoundry_Workbench
+"846d27b5-c247-4049-9872-86171c172015",--UNI_LOW_SzarrRing (Szarr Family Ring)
+"4ece815c-aff2-45c3-8b07-dd3a04454243",--UNI_LOW_TargetList (Bloodstained Parchment)
+"88be0257-cd9a-4922-85c9-178ad8579af2",--UNI_LOW_TorchOfRevocation (Torch of Revocation)
+"e88dd9ea-1b8b-4edc-9fee-3c7ec286ba60",--UNI_LOW_TorchOfTrueRevocation (Torch of True Revocation)
+"09e375ca-21cb-4c29-9c0a-2346f00fb2f2",--UNI_LTS_Moonbeam_01 (Moonbeam)
+"26b77cf7-8722-4e61-a820-555de653e8ab",--UNI_Leather_Halsin
+"f91623dd-7dcd-4d05-b353-6a15f5caa921",--UNI_Leather_Jaheira
+"be29b42a-e3ab-4a41-b4c2-7443cf65162f",--UNI_Leather_Minsc
+"ac578c5e-d568-4a42-b419-216e0587da6e",--UNI_MOO_Key_WardenTest (Key)
+"8baa6d5d-ad19-4328-a1ca-2074c7b7732e",--UNI_MOO_MasterKey (Moonrise Guard Key)
+"0998e761-af33-4077-8449-85a049959b0e",--UNI_MOO_Selune_Brooch_A (Selûnite Brooch)
+"1bcab543-e87b-4a34-8324-886131a0dc43",--UNI_MOO_SendingStone_Beacon_A (Teleportation Beacon)
+"fedc0837-e39f-480e-89fd-b9e2ee354ab0",--UNI_MOO_SendingStone_Beacon_B (Teleportation Beacon)
+"ec715e1b-9b94-4a4f-a4a6-e8c4afcde176",--UNI_MOO_SendingStone_Beacon_C (Teleportation Beacon)
+"2adf497b-2e26-47d6-962c-91ded0c79aea",--UNI_MOO_SendingStone_Stone_A (Sending Stone)
+"35308cf1-3480-4a22-be9c-c0f41c3eb14c",--UNI_Magicstaff_A_Part_Crystal_A (Icy Crystal)
+"44bb4707-398c-4a38-9959-eb3052ebabc2",--UNI_Magicstaff_A_Part_Helve_A (Icy Helve)
+"db32d957-c708-4694-a863-271e6a9a4676",--UNI_Magicstaff_A_Part_Top_A (Icy Metal)
+"4aef9bb0-38a8-428e-8b87-6e462d612dd6",--UNI_MassHealRing (The Whispering Promise)
+"0bd70497-f7b4-4ea0-8be0-21a0c66f0576",--UNI_Minsc_Cloak (Minsc Cape)
+"f707a269-04e0-4d28-ae39-0565a78adbee",--UNI_NarrativeLoot_BloodBottle (Vial of Blood)
+"7dbbded9-04fa-4b70-8b5a-131beedc1479",--UNI_NarrativeRoot_SilverDagger (Polished Dagger)
+"ac9145d1-31d0-4aa3-8755-62cc85dad22b",--UNI_NightWalkers (Disintegrating Night Walkers)
+"20963422-5c20-4d10-9227-584adcc7e41a",--UNI_ORI_Gale_DeathPouch (Gale's Pouch)
+"7ee02bb4-79a0-41d5-9f0a-7feae2e6561a",--UNI_ORI_Gale_DeathPouch_Open (Gale's Pouch)
+"82cca611-a421-4a85-93ad-a73a1de92497",--UNI_OUT_Books_GreenCard_A (Green Card)
+"f9d31ece-1702-4ee8-a166-05365bb32ce4",--UNI_OUT_EntryCard (Entry Card)
+"520666df-5f1b-4fd9-983e-c0753f224855",--UNI_Orpheus_Infernal_Mask (Infernal Mask)
+"35c0a291-fe35-4a3e-94d5-adbf31b269d4",--UNI_Orpheus_Infernal_Shackles
+"8a527abd-a2ff-4267-a067-d26bdf6742ee",--UNI_PLA_ConflictedFlind_Flail_Broken (Shattered Flail)
+"704653bc-b65c-4178-a7c1-d55e7fe880ce",--UNI_PLA_DoubtingArtist_OskarFevras_Portrait_A (Painting of an Oskar Fevras)
+"ffb6d084-0900-4f58-ae39-f0360f7488d1",--UNI_PLA_DoubtingArtist_Portrait_A (Painting of a Smiling Maiden)
+"8a407bd7-effe-4306-b2a0-02624ad45074",--UNI_PLA_DoubtingArtist_Portrait_B (Painting of an Elegant Noble)
+"1b2b1b04-646a-492e-8c6e-8f11a4004ebd",--UNI_PLA_GithChokepointBridge_DestructionHelper (Collapsed Bridge)
+"784843e5-e89a-4ffb-a556-417ba2018287",--UNI_PLA_KarlachHead (Severed Head)
+"1b47637d-fdea-431f-a828-7ff8d9b4341e",--UNI_PLA_SmugglersRing (Smuggler's Ring)
+"4090ca27-dcca-4028-a887-173e87b602da",--UNI_PLA_StuckHalfElf_Dowry (Dowry Ring)
+"455383a5-1211-4500-85f9-b71fad3fbf15",--UNI_PLA_WPN_SwordOfJustice (Sword of Justice)
+"69271c04-ab3d-4efc-ab3c-4ca6c5ec7db3",--UNI_PLA_ZhentCave_Gloves (Gloves of Hail of Thorns)
+"f014efe0-b010-408e-b3b5-a17ace100d82",--UNI_PLA_ZhentDungeon_ProximityExplosive (Proximity Explosive)
+"253d6840-52ef-47e5-9d90-d1284a11f8a3",--UNI_PUZ_GEN_CONST_Trap_Mine_C (Blast Mine)
+"869540cf-e598-47ca-9768-8c03af7d67f6",--UNI_PUZ_GEN_Trap_Mine_C (Blast Mine)
+"5a4acd64-d766-4f85-81fb-38b5211b5cfa",--UNI_PUZ_LOW_DevilsFee_DiabolistGlyph (Explosive Glyph)
+"ab848f5a-69dc-4d05-9b54-2575d68fe05b",--UNI_PUZ_LOW_HouseOfHope_ExplosiveTeddyBear (Explosive Toy)
+"e7ce40d6-1c00-4a41-91ca-e06617c5e894",--UNI_Pet_Collar
+"e2b52df4-c8f0-4c65-88c7-24339458a291",--UNI_PhilgravesMansion_CanopicJar_Brain (Canopic Jar)
+"377620bf-b923-4311-a219-d28e4eb7afaa",--UNI_PhilgravesMansion_CanopicJar_Heart (Canopic Jar)
+"32119033-c810-45d1-8507-210f92a24053",--UNI_PhilgravesMansion_CanopicJar_Liver (Canopic Jar)
+"e9e3ec79-f1af-4e06-9811-4aafeeead3f0",--UNI_PhilgravesMansion_CanopicJar_Lungs (Canopic Jar)
+"1eac2760-47ef-4a7b-a12c-84d148b499cb",--UNI_PhilgravesMansion_Canopic_Jar_Destruct (Broken Jar)
+"6db9ed3d-2d72-43ad-a2b8-02365728f29f",--UNI_Poison_Brewer (Thisobald's Brewed-Up Bellyglummer)
+"1cb6c2f9-0548-4e7a-8bd3-853ce02f8bf5",--UNI_Potion_MephitLiquid (Mephit Liquid)
+"5c6904cc-5bb0-4ed9-a97c-b2df9aa2a9b6",--UNI_Quest_ShadowStone (Shadow Vestige)
+"637f2b2f-9947-406e-b942-8b3b884172c0",--UNI_Ravengard_Plate (Emblazoned Plate of the Marshal)
+"48b4f49b-2937-4664-ac87-7db2c64d09c9",--UNI_RepeatStaff (Corellon's Grace)
+"35688051-90df-40e1-890b-c3cde2c82fde",--UNI_RingOfPoisonResistance (Ring of Poison Resistance)
+"ffed890a-69fe-4798-8c71-1bd3b72369bc",--UNI_RobeOfSummer (Robe of Summer)
+"64b31781-85f6-4266-8fac-430d79bcbdb4",--UNI_SCE_KhalidsGift (Khalid's Gift)
+"717a063b-9517-438e-8804-865ee259f320",--UNI_SCL_Debris (Rubble)
+"9297096d-98d6-4637-9b7c-843af752505e",--UNI_SCL_MastiffPoachers_MagicRing (Shadow-Cloaked Ring)
+"04838ed0-5989-4dc3-a9f8-f76402371a8f",--UNI_SCL_MoonlanternWithPixie
+"2228a6ab-4c34-46be-8bc9-e7c6b76e3c5b",--UNI_SCL_OliverFight_Nightdome (Nightdome)
+"10d32d82-4b92-407e-86c9-4e4ba0ed4ff2",--UNI_SCL_PixieBell (Filigreed Feywild Bell)
+"98282bec-aeaa-4490-ae43-0c27bed58c74",--UNI_SCL_SpidersLyre (Spider's Lyre)
+"972ad5f3-4b26-4af9-b136-66f328c3c107",--UNI_SHA_Cleric_FallingRubble (Rubble)
+"3607fc46-8e4a-427d-95f1-a0a25c6f3e2b",--UNI_SHA_Cleric_FallingRubbleTarget (Falling Rubble)
+"e33850ba-f697-40f5-abec-2951077f2cef",--UNI_SHA_DarkJusticiar_Boots (Dark Justiciar Boots)
+"7086b9cd-3599-4856-acc9-6027a46d54f4",--UNI_SHA_InnerForceRing
+"f8a25225-667f-48cf-853a-76a791a460b9",--UNI_SHA_InvisiblePlatform (Cube 1x1x1)
+"73a443e0-2056-4e4c-b8d2-d4283d8d3595",--UNI_SHA_JusticiarArmor_Gloves (Dark Justiciar Gauntlets)
+"44f8f5c2-4e42-48ee-9eb7-9c1773a7d769",--UNI_SHA_Key_HQ_Chest (Silver Key)
+"a0015c13-7ed5-4847-93cb-c8e7008575c7",--UNI_SHA_OuterForceRing
+"bf2949fe-6739-4149-ac68-106a00eec905",--UNI_SHA_SandthiefsRing (Sandthief's Ring)
+"742d43ff-b74d-4cbe-9554-51773bbccdc2",--UNI_SHA_Shadowheart_JusticiarArmor_HalfPlate (Dark Justiciar Half-Plate)
+"91fcac28-d688-4961-ad40-4b7814aff604",--UNI_SHA_SpiderMeatHunk (Spider Meat)
+"274b6c3c-cf13-46b9-ba51-7b9e01f05676",--UNI_SHA_SummonGolemBell (Summon Golem Bell)
+"47fb4e7f-34e1-480e-8acf-f677a31f260c",--UNI_SHA_TeleportationStone (Teleportation Stone)
+"31ee023c-d151-40f6-917e-84066772783b",--UNI_S_DebugBook (DEBUG BOOK)
+"437aede9-dea6-46fd-ade2-fc9cfef16c3d",--UNI_ShadowheartCirclet
+"a07f2e91-e084-4fe5-9dbb-ef7de76a3c0a",--UNI_SickleOfBOOOAL (Sickle of BOOOAL)
+"cb8405e3-704c-43d2-9bbe-89959b4f085e",--UNI_SickleOfBOOOAL_Inert (Sickle of BOOOAL)
+"4474843a-b4bb-4075-8456-3a3f8215fccc",--UNI_TOOL_Camp_Bedroll_Closed_A_DONOTUSE
+"ad1f91df-63ae-4f45-b940-aae444116a8c",--UNI_TOOL_Camp_Bedroll_Open_A_DONOTUSE (Take a Long Rest)
+"59f6996f-b95d-43d1-9ebc-8de6930e9256",--UNI_TOOL_Camp_Bedroll_Open_B_DONOTUSE (Take a Long Rest)
+"e9c4f029-28e6-4626-8d3d-c62da17d862a",--UNI_TOOL_Camp_Bedroll_Open_C_DONOTUSE (Take a Long Rest)
+"ea6e19be-3283-4092-b4fe-5350225a2bad",--UNI_TOOL_Camp_Bedroll_Open_D_DONOTUSE (Take a Long Rest)
+"89ee9a0f-0571-46ce-9541-b5141a08188a",--UNI_TOOL_Camp_Bedroll_Open_E_DONOTUSE (Take a Long Rest)
+"97d58d1d-2eee-4cd2-bbee-a2194624a175",--UNI_TOOL_Camp_Bedroll_Open_F_DONOTUSE (Take a Long Rest)
+"a1fc935a-2502-4ad1-b1c4-f23334934c07",--UNI_TOOL_Camp_Bedroll_Open_G_DONOTUSE (Take a Long Rest)
+"5c1f646e-18ad-4741-a67e-8a8bc30480b8",--UNI_TOOL_Camp_Bedroll_Open_H_DONOTUSE (Take a Long Rest)
+"ab846656-a9f7-4ed5-93ae-85a8df39b5ac",--UNI_TOOL_Music_Drum_KiamGodasKilatDrum (Kiam Goda's Kilat Drum)
+"09de8b63-12ad-43d5-a2cf-b9b32692e777",--UNI_TOOL_Music_Flute_DostrealtsPiccolo (Dostrealt's Piccolo)
+"59a1ed6f-b530-44b2-972e-2a73e02080cb",--UNI_TOOL_Music_Guitar_Lute_StolyarofsTableLute (Stolyarof's Table Lute)
+"3542b820-713a-4dd3-9cc8-35586f4e7f46",--UNI_TOOL_Music_Lyre_FalataericCliLyre (Falataeric Cli Lyre)
+"209c50b2-1e39-4484-905d-588741eba320",--UNI_TOOL_Music_Violin_GlimmergadSelgauntFiddle (Glimmergad's Selgaunt Fiddle)
+"7fe2b8bb-473a-4a1b-96a6-840a629c2444",--UNI_TOOL_Wand_Fireballs_Crooked (Crooked Wand of Fireballs)
+"b3720630-15ba-4384-87c6-56392097e02c",--UNI_TOOL_Wand_Fireballs_Snapped (Broken Wand of Fireballs)
+"7becedf0-a90a-40d3-a726-e4e671f3d73f",--UNI_TWN_BondedByLove_HusbandsRing (True Love's Embrace)
+"bf59a1e5-e3d1-48f1-9970-4aa3fdcaa780",--UNI_TWN_BondedByLove_WifesRing (True Love's Caress)
+"8838eb53-ed3d-4d64-9fe7-a82ab7249c18",--UNI_TWN_BootsOfApparentDeath (Boots of Apparent Death)
+"afb45f49-67f3-4930-80d3-afaa97cafb34",--UNI_TWN_CONS_GEN_Food_Cheese_Blue_Wheel_A_Rotten (Rotten Cheese Wheel)
+"5cf0bffd-6d1d-4955-bced-97c5cbf2883c",--UNI_TWN_CONT_Thay_Crate_Wood_A_DEPRECATED_DONT_USE (Wooden Crate)
+"a0e27395-883a-4fd3-b5b8-5cee1892bc08",--UNI_TWN_DEC_GEN_Plaque_Bronze_A (Plaque)
+"44ef607a-0da5-4ab3-a1ef-055ca509b4c8",--UNI_TWN_Distillery_DistilleryMachine (Distillery Machine)
+"995350b8-1f00-407f-bece-a8452945da66",--UNI_TWN_Distillery_PurpleWormGlands_DO_NOT_USE (Purple Worm Glands)
+"be9a70dd-8bbd-4c1f-9459-6197056c708b",--UNI_TWN_Hospital_Bloodbank_Transfusion_Bottle_A (Bloodbank Bottle)
+"beb3f8a3-bb27-4054-99a2-500126fc7e5d",--UNI_TWN_Hospital_Bloodbank_Transfusion_Bottle_B (Jar of Coagulated Blood)
+"95ba617e-6d3f-4a1b-a726-ebf8039cc8bf",--UNI_TWN_MissingCatPet (Missing Cat Poster)
+"9c475429-a847-49e4-b1dd-f27137f80b76",--UNI_TWN_MissingDogPet (Missing Dog Poster)
+"a0e95c42-150d-4158-90c2-59992dea3b2b",--UNI_TWN_Morgue_SurgeonsInstructions (Notice)
+"9c10ac72-da07-4aca-a2ce-3d04d1ce3485",--UNI_TWN_NecklaceOfCharming (Shar's Temptation)
+"7773610f-f246-4837-a75f-2d260f815718",--UNI_TWN_SharDagger (Shar's Sting)
+"f2c940ba-3049-49d2-bb90-af9f4830057c",--UNI_TWN_TollhousePass_Signed (Signed Trade Visa)
+"2fd443cd-f7e8-4097-945e-2a569bde6c6b",--UNI_TWN_TollhousePass_Unsigned (Unsigned Trade Visa)
+"7ee0b513-403b-4fe3-a445-b599defa9331",--UNI_TWN_WPN_HUM_NailBat (Rat Bat)
+"cb2b1ac8-5589-464f-ac9f-ccd6fd27ebed",--UNI_TWN_WPN_HUM_ShieldOfWatcher_D_1 (Watcher's Shield)
+"3c14116f-43da-4e73-92d1-903f46a9d55d",--UNI_TWN_WPN_HUM_ShortswordOfStealth_A_1 (Assassin's Shortsword)
+"3f12408f-22b1-4a02-bd8c-e513c3407ccf",--UNI_TWN_WaningMoonSign (The Waning Moon)
+"1ec327be-3b7f-4502-9586-860e057e09ae",--UNI_TadpolePowerJar
+"d1f2b294-fdf8-43df-8d11-19743077cb68",--UNI_TadpolePowerJar_Absolute (Gift from the Absolute)
+"1c725b47-184b-4906-a891-c67a7dbc57c2",--UNI_TadpolePowerJar_Broken (Broken Parasite Jar)
+"11600b5b-999b-4444-b9a1-f3aa110c7604",--UNI_Throwable_Grenade_MerregonPotion (Merregon Potion)
+"7986467d-60e6-4aef-89c7-12ce95828695",--UNI_Tree_Dead_Small_A (Tree)
+"d46206c9-fb4f-44a4-a4f4-f70f8cd2a64c",--UNI_UND_ARM_ShadowOfMenzoberranzan (Shadow of Menzoberranzan)
+"baa49153-718e-4dc4-b039-4d2a90fb7f14",--UNI_UND_BottleWithMessage_Corked (Message in a Bottle)
+"cade1d3e-ee29-40b9-ba85-bc1f0b43e1e0",--UNI_UND_BottleWithMessage_Opened (Grubby Bottle)
+"85f6aec3-a6df-458c-8ef4-b3fa58d85a56",--UNI_UND_DrowDisguiseCowl (Frayed Drow Hood)
+"733a70a1-2e0f-46f4-aca1-037c0335dc72",--UNI_UND_DuergarBlacksmithHammer (Skybreaker)
+"4d1f9bce-1884-47d0-a420-69417f397139",--UNI_UND_DuergarRaft_GruesomeHammer (Intransigent Warhammer)
+"6e05319b-d8c4-4dbc-b0f4-cea561810fa6",--UNI_UND_DuergarRaft_PestKillerAxe (Exterminator's Axe)
+"1e172d76-3433-4ee7-ae1a-9e7d8ae0f12b",--UNI_UND_Duergar_ShortswordOfFirstBlood (Shortsword of First Blood)
+"c5945272-2d59-4f9d-92ad-fdcba1de2de0",--UNI_UND_Fort_Hole (Hole)
+"09d63912-2a69-499e-9497-dc832487e426",--UNI_UND_FurnaceSearch_MyconidDrowJournal_Disguised (Flumph Mating Rituals)
+"b4d60093-28b0-4076-b2f4-c7c3d3aa9d50",--UNI_UND_FurnaceSearch_MyconidDrowJournal_Real (The Great Furnace of Grymforge)
+"d0e9a8cd-ca87-42bc-bc48-8bf20975a927",--UNI_UND_InjuredGnome_DuergarAntidote (Duergar Antidote)
+"6b1c4d55-e0d1-4b58-a26d-57d807bca488",--UNI_UND_KC_AdamantineGolem_Helmet (Grymskull Helm)
+"91b3e19f-35e7-48e0-8cd9-8d727482d725",--UNI_UND_KC_BrokenCane (Broken Cane)
+"a42bf0f7-3a78-4aae-b94f-ed92a89e847c",--UNI_UND_KC_Elder_Warpick (Deep Delver)
+"c7a58f48-f24f-4139-b0f0-8b12e1bf074e",--UNI_UND_KC_RingOfAbsolute (Ring of Absolute Force)
+"5fe8fcb8-e99b-44da-9fdd-fe8966c3215f",--UNI_UND_LTS_DEC_ArcaneLamp_A (Arcane Brazier)
+"fe67bcc7-f7b5-44ce-813a-67341ab7a23f",--UNI_UND_LTS_DEC_ArcaneLamp_B (Arcane Brazier)
+"1c7419ad-b115-4359-96be-e2e25b1af746",--UNI_UND_LTS_DEC_ArcaneLamp_E (Arcane Brazier)
+"f6d1d4f0-0565-4d1c-a1ca-833de21abeef",--UNI_UND_LTS_DEC_ArcaneLamp_F (Arcane Brazier)
+"b96d16dc-da98-4108-9a0e-5e55720dbf5c",--UNI_UND_Minotaur_BeltAmulet (Amulet of the Unworthy)
+"086ae8fd-c44e-43a7-b8be-777b551a06d6",--UNI_UND_MonkAmulet (Sentient Amulet)
+"f3ff7066-f407-41c7-b936-0aff066c08e4",--UNI_UND_Myco_Alchemist_HealerGloves (Herbalist's Gloves)
+"f6963e1e-b95a-496d-9d57-d4ad79a4394c",--UNI_UND_MyconidAmulet_Evil (Champion's Chain)
+"5556b0c1-5b0a-47f9-8bc6-91c8f293f83e",--UNI_UND_MyconidAmulet_Good (Envoy's Amulet)
+"6acd3cfa-3dcc-4b42-ad25-ca898ce237f7",--UNI_UND_MyconidRevenge_NereHead (Nere's Head)
+"55249c82-7b97-4f8b-8fc2-ba0053aa6621",--UNI_UND_MyconidRevenge_NereHead_Shroomed (Blooming Drow Head)
+"ba0a465a-f438-41ca-93bc-dacd63421344",--UNI_UND_NarrativeLoot_BlingdenstoneWine (Blingdenstone Blush)
+"83fd50ff-7b20-49c3-b2d3-20ffcb1c4462",--UNI_UND_NarrativeLoot_GnomeKeepsakeGem (Keepsake Gem)
+"163cdc6e-681e-4dcf-869d-33a12d5a6b9c",--UNI_UND_RockDebris (Cave-In)
+"b41f8053-8310-4e58-98ff-0df55215198d",--UNI_UND_RockDebris_B (Cave-In)
+"992dacfe-4ba0-43db-8418-f2e2f1bdbe9c",--UNI_UND_RockDebris_C (Cave-In)
+"79dfb371-cd87-48f3-b542-26db2d39cfe2",--UNI_UND_Runepowder_Barrel (Runepowder Barrel)
+"51480113-8924-4a93-a694-0cc2b31ce445",--UNI_UND_Runepowder_Barrel_Open
+"9220d896-4ff3-430f-9523-00d2a4dfbc17",--UNI_UND_Runepowder_Vial (Runepowder Vial)
+"592a4157-1b4d-483c-a86b-9900f980e961",--UNI_UND_SeluneOutpost_Key (Selûnite Key)
+"73786a58-63c7-407a-af07-b612cd2b11ec",--UNI_UND_SharFort_Gem (Moonstone)
+"e8b6eb1d-c4f2-4b46-979c-ad3b9469030e",--UNI_UND_SocietyOfBrilliance_DarkvisionRing (Sunwalker's Gift)
+"62da3651-f2e4-4371-b5f2-fd06dd705030",--UNI_UND_SocietyOfBrilliance_ElementalResonanceStaff (Creation's Echo)
+"4a9f0479-954f-486c-9534-d7d72c11f919",--UNI_UND_SocietyOfBrilliance_MagicMissileNecklace (Psychic Spark)
+"a6fe2fbc-b0f8-4c35-a3ab-d5deb6aa2978",--UNI_UND_SocietyOfBrilliance_PullingRing (Ring of Salving)
+"c8f05ff8-58f9-49f9-8ea7-abda1fea27d6",--UNI_UND_SocietyOfBrilliance_RingOfMindShielding (Ring of Mind-Shielding)
+"8706eab3-e05b-478d-833e-308379972dad",--UNI_UND_SussurTreeFlower (Sussur Bloom)
+"bf2e05d1-5a39-4d92-afbe-afe63022a6c2",--UNI_UND_SussurTreeFlower_B (Sussur Bloom)
+"44aaa3df-e08c-4554-8d4d-fb11e97622b4",--UNI_UND_SussurTreeFlower_C (Sussur Bloom)
+"6d0d3206-50b5-48ed-af92-a146ed6b98f2",--UNI_UND_SwordInStone_SwordReward (Phalar Aluve)
+"8f5915b3-3da6-4c27-9b36-c8734b0876a4",--UNI_UND_SwordInStone_SwordTalkable (Phalar Aluve)
+"cfbda235-8cb7-4ee7-bd94-b9a2249ed82e",--UNI_UND_Tower_AmuletDetectThoughts (Uncovered Mysteries)
+"baae9783-dcd3-4d6b-bba3-86faf2fe4c8e",--UNI_UND_Tower_BootsFeatherFall (Mystra's Grace)
+"4b6d7c53-43b5-4c17-8139-732ca0fc2972",--UNI_UND_Tower_RingArcana (Mage's Friend)
+"70ad7889-e1e2-4c2f-980f-28eaa02c2022",--UNI_UND_Tower_RingOfLight (Guiding Light)
+"da0ba39a-366d-456b-8dbd-1c5790ca40bf",--UNI_UND_Tower_StaffBlessMystra (Staff of Arcane Blessing)
+"df6698d2-b690-4aea-be83-956d3b2ea97e",--UNI_UND_WPN_SwordOfScreams (Sword of Screams)
+"f5f07e9e-98e5-407d-827e-47ad1f41aeb5",--UNI_UND_WitheredBluePetals (Withered Blue Petal)
+"a05c2c63-23b4-4700-8a51-655053d832b5",--UNI_UND_WitheredSussurPetals (Withered Sussur Petal)
+"9be43b61-6cd4-42d7-ad3b-a7febcd68bfc",--UNI_VoloFate_SlayerBook (Regarding the Slayer)
+"dfb5a6ef-baee-4c0e-9b9d-7f5bd9458131",--UNI_WPN_HUM_Scimitar_FlameBlade (Flame Blade)
+"7bbfed72-1302-4709-8da5-2220343d7d29",--UNI_WPN_HUM_Scimitar_FlameBlade_4
+"86792fbe-2344-4742-b114-e3836442c943",--UNI_WPN_HUM_Scimitar_FlameBlade_6
+"b3ed22d9-dd32-46c3-928a-e7253a843dfc",--UNI_WPN_HeavyGreataxe (Very Heavy Greataxe)
+"e3781c5c-b674-4c9b-aec8-885e8c54698b",--UNI_WYR_Circus_BagOfMolding (Bag of Moulding)
+"5121d4a2-10c7-45e6-a46f-b279cd554bce",--UNI_WYR_Circus_BeastCageKey (Beast Cage Key)
+"c554df25-a6dd-4a30-b99d-27ae556dfe41",--UNI_WYR_Circus_ClownArm (Clown's Severed Arm)
+"c115ee19-9281-41cb-b2a4-28e2e81696ba",--UNI_WYR_Circus_ClownFoot (Clown's Severed Foot)
+"72207448-c6b6-42fc-b9ef-a34fdd3c1265",--UNI_WYR_Circus_ClownHammer (Clown Hammer)
+"d888727b-07cb-482b-84a6-70757ddfcf77",--UNI_WYR_Circus_ClownHandWithRing (Clown's Severed Hand)
+"78f9c440-f21b-49ef-b800-4419640ea63f",--UNI_WYR_Circus_ClownHead (Clown's Severed Head)
+"b9b087a8-0cb8-4e65-ba26-5c6469ad4669",--UNI_WYR_Circus_ClownLeg (Clown's Severed Leg)
+"506b9031-008b-400e-8102-ef6ef7dbc23f",--UNI_WYR_Circus_ClownTorso (Clown's Severed Torso)
+"9c3fcbb2-d080-49bd-b88a-4bf48a4080a8",--UNI_WYR_Circus_ClownWaist (Clown's Severed Pelvis)
+"e2af0df7-3659-42c9-b9d3-0651da898c04",--UNI_WYR_Circus_Dummy (Circus Advertiser Dummy)
+"7f17d8e4-5edb-4a77-88c0-55558a2db5f7",--UNI_WYR_Circus_FacePaint (Face-Painting Kit)
+"82999790-f80d-47f7-9383-9bb6cf57a10b",--UNI_WYR_Circus_HandaxeReturning (Comeback Handaxe)
+"420d1b1f-8147-4ae7-aedb-456dc391d61b",--UNI_WYR_Circus_MoldyFood (Mouldy Food)
+"cd8e6f82-d128-4077-916e-a6179fd1d190",--UNI_WYR_Circus_MumblingStaff (Staff of a Mumbling Wizard)
+"9ee5433b-ce71-4de4-871d-04f918c318ae",--UNI_WYR_Circus_Pitcher (Eternal Carafe of Wine (Or Sometimes Acid))
+"480a8519-e375-4ce0-ae0a-513bc9d39820",--UNI_WYR_Circus_TeleportBoots (Boots of Very Fast Blinking)
+"39e420ae-ceae-441c-ab6b-251e97c3c26d",--UNI_WYR_Circus_ThiefGloves (Unlucky Thief's Gloves)
+"fc9f7223-6b39-4734-b600-820fad6c4a08",--UNI_WYR_Circus_WetCloak (Reverse Rain Cloak)
+"258f4d35-959c-497b-a38a-df3a1e71f3a0",--UNI_WYR_Circus_WheelRing (Djinni Ring)
+"77cd8eaa-2cde-4a53-bc76-71fb48624406",--UNI_WYR_CoronationAccessPass (Archducal Coronation - Admission Pass)
+"162203ba-7413-4417-8f05-bd03538ff2b4",--UNI_WYR_Crate_Teddy_Explosive_A (Crate)
+"29dcb091-043a-45b6-8bad-481c19488f9b",--UNI_WYR_Crate_Teddy_Explosive_A_Empty (Crate)
+"28b36956-1369-4634-8832-d68d8128810d",--UNI_WYR_EssentialTradeVisa (Essential Trade Visa)
+"e077ef28-5de9-439d-bbaf-59536585c938",--UNI_WYR_ExplosiveToy (Surprise-Based Teddy Bear)
+"1b7e91d0-5de8-46fa-87c0-b3a9d35939e6",--UNI_WYR_ExplosiveToy_Broken (Unfinished Toy)
+"3762d9ce-3506-4d2c-8b36-454d9fef979f",--UNI_WYR_ExplosiveToy_Unfinished (Unfinished Stuffed Bear)
+"8389bd03-f804-44c6-9aca-e25ac610f341",--UNI_WYR_FUR_GEN_Bookshelf_Wood_Poor_A_Undestructible
+"dbe284a5-177a-440b-ba91-687eb7aa3fb5",--UNI_WYR_FakeTreasurePile (Worthless Treasure Crates)
+"e07beeb6-7c48-4415-985b-0d96c7438b0f",--UNI_WYR_IllithidJarWithLarvae (Illithid Jar with Larvae)
+"837fd379-2765-4436-a1d7-f0535a69effe",--UNI_WYR_Key_Flower (Key with a flower motif.)
+"a8e5a8bf-cf3f-4716-ba09-0eb1f48a89a8",--UNI_WYR_Key_Flower_Bloodied (Key with a flower motif)
+"0a172d65-748c-4ff1-bf66-200fceb5ca79",--UNI_WYR_LowerCityPass (Lower City Pass)
+"7eaa1331-877c-40d7-9811-8238aee09f68",--UNI_WYR_MonkAmulet_AfterCombat
+"14a6da9a-6689-4c70-96a1-d03319ba3278",--UNI_WYR_MonkAmulet_NoGhost
+"f8e0e45b-7549-4831-9a6e-10166ab96575",--UNI_WYR_PaintingPuzzle_NonSolutionPainting1 (Red Hat)
+"d6b14418-583d-4d56-8ac8-1fdc839130a2",--UNI_WYR_PaintingPuzzle_NonSolutionPainting2 (Qualms)
+"4816726d-0e75-4abb-bc0a-89936ae48683",--UNI_WYR_PaintingPuzzle_NonSolutionPainting3 (Careful Meeting)
+"96a2c017-06d4-4dd4-880d-ad3dcde2b3d4",--UNI_WYR_PaintingPuzzle_NonSolutionPainting4 (Theft)
+"9a7be068-0093-4c51-aeb6-a6b6202e17fa",--UNI_WYR_PaintingPuzzle_NonSolutionPainting5 (Chase)
+"011ea5cb-73d1-40e8-aafb-3313833a1d64",--UNI_WYR_PaintingPuzzle_NonSolutionPainting6 (Judgement)
+"c97a9198-0dff-4dca-b2f0-75e680446a4a",--UNI_WYR_PaintingPuzzle_SolutionPainting1 (Hanging)
+"827df830-08c1-4a7a-8201-8cf7faa6736b",--UNI_WYR_PaintingPuzzle_SolutionPainting2 (Freedom)
+"9e6fbe35-e0fd-4b3a-be5b-b75935e17fc0",--UNI_WYR_PaintingPuzzle_SolutionPainting3 (Cell)
+"7409c7be-ec13-48d9-8e9d-94c19df2b210",--UNI_WYR_Scroll_Runepowder_Bomb_Detonator (Runepowder explosive detonator)
+"14a43b9d-0913-4a24-8f19-a2db6e87bc36",--UNI_WYR_SharessCaress_PotentDrink (Hoots' Hooch)
+"2561ddc7-2ca4-409d-aea4-0dcf481722eb",--UNI_WYR_SharessCaress_RoomsKey (Sharess' Caress Rooms Key)
+"dc3d793e-c605-4016-9753-27d1c2da4b2c",--UNI_WYR_Thiefling_BaldursGateStone (Baldur's Gate Stone)
+"42d56907-aa68-4f77-a024-3789c323214d",--UNI_WYR_Thiefling_HolyHandSoap (Holy Hand Soap)
+"64f8c9de-b6a2-4058-8224-993f70cbf665",--UNI_WYR_UrgentReportForDukeRavengard (Urgent Report For Duke Ravengard)
+"afda0da3-ed3e-4464-b305-e9399a9ed455",--UNI__WYR_Key_PotionShopStorage (Storage Key)
+"486a1a14-2d67-4b9c-a2dc-7858c2a6a473",--UN_BOOK_LOW_TharchiateCypher (The Tharchiate Codex)
+"4b30a649-fd88-4f64-a57b-1149d7b9ac41",--Underwear_Astarion (Astarion's Underwear)
+"8494f6d9-d588-4d18-bb0d-c5a58e911771",--Underwear_Dragonborn_A
+"6afe0665-ef74-44bb-916a-fb00a267b4b9",--Underwear_Dragonborn_A_Bronze
+"9fecf84d-911f-4986-9454-0429ac437f45",--Underwear_Dwarves_A
+"d19364cf-18f9-4841-919b-1e3f0ba2c58c",--Underwear_Dwarves_A_Green
+"0ec7d956-e65f-4bfa-b677-22f399f81a32",--Underwear_Elves_A
+"f328179e-f5e1-4fd4-bd41-efad411223e8",--Underwear_Elves_A_Blue
+"6d076cab-f23a-4a80-89b6-107be7f345bd",--Underwear_Elves_A_Purple
+"5cdc0fe0-dbda-4f31-89f8-9e16782daef1",--Underwear_Gale (Netherese Briefs)
+"1cb3fb1b-2dfc-446a-9c9b-666eb0de05d6",--Underwear_Githyanki_A
+"1dc7ff19-a089-4289-8a4f-77c4be1c229d",--Underwear_Githyanki_A_Black
+"d692d48f-9a39-4001-8a38-c01e397953dc",--Underwear_Gnomes_A
+"50a2cef0-8e1b-4166-ac15-06f8bde59e29",--Underwear_Gnomes_A_Blue
+"3caad2f1-719f-4070-b7f0-887c49c773d3",--Underwear_HalfOrcs_A
+"7d989a9c-ab69-43e0-8fca-02b13d254ae2",--Underwear_HalfOrcs_A_Orange
+"78063154-288f-41aa-a99f-e56cbf601129",--Underwear_Halflings_A
+"9ebb9117-a0ae-46f2-a243-8d67650e9586",--Underwear_Halsin (Halsin's Underwear)
+"305718fa-de30-474f-97a8-41ae79b4919e",--Underwear_Helper
+"d40b567d-6b66-447e-8923-2bbd0d7aea00",--Underwear_Humans_A
+"7efbf614-e004-4e64-b39e-c7928e703b8b",--Underwear_Humans_B
+"e1797af7-5459-4db2-99da-5703fa203edb",--Underwear_Humans_C
+"5fa043bf-0445-49ad-9e82-0df77c639fe2",--Underwear_Incubus 
+"82c84433-0464-442a-8e5a-0891d829f99a",--Underwear_Incubus_B
+"91259e65-dd71-4312-ba3c-c55757978788",--Underwear_Jaheira (Jaheira's Underwear)
+"e865db4c-4df3-48e9-8cf3-5abad75510ba",--Underwear_Karlach (Karlach's Underwear)
+"185ab1be-e93d-4518-b053-d6d4d7168d68",--Underwear_Laezel (Lae'zel's Underwear)
+"48a3ffbe-f14e-4cfe-b45e-ebadb3af0fd4",--Underwear_Minsc (Minsc's Underwear)
+"73874ef8-a3c4-4a68-8d2a-ed3d580dfb52",--Underwear_Minthara (Minthara's Underwear)
+"b460bd0c-58fe-4a56-831c-af92fd4ba7e2",--Underwear_Shadowheart (Shadowheart's Underwear)
+"498c155f-8675-4a55-9cb0-89dd7270469f",--Underwear_Tieflings_A
+"1930ceec-4a50-43d9-8589-94593c449be4",--Underwear_Wyll (Wyll's Underwear)
+"398871eb-45dd-4f37-b1ce-bae03ec80830",--VFX_CINE_WPN_DROW_Dagger_Dolor_Gale_Explosion_Dagger_A (ls::TranslatedStringRepository::s_HandleUnknown)
+"90850db1-2241-4f4c-9e80-bb689a0b050f",--VFX_Cinematic_Cazador_Astarion_Ritual_01 (Ritual Pentagram)
+"ac54641c-0e5f-49a9-99de-df5a77ebf8bb",--VFX_Cinematic_GOB_Camp_Firebowl_B
+"65da5f2c-96c8-4e22-9d3a-bfc335849234",--VFX_Cinematic_Hologram_Vlaakith_01
+"a9f62868-ff35-46cb-b46c-07f8112e1247",--VFX_Cinematic_Nautiloid_PlaneShift_01
+"515ec4ab-f4d2-4259-a7b8-eb42b17ba8ba",--VFX_Cinematic_Nightsong_Halo_01
+"d372db49-5706-4d1e-8795-e9a49eaf7714",--VFX_Cinematic_Nightsong_Halo_02
+"f0ef6c25-1dfe-4981-a14a-bc60336f4e70",--VFX_Cinematic_Oathbreaker_ScreenSpace_FX_01
+"35fc97e8-4477-47db-b7b9-52eaa19fccae",--VFX_Cinematic_Portal_Lathander_01
+"f61580df-30f5-4595-a76d-d0bad9bc949b",--VFX_Cinematic_Portal_Lathander_02
+"000ae223-f71c-4749-ba28-e778f9165181",--VFX_Cinematic_PostProcess_Distortion_01
+"d8664346-05fd-4772-b7d2-1f8cb831aa43",--VFX_Cinematic_Refraction_TEST_01
+"4c0a5ab6-8ea5-4414-bffe-17e466f5008b",--VFX_Cinematic_Test_Object_01
+"8cc53d0a-d9d0-470a-9f74-aaa3d92a9e3c",--VFX_Daisy_AvD_Wisp_Beam_Dark_01
+"e93f4e07-4115-4451-8e42-22e277142965",--VFX_Daisy_AvD_Wisp_Beam_Light_01
+"8ca50e48-8c81-444f-857a-03bf97a5a14c",--VFX_END_DragonShadow
+"b4a91dd3-bcd2-46e4-b727-c80886f47e19",--VFX_END_HighHall_Arrival_DragonFire_01
+"f872f9a7-d43f-4f29-9b51-a59c1ff5ac31",--VFX_Environment_CRE_LightBarrier_01 (ls::TranslatedStringRepository::s_HandleUnknown)
+"f0264959-32af-4042-b08d-1e4551103236",--VFX_Environment_CloudScape_02
+"60227f2e-49e1-44b4-9cbd-efae2aea0b6e",--VFX_Environment_Fire_Furnace_Bottom_01
+"fe61e5c9-e31c-44f3-8256-d9b7db040b0d",--VFX_Environment_Hag_Swamp_Barrier_01 (Arcane Barrier)
+"ce950496-dd07-499c-9529-6a0f3840ab95",--VFX_Environment_LOW_HouseOfHope_Pedestal_Hammer_Dome_01 (Impervious Sphere)
+"53e52e6d-a7bd-9766-de42-25605e4da084",--VFX_Environment_Waterfall_SplashDisk_01_converted (ls::TranslatedStringRepository::s_HandleUnknown)
+"cb37011d-a311-4a84-bec9-66d133bac57e",--VFX_HoH_Portal_Mirror_A_Doorway_01 (Mirror Portal)
+"56183a51-b08b-4ebc-84e5-31a3c4836a15",--VFX_HoH_Portal_Mirror_A_Doorway_02
+"2d5e408d-b07b-4256-9459-d8c21dd996b7",--VFX_HoH_Portal_Mirror_A_Doorway_03
+"4f202cc1-0a02-45ec-a3d4-b9d12c06b80e",--VFX_HoH_Portal_Mirror_B_Doorway_04
+"8152a908-903f-410e-a018-003cbc278e60",--VFX_Item_Gale_Recruitment_Unstable_Portal
+"1ee4cde1-4083-46da-bcb6-484dd3b26dad",--VFX_Item_MoonLantern_02
+"e8c0d5ae-b7bd-44ee-ae59-9d3373a1897c",--VFX_LTS_Haven_GameplayLight_01 (Fireflies)
+"f0f2c6ca-dd60-46d9-9d7f-c36d7e2c28af",--VFX_Model_BLD_MF_Control_Panel_Red_01
+"d2a902b1-c8cd-43cd-9b20-fa451c964bd6",--VFX_PostProcess_IronThrone_Underwater_01
+"861638b7-d3be-43e5-bcc6-936c536f442d",--VFX_Script_Brine_Bubbles_01_Item (ls::TranslatedStringRepository::s_HandleUnknown)
+"a2b0f388-2e15-47fb-a56b-f42044a92a17",--VFX_Script_CRE_FloatingBed_01
+"35d9c0c2-a2c9-4031-ad0f-6963188fae53",--VFX_Script_CRE_FloatingBed_Cast_01
+"affb7c31-1cc1-4aae-90ed-5967069a1692",--VFX_Script_DestroyAction_TreasurePile_B_01
+"c2eabfc0-67b1-4729-9150-5c55d3c5826a",--VFX_Script_DestroyAction_WoodenCasket_01
+"d909ddce-88ca-4083-a632-a226eaa1fe44",--VFX_Script_Generic_Portal_Red_01
+"280a1686-800f-421f-b208-21aeff2e7cc9",--VFX_Script_HAV_SeluneBarrier_Volumetric_Light_01
+"c898b6a1-96c7-40ba-b19b-ad4b9773da93",--VFX_Script_Levitation_Bookcase_Common_A_01
+"fbb13913-1a2e-418a-a5ec-85aae38e077a",--VFX_Script_Levitation_Table_Rich_Medium_D_01
+"abca3a09-b793-4dd5-85ea-3d2f3397d4c5",--VFX_Script_Levitation_Tavern_Table_A_01
+"82f8b3a2-6737-4b23-aacf-229ac30cc365",--VFX_Script_MagicMouth_01
+"6fb10dbc-980b-4ad8-a911-37cf6cb4c791",--VFX_Script_PUZ_Underdark_Mushroom_Bibberbang_Explosion_A_01
+"d83f186d-32be-43fe-865e-783c83dce569",--VFX_Script_PUZ_Underdark_Mushroom_Bibberbang_Explosion_B_01
+"206a39a0-2fee-40c4-891a-8e462cd25ca7",--VFX_Script_PUZ_Underdark_Mushroom_Bibberbang_Explosion_C_01
+"8e7c9194-7d3c-4350-af5e-f99f32afb2c9",--VFX_Snippet_TEST_Interior_Parallax_Mapping_01
+"bf2588e5-b828-41fb-a91b-8b8e1b00f1ff",--VFX_Static_Cazador_Fight_GlowingGrating_Helper_01
+"18184a7e-f474-401a-b339-0077e67e696b",--VFX_Static_Cazador_Fight_GlowingGrating_Helper_02
+"f7ede886-c087-43e3-85b8-f059f1774950",--VFX_Static_Cazador_Fight_GlowingGrating_Helper_03
+"207c669e-8591-431e-bc13-4f41d6ab2cba",--VFX_Static_Cazador_Fight_GlowingGrating_Helper_04
+"0a07131e-7b55-49e0-89d7-6595c6ad3f70",--VFX_Static_Cazador_Fight_GlowingGrating_Helper_05
+"5bccf724-b3a8-496c-b134-a6f56ccc7a6e",--VFX_Static_Cazador_Fight_GlowingGrating_Helper_06
+"0c798ed3-58b2-4fa0-8a6b-dbdd54bee351",--VFX_Static_Cazador_Fight_GlowingGrating_Helper_07
+"a04e1e2a-7a2a-4c56-9b80-21f392aadf82",--VFX_Static_FadeToBlack_Sphere_01
+"a1cb96fb-ceaf-43bc-9692-27f651e3e203",--VFX_Static_MFL_Pod_Glass_01 (ls::TranslatedStringRepository::s_HandleUnknown)
+"678cab8a-baf5-4a43-bc9e-1b837f7f14c8",--VFX_Static_MFL_Pod_Glass_02 (ls::TranslatedStringRepository::s_HandleUnknown)
+"90e61825-db31-43a3-ba8b-f0689e4f48ec",--VFX_Static_MFL_Pod_Glass_03 (ls::TranslatedStringRepository::s_HandleUnknown)
+"70331572-c388-49e9-a855-0a1798400635",--VFX_Static_MFL_Pod_Glass_04 (ls::TranslatedStringRepository::s_HandleUnknown)
+"0459eacd-9663-4366-bfc8-e6618bf9128a",--VFX_Static_Monk_Ice_Cube_1x1x1_01_Destruct (Broken Barricade)
+"a5d0e26c-1c5a-4e65-8fdf-b9c857c060b2",--VFX_Static_OrinDuel_Barrier_Cylinder_01
+"220a3420-6299-453b-9402-d9ddaeaf8dd0",--VFX_Static_Plane_Fade_01
+"7c8921ad-b575-4d7a-98b1-7b5adc22fc36",--VFX_Static_Plane_ScanlineEffect_01
+"dc599ab9-39ea-4cb6-ad4e-9b876714766d",--VFX_Static_Sphere_Colour_Changer_Ritual_01
+"184c939b-8ddd-4fbe-8dbc-2e2fe41641de",--VFX_Static_Vision_DepthBlend_01
+"4f60a5a9-143d-4cdf-b8b6-aaad38b964e4",--VFX_Static_Vision_DepthBlend_Additive_01
+"90a169d6-c84f-4df7-8d10-a58553f2d8e8",--VFX_Static_Wall_Spell_Blade_A_HighLeft_A (Blade Barrier Section)
+"4e8161b9-6483-4600-9c40-2c3e246fd6fb",--VFX_Static_Wall_Spell_Blade_A_HighMiddle_A (Blade Barrier Section)
+"dbdb72e8-46fb-46bd-804a-2930b73a524e",--VFX_Static_Wall_Spell_Blade_A_HighRight_A (Blade Barrier Section)
+"6ed10f20-5719-4acb-b73d-6b78c9673f4b",--VFX_Static_Wall_Spell_Blade_A_LowLeft_A
+"09d90551-8045-4c85-a520-226564558030",--VFX_Static_Wall_Spell_Blade_A_LowMiddle_A
+"eebcfde7-34c3-4932-a4f7-3cc868b1628e",--VFX_Static_Wall_Spell_Blade_A_LowRight_A
+"bbe22243-6a91-497f-9960-5b909c4cafe2",--VFX_Static_Wall_Spell_Fire_A_HighLeft_A (Wall of Fire)
+"2c87b39b-bcd9-477f-ba17-81c4f129a658",--VFX_Static_Wall_Spell_Fire_A_HighMiddle_A
+"fd9a3f71-d550-48d1-8bcf-fda018f0d4c8",--VFX_Static_Wall_Spell_Fire_A_HighRight_A
+"75b72a6b-2424-43c2-b297-e143bfe008fe",--VFX_Static_Wall_Spell_Fire_A_LowLeft_A
+"b6027e05-f141-441c-a944-1869bc8d7e7e",--VFX_Static_Wall_Spell_Fire_A_LowMiddle_A
+"55979af9-4ce7-47cd-9337-bdae6b9d989c",--VFX_Static_Wall_Spell_Fire_A_LowRight_A
+"09283999-492f-45b4-a987-9c50d0eb8b9c",--VFX_Static_Wall_Spell_Ice_A_HighLeft_A (Wall of Ice)
+"990af72b-0a7b-47f0-aaf7-b08de31a8dfb",--VFX_Static_Wall_Spell_Ice_A_HighMiddle_A (Ice Pillar)
+"b2d5acc4-bdec-400a-b388-95037dabf912",--VFX_Static_Wall_Spell_Ice_A_HighRight_A (Ice Pillar)
+"c47df00f-e9a6-4222-960c-38267c6d587e",--VFX_Static_Wall_Spell_Ice_A_LowLeft_A
+"5384421e-6031-4ae7-aec9-dc85e349e840",--VFX_Static_Wall_Spell_Ice_A_LowMiddle_A
+"8bfee90c-a1bb-4d58-ae7c-9a106bdc6e77",--VFX_Static_Wall_Spell_Ice_A_LowRight_A
+"12daecf2-d13f-4b61-ae70-728336c6c7dd",--VFX_Static_Wall_Spell_Stone_A_HighLeft_A
+"8dd86988-275e-4fc1-8aa0-8cd312b425a7",--VFX_Static_Wall_Spell_Stone_A_HighMiddle_A
+"85fdc495-3d38-4514-9452-00fba79ade93",--VFX_Static_Wall_Spell_Stone_A_HighRight_A
+"64989fe4-88bf-414d-b457-aa64ce7b2382",--VFX_Static_Wall_Spell_Stone_A_LowLeft_A
+"92ace281-af3a-46e5-bf8c-5caddaef8402",--VFX_Static_Wall_Spell_Stone_A_LowMiddle_A
+"7fd526c6-61a0-48c9-8890-724713e3afce",--VFX_Static_Wall_Spell_Stone_A_LowRight_A
+"44295329-00c6-463f-a30e-55e9609ae29c",--VFX_Static_Wall_Spell_Thorn_A_HighLeft_A (Wall of Thorns)
+"4936d798-e22b-41df-af85-35f646d396de",--VFX_Static_Wall_Spell_Thorn_A_HighMiddle_A
+"70c00f08-192f-467a-92e0-81ab3823e24a",--VFX_Static_Wall_Spell_Thorn_A_HighMiddle_B
+"9b4299f5-df81-4ec4-87ed-c66549be4e74",--VFX_Static_Wall_Spell_Thorn_A_HighRight_A
+"f2fe4566-9f82-49e3-bf72-4e2d62be100b",--VFX_Static_Wall_Spell_Thorn_A_LowLeft_A
+"74a103d6-9cac-461a-a145-b7b9bbd7698d",--VFX_Static_Wall_Spell_Thorn_A_LowMiddle_A
+"5c4c7326-91ce-4ef8-b8ff-a3f8fae7dfaa",--VFX_Static_Wall_Spell_Thorn_A_LowMiddle_B
+"f24f3296-2df2-479b-8799-9e06b0211b3c",--VFX_Static_Wall_Spell_Thorn_A_LowRight_A
+"f03cdc5c-e531-4888-828d-fc6ca2009077",--VFX_Static_Wall_VossDragonSpell_Fire_A_HighLeft_A
+"a8b1d820-81dd-47e5-b3be-80967529ddee",--VFX_Static_Wall_VossDragonSpell_Fire_A_HighMiddle_A
+"83c8870f-9b40-4b5c-9cca-dfa3590e318e",--VFX_Static_Wall_VossDragonSpell_Fire_A_HighRight_A
+"4ffd5feb-b09d-47e0-9030-5fe4205f077b",--VFX_Static_Wall_VossDragonSpell_Fire_A_LowLeft_A
+"b2674894-309a-4429-910a-aac73e9eef7b",--VFX_Static_Wall_VossDragonSpell_Fire_A_LowMiddle_A
+"081b25c8-098d-4103-a4bb-b0f91a34ba68",--VFX_Static_Wall_VossDragonSpell_Fire_A_LowRight_A
+"2332a53e-d0d2-4c5e-8f2b-646d94b7f0e6",--WALL_Dungeon_Abbey_Stairs_Steep_7D_5H_4W_A_Dynamic (Stairs)
+"0b674c38-44c6-4d69-84fe-b88c1df30fa4",--WALL_Dungeon_Temple_Stairs_Steep_7D_5H_4W_A_Dynamic (Stairs)
+"2aee9dee-d10c-4ea0-bf25-4942619c1395",--WALL_GEN_Bollards_A_0n5D_1H_2W_S_Piece_B (ls::TranslatedStringRepository::s_HandleUnknown)
+"f606e1cb-b6ad-4787-a633-d74c480e4eea",--WEAPON_Staff_Mindflayer (Staff)
+"7507770e-7cef-46b5-8e5d-454d8fedcb6a",--WPN_AUTOMN_Glaive_A_0 (Glaive)
+"96df6fd6-a688-47ab-b448-0b6d27d1cf1d",--WPN_BREWER_BrewingLadle_A (Brewing Ladle)
+"5ca50a09-548b-4134-a0c7-98f10e8d69e6",--WPN_BUG_Morningstar_A_0 (Morningstar)
+"f7a7ab99-6902-4389-8134-1fed85e978e1",--WPN_Battleaxe_REF
+"a1dc6fa4-6572-4eed-85a0-4ea60d9a1104",--WPN_Chair_Wood_Poor_A
+"5d24f624-1145-46c5-b595-3f2c8b2f314e",--WPN_Club_REF
+"e8df5166-5a68-42ec-b71f-4dfb754f7aa4",--WPN_DROW_Dagger_Dolor_A (Dolor's Dagger)
+"36aab945-ad5d-46b5-95ed-ab9cf1a5a228",--WPN_DRYAD_Staff_A (Dryad Staff)
+"b61f3c6e-a224-4af8-ad16-51b3799e7715",--WPN_DRYAD_Staff_A_ConjureWoodlandBeings (Twisted Oak Crook)
+"3a9e4e60-9f58-4fb9-8a16-4cf784ad6f0d",--WPN_DUE_Whipping_Cane_A_0 (Whipping Cane)
+"9ddcb3b2-14fb-48d7-9047-cd2ee34de51c",--WPN_Dagger_REF
+"258ce9f3-3f32-4546-ae6e-196b3e8e91b5",--WPN_Dagger_Shar_NOT_APPROVED
+"82d1c904-861b-4c76-8df6-2643b46dbb81",--WPN_Dart_REF
+"b66d62c4-b38f-43dd-920d-40d250d66d03",--WPN_Devils_Dagger_Levistus_A_0 (Dagger)
+"1576903a-cb77-4a05-be24-1714d8c61e34",--WPN_Djinni_Scimitar_A (Scimitar)
+"96f7647b-7485-4c0c-aaad-73a332d8e626",--WPN_Djinni_Scimitar_PlanarAlly (Djinni Scimitar)
+"e4b4c45f-0563-4b00-851c-30a64fcb18ec",--WPN_Drow_Shield_A_0 (Iron-Banded Shield)
+"004ab562-5cd4-4f1f-8aa5-497e7e2c5f4f",--WPN_Drow_Shield_A_0_Absolute (Iron-Banded Shield)
+"ad0b5ac2-ca57-4538-a326-8e819d6ab034",--WPN_Drow_Shield_A_1 (Drow Shield)
+"747387ac-0dc7-47ab-8c69-75269ffc4dbc",--WPN_Duergar_Shield_B_0
+"8cdcb6bb-be71-4f26-9871-9312514c2436",--WPN_Duergar_Shield_B_1 (Studded Shield)
+"31c99c28-f062-44ba-9ee6-cf969af920c4",--WPN_Duergar_Shield_C_0
+"b7d8a185-dfc5-4113-ab53-0ca009073c8d",--WPN_Duergar_Shield_C_1 (Studded Shield)
+"5908898d-5d9e-40de-ab07-3f8fb5f0174c",--WPN_Duergar_Sword_KingsKnife (King's Knife)
+"1ce80e1b-7db1-42bd-baec-114142b5bc15",--WPN_Dummy_For_Equipment (Dummy)
+"71f5b932-137f-4e05-9392-e6b921e3aca6",--WPN_Flail_Air_Myrmidon_A (Air Myrmidon Flail)
+"8f8ad4f1-ee45-45f5-9368-3da979ada65a",--WPN_Flail_Air_Myrmidon_ConjureElemental (Flail of the Vortex)
+"229dd0c4-6b13-4dbd-be48-0fedf292700a",--WPN_Flail_Air_Myrmidon_Wildshape (Flail of the Vortex)
+"4ef7dcd7-3328-4218-b0d3-520f2afaa529",--WPN_Flail_REF
+"3af0f251-36b5-425f-8d2a-f81559a70967",--WPN_GNOLL_Sword_A (Scrap Sword)
+"608e265d-f81b-4c13-a786-e5602852fcf4",--WPN_GNO_Flail_A (Chaos Flail)
+"28373d60-893f-411c-a029-35c31665c821",--WPN_GOB_Club_BrandingTool_A (Cultist Brand)
+"7ebf3d2b-39ff-4a18-9114-4d09d17f432f",--WPN_GOB_Mace_A (Crude Mace)
+"11aa209f-6e42-40bd-a12c-aa33445c21ea",--WPN_GOB_PainPriest_Dagger (Ritual Dagger)
+"5c996c03-99e9-40c1-8acf-d761550d26f5",--WPN_GOB_PainPriest_Handaxe (Ritual Axe)
+"b1dc33ba-c595-4036-9683-26635f297e44",--WPN_GOB_PainPriest_Scourge (Loviatar's Scourge)
+"288356cc-0c6b-43c1-b049-dde418faf1f2",--WPN_GOB_Scimitar_A (Goblin Scimitar)
+"dd7550d6-112d-476e-9234-4901a95bd7f6",--WPN_GOB_Shield_A_0_NOT_APPROVED (Scrapwood Shield)
+"89bb450f-d976-4981-b43e-b5d16948da1e",--WPN_GOB_Shield_B_0_NOT_APPROVED (Goblin Shield)
+"e0d5a057-328a-467d-b8fb-1bfd298d59e7",--WPN_GOB_Shield_C_0_NOT_APPROVED (Spiked Shield)
+"33ab760a-e617-4e12-a3c6-1758c83cc3a7",--WPN_GOB_Shield_D_0_NOT_APPROVED
+"2ae874a1-4573-4de3-a595-444591564303",--WPN_GOB_Shield_E_0_NOT_APPROVED
+"fd6f48fc-b153-4e6b-9a7f-86ac2963c95f",--WPN_GOB_Shortbow_A_0 (Goblin Bow)
+"5e0afa45-29ec-4154-ae8b-1c0b2bde5590",--WPN_GOB_Shortbow_A_0_TEMP_GP_DUPLICATE_TO_BE_DELETED (Goblin Bow)
+"81b017b5-d185-4026-8871-a053aca8648c",--WPN_GOB_Spear_A (Makeshift Spear)
+"58c90cf9-5541-4909-a853-d1a0ca31c046",--WPN_GOB_Staff_A (Ritual Staff)
+"d1082e88-b1e2-479d-913f-1413784d95a1",--WPN_GTY_Greatsword_A (Githyanki Greatsword)
+"769adbf8-d3bf-48f7-8c2b-21fb892b1d33",--WPN_GTY_Greatsword_A_LowHP_IncreasedDamagePsychic
+"91d38c71-4614-463f-8b35-338e5b3bbf9f",--WPN_GTY_Greatsword_Vlaakith_A
+"b674ea52-2b6f-4977-b6d5-98810304a98b",--WPN_GTY_HeavyCrossbow_A (Githyanki Crossbow)
+"765dd845-e71c-4a96-bff2-b4ecb08478dc",--WPN_GTY_HeavyCrossbow_A_LowHP_IncreasedDamagePsychic
+"907a794b-b089-406b-880d-6f2df2bb3f13",--WPN_GTY_Longsword_A (Githyanki Longsword)
+"0553ced5-00b0-4c39-8ee4-519f6401f44a",--WPN_GTY_Longsword_A_LowHP_IncreasedDamagePsychic
+"776324ed-a368-4994-b5f6-fd9112a10c9b",--WPN_GTY_Orphic_Hammer_A (Orphic Hammer)
+"4b54911a-a32d-48ad-8691-ff28801e1275",--WPN_GTY_Shortsword_A (Githyanki Shortsword)
+"824a370a-5fc6-4435-b58f-33a0d91f5b08",--WPN_GTY_Shortsword_A_LowHP_IncreasedDamagePsychic
+"1ebdc61e-3bc6-4da5-adb9-34dd839b012a",--WPN_Githyanki_Greatsword_A (Githyanki Greatsword)
+"fde218da-d768-4be8-b95f-586a124357d3",--WPN_Glaive_REF
+"70b863dd-fc73-4276-b1d2-330d5e54fe3f",--WPN_Greataxe_REF
+"665e1c25-5c1f-48b2-a075-ee6409e8b019",--WPN_Greatclub_REF
+"dfc51f62-6a05-4bd4-ae92-d1a8a2e3d5a7",--WPN_Greatsword_REF
+"7821978d-c720-4651-9693-936960145636",--WPN_Grenade_BloodSurface (Sanguine Explosive)
+"f8a1cb8d-3e40-4c33-8a92-92ee742b6439",--WPN_Grenade_Orthon_A (Orthonic Handbomb)
+"65fff410-33fd-49a6-aacd-d24610bc0e7b",--WPN_GuardianOfFaith_Shield_Evil
+"efdb7b03-83b0-4284-b1fb-06c5c78424d0",--WPN_GuardianOfFaith_Shield_Good (Fossilised Shell)
+"134a78a5-7a20-415a-9af1-5b141db51d42",--WPN_GuardianOfFaith_Shield_Neutral
+"f28bf96c-83ba-4536-936c-c2574db85569",--WPN_HAG_Sickle_A (Scrimshaw Sickle)
+"22baa548-56a4-494c-a9d0-4880d6f1da91",--WPN_HUM_Azer_Warhammer_A (Azer Warhammer)
+"a086b825-8f17-4f0e-855b-178f8cdc515a",--WPN_HUM_Battleaxe_A_0 (Battleaxe)
+"3030f1f1-74fc-4008-9317-80c71075c8e3",--WPN_HUM_Battleaxe_A_0_Rusty_A (Rusty Battleaxe)
+"c17ee133-cbb5-418f-88be-5ef27991cf50",--WPN_HUM_Battleaxe_A_1 (Battleaxe +1)
+"7faff867-9cb3-432b-aa27-8de281b7428e",--WPN_HUM_Battleaxe_A_2_NOT_APPROVED (Battleaxe +2)
+"407954e3-71e4-4611-9221-0ba3ea71d6e8",--WPN_HUM_Battleaxe_Pact (Pactbound Battleaxe)
+"b9739be6-7c2b-4fe9-be36-13ff1094e79c",--WPN_HUM_BoneSaw_A (Bonesaw)
+"3d4fa7bf-b914-47ff-b663-6566a335210e",--WPN_HUM_Cazador_Staff_A (Cazador Staff)
+"b6b4ac25-e54b-441f-b6d3-423ea728cfb1",--WPN_HUM_CleaverAxe_A (Cleaver)
+"d9c87013-1f41-4c17-b71d-f353ec0d64e8",--WPN_HUM_Club_A_0 (Club)
+"b30dca22-22bc-496e-b3b6-dd5744b73869",--WPN_HUM_Club_A_1 (Club +1)
+"0ca0e540-dabe-4bf4-9e23-c006f03ffae2",--WPN_HUM_Club_Broken_A (Broken Club)
+"569b0f3d-abcd-4b01-aaf0-979091288163",--WPN_HUM_Dagger_A_0 (Dagger)
+"6a321455-d00f-4164-ab12-3601fef2ae6e",--WPN_HUM_Dagger_A_0_Rusty_A (Rusty Dagger)
+"1eab180b-5bf9-48ea-aece-7ba20d1deb78",--WPN_HUM_Dagger_A_1 (Dagger +1)
+"7562984a-7680-4538-ab83-93c78e5b96c8",--WPN_HUM_Dagger_A_1_Broken_Handle_A
+"71195299-578a-4a38-b039-1046355c3181",--WPN_HUM_Dagger_A_1_Broken_Tip_A
+"c68026c8-8af9-4a05-b77a-246a01bafe61",--WPN_HUM_Dagger_A_2 (Dagger +2)
+"fbb9fdb1-932d-47df-81fb-5785cb19d3a3",--WPN_HUM_Dagger_B_0 (Dagger)
+"46dc47d8-dc5c-4f97-87e2-596e594a3477",--WPN_HUM_Dagger_B_1 (Honed Blade)
+"9e6d5d59-e582-454f-a4e5-6dfffb1bfc9b",--WPN_HUM_Dagger_Orin_A (Blade of the First Blood)
+"1667126c-fd47-4e83-919b-c7534081b9ad",--WPN_HUM_Dagger_Orin_A_Netherstone_A (Netherstone-Studded Blade)
+"fb08eef6-f6a0-454e-ab14-c1470f3ba18d",--WPN_HUM_Dart_A_0 (Dart)
+"5557cbf6-ce24-48de-beed-3be1a77e1c82",--WPN_HUM_Dart_A_1 (Dart +1)
+"e292c502-b116-4a46-a232-dd53f7838f6f",--WPN_HUM_Dart_A_2_NOT_APPROVED (Dart +2)
+"9eadef92-5dd0-408e-9b55-1cf791cafe9d",--WPN_HUM_Flail_A_0 (Flail)
+"04ae8618-3f49-453a-91f2-e5ac68cf366f",--WPN_HUM_Flail_A_0_Rusty_A (Rusty Flail)
+"9076abf1-1029-4be9-a7cf-428d2b6fdea5",--WPN_HUM_Flail_A_1 (Flail +1)
+"23ab9011-ef66-463e-a8ee-012321be6d1c",--WPN_HUM_Flail_A_2 (Flail +2)
+"4c86f6ac-5829-41f2-a3f0-d3e893334961",--WPN_HUM_Flail_Myrkul_A_0 (Flail of Myrkul)
+"05ca18da-41f4-4385-b370-0f75a989e119",--WPN_HUM_Flail_Myrkul_A_1 (Myrkulite Scourge)
+"99f3b2d9-e03d-4cd5-9a67-5435a95682da",--WPN_HUM_Glaive_A_0 (Glaive)
+"be861724-206e-483e-a42d-9dd131030ad6",--WPN_HUM_Glaive_A_0_Rusty_A (Rusty Glaive)
+"15d2830c-ac76-4b5b-969d-05197875b1c2",--WPN_HUM_Glaive_A_1 (Glaive +1)
+"bc1c2a84-27f5-46e4-b4b4-0f5ca534469c",--WPN_HUM_Glaive_A_2 (Glaive +2)
+"e7dab8bd-8037-4d8e-9c4e-ebec705912aa",--WPN_HUM_Glaive_Pact (Pactbound Glaive)
+"d5712e24-ce9e-42ce-8fad-6e049b62c28c",--WPN_HUM_Greataxe_A_0 (Greataxe)
+"a8f37e10-8590-4a65-85d1-29bf8ef5bd64",--WPN_HUM_Greataxe_A_0_Rusty_A (Rusty Greataxe)
+"afbfaee7-e2cd-48e7-8c46-d2377c7320e3",--WPN_HUM_Greataxe_A_1 (Greataxe +1)
+"ce8a894c-3dc6-48dc-bb8f-af5390890d43",--WPN_HUM_Greataxe_A_2_NOT_APPROVED (Greataxe +2)
+"9fffd630-0361-4a3e-95b1-67bcfd43ca9b",--WPN_HUM_Greataxe_B_0
+"17925d9f-e319-4b6d-8e25-90cb802d932c",--WPN_HUM_Greataxe_B_1
+"19ce6720-03b6-4d22-bf35-4963b510d1da",--WPN_HUM_Greatclub_A_0 (Greatclub)
+"d64e1a13-18a5-4cdc-ac02-977523435f8f",--WPN_HUM_Greatclub_A_1 (Greatclub +1)
+"adf0ef57-7811-40ed-9d29-05c6336f9e1f",--WPN_HUM_Greatclub_A_2 (Greatclub +2)
+"ecfb9f69-5bc3-402e-acd8-c91d57e28403",--WPN_HUM_Greatsword_A_0 (Greatsword)
+"82311843-dae9-4bda-86fb-40b722daf82e",--WPN_HUM_Greatsword_A_0_Rusty_A (Rusty Greatsword)
+"1a2a58b7-4bd5-44d5-b1fe-8cd7e5b53def",--WPN_HUM_Greatsword_A_1 (Greatsword +1)
+"2741505a-9d0b-4c9e-adcd-2e6339491e95",--WPN_HUM_Greatsword_A_2 (Greatsword +2)
+"5e8597e6-7695-4333-8895-1ffe7a47db1d",--WPN_HUM_Greatsword_B_0
+"81a83529-5bb6-4c72-b1af-6fc8f45c5706",--WPN_HUM_Greatsword_B_1
+"e90936db-7f65-446c-819d-c7fc6ba44d6c",--WPN_HUM_Greatsword_Pact (Pactbound Greatsword)
+"f928a70d-5b23-4605-9cae-5342f9ed206e",--WPN_HUM_Halberd_A_0 (Halberd)
+"7addb7c0-f428-4033-9065-f4ad6e4c7e81",--WPN_HUM_Halberd_A_0_Rusty_A (Rusty Halberd)
+"d1019d9d-e5ae-4601-8a63-1b33421926e1",--WPN_HUM_Halberd_A_1 (Halberd +1)
+"0e3b29e8-572f-459d-b382-234ec53b1c08",--WPN_HUM_Halberd_A_2 (Halberd +2)
+"a5d843ab-c3af-4e60-a925-bb2e15828938",--WPN_HUM_HandCrossbow_A_0 (Hand Crossbow)
+"794f58a7-4bc5-4c98-8e66-7a8e242fb7ef",--WPN_HUM_HandCrossbow_A_0_Rusty_A (Rusty Hand Crossbow)
+"d2f396c2-9b1b-4eea-bf21-2f25934f092d",--WPN_HUM_HandCrossbow_A_1 (Hand Crossbow +1)
+"ab150a98-0a8e-4ee2-9dca-580d77f99be3",--WPN_HUM_HandCrossbow_A_2_NOT_APPROVED (Hand Crossbow +2)
+"46b64a36-8446-45bd-98e8-ee81e3136baa",--WPN_HUM_Handaxe_A_0 (Handaxe)
+"2c362536-7ffa-43f4-926c-70dc682ffbff",--WPN_HUM_Handaxe_A_0_Rusty_A (Rusty Handaxe)
+"7a05135d-b285-4186-8a32-a870f1684b60",--WPN_HUM_Handaxe_A_1 (Handaxe +1)
+"04622e3d-5b3f-4f2c-a0db-513a717d911f",--WPN_HUM_HeavyCrossbow_A_0 (Heavy Crossbow)
+"181104f6-6423-42de-b624-e225e5fb8a4d",--WPN_HUM_HeavyCrossbow_A_0_Rusty_A (Rusty Heavy Crossbow)
+"6af59cba-cc38-4511-9c3b-75caac4b96b5",--WPN_HUM_HeavyCrossbow_A_1 (Heavy Crossbow +1)
+"59c190d2-4b91-44f5-a720-f75d338dd341",--WPN_HUM_HeavyCrossbow_A_2_NOT_APPROVED (Heavy Crossbow +2)
+"0a7adc8d-b561-4f81-a8f2-ec07b5d54955",--WPN_HUM_Javelin_A_0 (Javelin)
+"b908f109-b379-4a49-8f41-5b7f154d9b76",--WPN_HUM_Javelin_A_1 (Javelin +1)
+"d8461adb-44f5-49b3-87ff-ea652f6d4081",--WPN_HUM_Javelin_A_2 (Javelin +2)
+"7050c02e-f0e1-46b8-9400-2514805ecd2e",--WPN_HUM_Katana_A (Katana)
+"91a45770-6596-4ca9-9ae8-eb35cb54a36f",--WPN_HUM_Lancespear_A_0 (Spear)
+"81158eec-1fd0-4fd7-8b02-ce7f5e45f8b5",--WPN_HUM_Leech_A (Artificial Leech)
+"124c31a8-bd29-4262-81ca-267beaa26e03",--WPN_HUM_Legendary_Rapier_A (Legendary Rapier)
+"43b7fbf5-7f6e-4e9e-bce7-c679eea44593",--WPN_HUM_LightCrossbow_A_0 (Light Crossbow)
+"6f0568b1-86ac-4039-8d3a-5db844b55fe8",--WPN_HUM_LightCrossbow_A_0_Rusty_A (Rusty Light Crossbow)
+"509dd5c3-7c72-4335-9b23-19a14a884f2e",--WPN_HUM_LightCrossbow_A_1 (Light Crossbow +1)
+"fa9b6992-dbfc-4265-996b-73d9836cf7fe",--WPN_HUM_LightCrossbow_A_2_NOT_APPROVED (Light Crossbow +2)
+"52f9bd01-fe6e-416d-896e-8600446abb0d",--WPN_HUM_LightCrossbow_A_Makeshift (Makeshift Crossbow)
+"494f21ac-5a1b-4e91-bd30-551b79532516",--WPN_HUM_LightHammer_A_0 (Light Hammer)
+"0c8a9530-273d-4f64-81b9-0d169d890483",--WPN_HUM_LightHammer_A_0_Rusty_A (Rusty Light Hammer)
+"d0419aaf-9e20-4029-b8e9-9e1a62661b13",--WPN_HUM_LightHammer_A_1 (Light Hammer +1)
+"647f2f89-f10f-4def-ba9e-9078e49b6157",--WPN_HUM_LightHammer_A_2 (Light Hammer +2)
+"d0bf4aef-e423-49ab-9177-c86b2a8efc9a",--WPN_HUM_LightHammer_B_0
+"20e6fc7e-a9d1-403b-a725-e3fe781521bb",--WPN_HUM_LightHammer_B_1
+"86e3d864-309c-4c17-ba38-877ce487d481",--WPN_HUM_Longbow_A_0 (Longbow)
+"049173ec-636a-487e-a9ed-bfafeadf6bb7",--WPN_HUM_Longbow_A_1 (Longbow +1)
+"118967f7-14de-41fa-bec8-3ba383252e9a",--WPN_HUM_Longbow_A_2_NOT_APPROVED (Longbow +2)
+"9160904e-0c71-49df-8f9e-b1e232a2421d",--WPN_HUM_Longbow_Broken_A
+"1865323f-b428-4791-a0a9-578841e57463",--WPN_HUM_Longsword_A_0 (Longsword)
+"dddd2204-0ee3-47b0-a7ea-6b5216a65e89",--WPN_HUM_Longsword_A_0_Rusty_A (Rusty Longsword)
+"3fc2ba50-3070-4caa-abe8-3bf885969bde",--WPN_HUM_Longsword_A_1 (Longsword +1)
+"970c962d-dca1-4b90-8d02-81a4e59e3f08",--WPN_HUM_Longsword_A_1_Golden (Longsword +1)
+"e3b2adb6-7493-466e-9c65-4281fb74e83f",--WPN_HUM_Longsword_A_2 (Longsword +2)
+"d116f35c-4399-408c-ba90-b455a5d29a1f",--WPN_HUM_Longsword_Adamantine_A (Adamantine Longsword)
+"2af7255d-bae1-4d4c-a8ba-4a2b5909a794",--WPN_HUM_Longsword_Broken_A (Longsword)
+"a4338d7c-5b70-4076-9711-d3803fab2e1b",--WPN_HUM_Longsword_Deathknight (Longsword)
+"083ddacf-e03c-4681-887b-80dee8158b26",--WPN_HUM_Longsword_GuardianOfFaith_Evil
+"dd0e60fd-a334-411b-97cf-fa6a015c578b",--WPN_HUM_Longsword_GuardianOfFaith_Good (Longsword)
+"82d42ba1-5488-49a7-b4db-32332cee7521",--WPN_HUM_Longsword_GuardianOfFaith_Neutral
+"3186796d-3ab3-4d49-bfc2-cba1aff0cf5a",--WPN_HUM_Mace_A_0 (Mace)
+"ce1c45a5-5606-4604-9afa-beca19fd03e1",--WPN_HUM_Mace_A_0_Rusty_A (Rusty Mace)
+"5a948b12-ca43-4256-9821-0d151036dbd1",--WPN_HUM_Mace_A_1 (Mace +1)
+"f203a318-ea9a-4117-8d27-299dabafd1d3",--WPN_HUM_Mace_A_2 (Mace +2)
+"df08ec01-52f0-4fdf-b5e7-4fa0970a480a",--WPN_HUM_Mace_Adamantine_A (Adamantine Mace)
+"6835bc61-36a4-4055-889b-4931e570682a",--WPN_HUM_Magicstaff_A_0 (Staff)
+"d25bc94a-5ee9-448f-9210-f2dad61ae7e5",--WPN_HUM_Magicstaff_B_0
+"b46e702a-1094-4a58-9b91-c75ad5ddf57d",--WPN_HUM_Magicstaff_C_0
+"48318705-311a-4b4c-b911-18d260d6db0f",--WPN_HUM_Magicstaff_D_0
+"506289c6-c461-4a6b-b6a5-aa78e55d7445",--WPN_HUM_Magicstaff_E_0
+"10123d22-dcba-4469-a45c-ca719f1f43df",--WPN_HUM_Magicstaff_Lorroakan_A (Lorroakan's Staff)
+"5487ceb4-b009-46ae-8ed6-cd3baaf0a18d",--WPN_HUM_Maul_A_0 (Maul)
+"67e97333-2225-4797-9c06-0a0e08e6edd7",--WPN_HUM_Maul_A_0_Rusty_A (Rusty Maul)
+"7e8ef269-0e7b-4352-8828-89c5fced943c",--WPN_HUM_Maul_A_1 (Maul +1)
+"904286be-03fc-4755-adf0-9fd5f44942f4",--WPN_HUM_Maul_A_2 (Maul +2)
+"0a6f620d-32f4-499a-9c11-db105441a57a",--WPN_HUM_Moonblade_A_NOT_APPROVED (Shortsword)
+"26a9fba6-1a60-4691-84ea-da7ffcb304e0",--WPN_HUM_Morningstar_A_0 (Morningstar)
+"f8856d2d-ffda-417c-b7a8-c7aa757903b7",--WPN_HUM_Morningstar_A_0_Rusty_A (Rusty Morningstar)
+"deea755b-5335-49d9-bd0e-dbaab9eaf94c",--WPN_HUM_Morningstar_A_1 (Morningstar +1)
+"9e2c45b2-0411-42cc-bac6-6222c1334cb0",--WPN_HUM_Morningstar_A_2 (Morningstar +2)
+"baa5b139-42ad-40fd-b6c3-6b52b092c48e",--WPN_HUM_Pike_A_0 (Pike)
+"0eddcd68-36fb-4c9f-8cbb-66513d8d718e",--WPN_HUM_Pike_A_0_Rusty_A (Rusty Pike)
+"40fa8049-b6c1-4463-b212-52ad13b5d687",--WPN_HUM_Pike_A_1 (Pike +1)
+"50ffcd8e-eaa2-479c-b8ed-117ef5436b49",--WPN_HUM_Pike_A_2 (Pike +2)
+"8454a13e-291f-47ec-a600-d41c32391064",--WPN_HUM_Pike_Broken_A (Broken Pike)
+"96e2abaf-78ff-4dcb-a6a3-a5f0c348bd9f",--WPN_HUM_Quarterstaff_A_0 (Quarterstaff)
+"2fa18ee4-92df-486f-97d2-dd0a720b6fad",--WPN_HUM_Quarterstaff_A_1 (Quarterstaff +1)
+"e1e112b2-5465-4e37-acdc-372666ec1521",--WPN_HUM_Quarterstaff_A_2 (Quarterstaff +2)
+"f99fe985-168c-4ab6-8c21-8fbd1ef16a1a",--WPN_HUM_Quarterstaff_B_0
+"45c9d3a2-8ea5-4bbf-b1cf-e0acaa0f23b2",--WPN_HUM_Quarterstaff_Broken_A (Broken Quarterstaff)
+"b5c85eb7-ed4f-4e90-a317-5547ddaf3650",--WPN_HUM_Quarterstaff_C_0
+"7061f489-4b13-4982-aa09-cf0ad961e75f",--WPN_HUM_Rapier_A_0 (Rapier)
+"1958c259-3772-46ac-9de3-741806f18703",--WPN_HUM_Rapier_A_0_Rusty_A (Rusty Rapier)
+"5a6cea10-b3f6-4370-8eed-0b69b4ba531a",--WPN_HUM_Rapier_A_1 (Rapier +1)
+"5c572e8e-8693-48cf-b494-2df0341f7ced",--WPN_HUM_Rapier_A_2 (Rapier +2)
+"705662e8-2a7f-4c7e-b0a0-e505395a45e3",--WPN_HUM_Rapier_Pact (Pactbound Rapier)
+"e082f373-81ec-4f4b-818b-9ee86952e2fa",--WPN_HUM_Salami_A (Salami)
+"b47c0946-bac7-4c2e-9db8-f943728bedf9",--WPN_HUM_Sceptre_Karsus_A (Sceptre)
+"868217db-9dcb-414c-bb88-e321ab3e0349",--WPN_HUM_Scimitar_A_0 (Scimitar)
+"134cca90-23ea-497d-8698-b7a66bab59d3",--WPN_HUM_Scimitar_A_0_Rusty_A (Rusty Scimitar)
+"7cc7a0e1-d0b8-4569-afb2-d538e8941894",--WPN_HUM_Scimitar_A_1 (Scimitar +1)
+"5193af64-48c1-406f-90bf-87f7f01b4684",--WPN_HUM_Scimitar_A_2 (Scimitar +2)
+"503b4f8d-da61-4fc1-a4b7-cad124a10c69",--WPN_HUM_Scimitar_Adamantine_A (Adamantine Scimitar)
+"d2af60ea-1b72-4d25-a188-6d8bc4fe255b",--WPN_HUM_Shield_A_0 (Studded Shield)
+"cb2d6c27-ec29-4555-adf2-41e8c1952439",--WPN_HUM_Shield_A_1 (Shield +1)
+"49979c37-1a3a-46f8-af5b-2ea63fc11722",--WPN_HUM_Shield_A_2_NOT_APPROVED (Shield +2)
+"96907713-b560-4daf-ab32-3c1aec3f3890",--WPN_HUM_Shield_Adamantine_A (Adamantine Shield)
+"24fa28d4-f679-44bf-865e-c7e70dcb9588",--WPN_HUM_Shield_B_0 (Wooden Shield)
+"a28ecc05-b67b-493b-8cd2-ac7229e703d2",--WPN_HUM_Shield_B_1 (Iron-Banded Shield +1)
+"d59619ef-320f-4c16-8e21-0644034f0c26",--WPN_HUM_Shield_Broken_A (Broken Shield)
+"4491fcaf-03bf-4087-baf3-b638657080f6",--WPN_HUM_Shield_C_0 (Wooden Shield)
+"badf2418-01ac-410d-931e-72b1dac071c7",--WPN_HUM_Shield_C_1 (Studded Shield +1)
+"c069f1f2-1040-4c71-b796-5a95eecfa711",--WPN_HUM_Shield_D_0
+"8c02c87f-955d-4cc2-b547-f22462ad7106",--WPN_HUM_Shield_D_0_Rusty_A (Rusty Studded Shield)
+"26b81847-b0dd-4150-aef7-602fcbb72eca",--WPN_HUM_Shield_D_1 (Iron-Banded Shield +1)
+"5b8fe99f-56d9-48a8-a9d0-8290ebae6461",--WPN_HUM_Shield_DeathKnight
+"89792dc1-221b-462e-adcb-026f2cafbb95",--WPN_HUM_Shield_E_2
+"ab10f66f-6e93-43f5-9384-82565f14124a",--WPN_HUM_Shield_FlamingFist (Metal Shield)
+"6fb7aabd-bdf8-4fd4-b43c-6cc6c07e99b1",--WPN_HUM_Shield_FlamingFist_1 (Flaming Fist Shield)
+"5d4c7c48-8531-494f-8fc3-936122d8a6fa",--WPN_HUM_Shield_Myrkul_A (Myrkul Shield)
+"c5403c1d-f372-43e1-927a-9189e9e3545d",--WPN_HUM_Shortbow_A_0 (Shortbow)
+"a46173b7-afd6-48e0-9c76-817acd027574",--WPN_HUM_Shortbow_A_1 (Shortbow +1)
+"d9a98dce-1027-4324-939c-3c9cfe776731",--WPN_HUM_Shortbow_A_2_NOT_APPROVED (Shortbow +2)
+"82992370-cb61-4381-b390-891a3a9bd075",--WPN_HUM_Shortbow_A_Makeshift (Makeshift Bow)
+"467ddb4f-6791-41fa-99f7-ee8620d63bbe",--WPN_HUM_Shortsword_A_0 (Shortsword)
+"9d66df2d-8e8f-4798-8684-77b738d26704",--WPN_HUM_Shortsword_A_0_Rusty_A (Rusty Shortsword)
+"261b946f-154b-4f75-8985-cab6531034a2",--WPN_HUM_Shortsword_A_1 (Shortsword +1)
+"0839fb15-24ab-4c3a-b168-413a47ed710a",--WPN_HUM_Shortsword_A_2 (Shortsword +2)
+"50d677ed-3a0e-40e9-8291-ee6823af5672",--WPN_HUM_Sickle_A_0 (Sickle)
+"1d75dc84-b276-47b0-a0be-a5b25dfcb086",--WPN_HUM_Sickle_A_0_Rusty_A (Rusty Sickle)
+"d31af642-ae35-4f22-b7a6-100f3048be33",--WPN_HUM_Sling_A_0 (Sling)
+"bca0fca1-b81d-47a7-9be3-18e43a8fe626",--WPN_HUM_SpearOfNight_A (Spear of Night)
+"9f0f1c0e-012d-44e1-9b29-86c64d2bf675",--WPN_HUM_Spear_A_0 (Spear)
+"86450ec8-d876-457f-92c0-7bb11e8f38f8",--WPN_HUM_Spear_A_0_Rusty_A (Rusty Spear)
+"158e6f29-89e9-4279-8f8f-85078f047225",--WPN_HUM_Spear_A_1 (Spear +1)
+"74d9758a-84e9-4244-9ae8-14acee76acb3",--WPN_HUM_Spear_A_2 (Spear +2)
+"81d1c0d2-ed2d-4261-9ea0-2b29c1cc21f5",--WPN_HUM_StaffOfCrones_A (Staff of Small Magic)
+"9515172b-511a-44dc-bf97-8b63bca4ea10",--WPN_HUM_Staff_Carrion_A (Staff)
+"4f0bc5b8-ff1e-49cd-b1f0-ee45c1ae4a9e",--WPN_HUM_Staff_Selune_A (Staff of the Moonmaiden)
+"a24ceeff-2db2-40be-b633-720b0bbab736",--WPN_HUM_Sun_Mace_A (Sun Mace)
+"78837dd4-b4fb-4c9d-937d-d3ef56b4d9c9",--WPN_HUM_Sun_Mace_A_Glow (Dawngrip Mace)
+"3ff2f3b9-daf6-457b-85e3-bd5ac95b6318",--WPN_HUM_Sun_Mace_Lathander_Blood_A
+"7b961f08-46c1-46b1-99bc-c59283831a0b",--WPN_HUM_Sun_Mace_Lathander_Blood_A_Glow
+"afdc3411-7dad-4483-8ee1-e6a8f37b3ee4",--WPN_HUM_Sword_Shar_A
+"75cea463-4395-4600-ad93-7017415b16e3",--WPN_HUM_Syringe_A (Syringe)
+"50c43f27-a12e-412c-88f0-56e15eba692a",--WPN_HUM_Torch_A (Torch)
+"8d175e5e-355e-4b27-9890-d35e36204487",--WPN_HUM_Torch_A_StartLit
+"81705db9-5b32-4ccd-91be-f8bad863ec48",--WPN_HUM_Torch_Lantern_A (Lantern)
+"e13facc6-aced-4b48-b239-b0e76448013f",--WPN_HUM_Toy_Shield_A (Training Shield)
+"5e651778-cc78-425e-b27d-483b1c8afa82",--WPN_HUM_Toy_Sword_A (Practice Sword)
+"764dcd70-9206-457c-9366-7aa9e3370514",--WPN_HUM_Trepan_A (Trepan)
+"d3807461-7c32-44ae-9aba-49ef4d3bf35e",--WPN_HUM_Trident_A_0 (Trident)
+"27ef84b1-ea40-4f06-a013-f6281511f0e9",--WPN_HUM_Trident_A_0_Rusty_A (Rusty Trident)
+"2fab5801-76b1-4669-95d9-7df76bed12dd",--WPN_HUM_Trident_A_1 (Trident +1)
+"6cf827d6-5bae-480a-a1b4-d7fdb0e68801",--WPN_HUM_Trident_A_2 (Trident +2)
+"fd1b4c45-e2df-4add-bc56-697d0339c4bd",--WPN_HUM_Trident_Pact (Pactbound Trident)
+"0e74cc0c-efd5-4865-b0f3-327c8b87a269",--WPN_HUM_Wand_A_0 (Wand)
+"bc817e28-0266-4453-8f79-aaa1ed6e1a2f",--WPN_HUM_Wand_A_1 (Wand)
+"60d6429b-eb12-4654-988d-911e2fab3b93",--WPN_HUM_Wand_B_0 (Wand)
+"251ff7e1-412e-4804-b8b3-8b9e3aad06be",--WPN_HUM_Wand_C_0 (Wand)
+"c330eaf6-1616-42a6-b6aa-0fe9d6194d0f",--WPN_HUM_Wand_D_0 (Wand)
+"fb6cf351-6071-4575-b3aa-22fa553cb210",--WPN_HUM_Wand_E_0 (Wand)
+"bcaf919a-f644-41f0-92c3-cb033fff27f7",--WPN_HUM_Wand_F_0 (Wand)
+"edcfcd84-55ad-4b3c-a15f-70c587f2609b",--WPN_HUM_Wand_G_0 (Wand)
+"25e4f2e5-115d-4350-8f96-56955fb4026a",--WPN_HUM_Wand_H_0 (Wand)
+"0ec20c3d-a446-40ac-aaed-8b973cae075f",--WPN_HUM_Wand_I_0 (Wand)
+"d4f00c34-9bb8-4175-9c1c-7487010e7f9d",--WPN_HUM_Wand_J_0 (Wand)
+"07259e5d-53c1-413d-ab8d-c7b8dd9a8331",--WPN_HUM_Wand_K_0 (Wand)
+"6b17998d-2e79-405d-8b1f-beb53658312f",--WPN_HUM_Warhammer_A_0 (Warhammer)
+"ed53c828-d185-408e-8381-9b042849de8e",--WPN_HUM_Warhammer_A_0_Rusty_A (Rusty Warhammer)
+"3e1b3db9-036e-4931-ab92-c3730a1c3d5f",--WPN_HUM_Warhammer_A_1 (Warhammer +1)
+"e6b027a7-40bb-445e-b199-38b08d2b4832",--WPN_HUM_Warhammer_A_2 (Warhammer +2)
+"fdaf8461-4d1a-4364-8d7d-4dd9ce824a1e",--WPN_HUM_Warhammer_Pact (Pactbound Warhammer)
+"a088775a-8f75-42f2-aa74-76a3f80701fa",--WPN_HUM_Warpick_A_0 (War Pick)
+"1d6d5983-4546-4eba-b9e6-d23021d08805",--WPN_HUM_Warpick_A_0_Rusty_A (Rusty War Pick)
+"75586d3e-21b2-4d94-ac99-99a6b0e8c3dd",--WPN_HUM_Warpick_A_1 (War Pick +1)
+"a5012da9-9cfa-467b-901a-61e33db55516",--WPN_HUM_Warpick_A_2 (War Pick +2)
+"64000dd2-aae4-41c4-a16f-dca738d9743a",--WPN_HUM_WoodcutterAxe_Shadow_Curse_A (Shadow Cursed Woodcutter Axe)
+"1534c8ee-3651-477d-999c-b22efc9f850d",--WPN_Halberd_Automaton (Light of Creation)
+"723a5397-cd16-4969-8e47-f00a1ba7c368",--WPN_Halberd_REF
+"1f5cbcc5-5ba7-4273-ab53-7a12a40cc438",--WPN_HandCrossbow_REF
+"76045155-50ca-4047-a23b-46c1c4ab085e",--WPN_Handaxe_REF
+"f75005ab-40c3-4e42-b3ed-2b2fb8aa010a",--WPN_HeavyCrossbow_REF
+"a0d3f2f8-3277-48fb-bc74-8d94d9d086d8",--WPN_JUSTIC_Greatsword_A
+"037311db-7fdf-41be-bf4a-184920f90896",--WPN_JUSTIC_Greatsword_REF
+"5cc3db84-3891-4795-afa3-d3cbfffc066e",--WPN_Javelin_REF
+"8fdd7b33-6740-4d15-935c-9e54f54e16d4",--WPN_Kuotoa_Javelin_A_1 (BOOOAL's Arms)
+"2099af4a-caa2-4e06-9b6d-fa6e9754bd09",--WPN_Kuotoa_Shield_A_0 (Fossilised Shell)
+"917d76c0-1969-4cd5-b5fe-7bf406081283",--WPN_Kuotoa_Shield_A_1 (Kuo-Toa Shield)
+"91ae041c-b0b6-456a-805d-b2d7982f3d94",--WPN_LOW_KurwinCoffin_KurwinsCauteriserMace (Kurwin's Cauteriser)
+"58f57bdc-1d89-4b60-aedc-11f36e270205",--WPN_LightCrossbow_REF
+"b9a01258-ae0b-4217-82d9-a9f6197b9c89",--WPN_LightHammer_REF
+"27943fda-2491-4e67-a740-559d02dc08fa",--WPN_Longbow_REF
+"f344c6b2-64bc-4c6d-a66d-5d3966191210",--WPN_Longsword_REF
+"136a5889-4548-45de-bc2a-56f08ca91844",--WPN_MFL_Staff_REF
+"20bd2850-f6b3-4f13-bf96-c566d8df0de4",--WPN_MINOTAUR_Greatclub_A (Greatclub)
+"3112f0f5-4073-45d2-8e37-eeafa1558896",--WPN_MYRKUL_Apostle_Scythe_A (Scythe of Myrkul)
+"c0fb0a11-1f29-470c-a95b-102377ef2356",--WPN_Mace_Deva_A (Deva Mace)
+"01a26e77-c4bc-4237-ae71-59c634723a95",--WPN_Mace_REF
+"beb4fa70-6b2b-4e7b-b0c5-3fb67bb48210",--WPN_Maul_REF
+"c86a3bf4-16b4-4d76-a33d-3df5c265aca8",--WPN_Merregon_Halberd_A (Merregon Halberd)
+"9a3a1719-3f18-400e-ab77-55b575c12090",--WPN_Moonlantern_Quarterstaff_A_0 (Moonlantern)
+"ea00c5c9-b010-4fa3-bf10-0c7b8c5e7854",--WPN_Morningstar_REF
+"f554e750-4a86-45d7-b1a5-027e27df55ef",--WPN_ORTHON_HandCrossbow_A (Hand Crossbow)
+"7f2203f8-0162-4c3d-8635-c700fa2982ab",--WPN_ORTHON_HandCrossbow_REF (Hand Crossbow)
+"0d5e17a5-510d-468a-8607-77a326bc453c",--WPN_ORTHON_Shortsword_A (Shortsword)
+"b3f8f4ad-c56d-4fc2-8173-8a17cc36d756",--WPN_ORTHON_Shortsword_REF (Shortsword)
+"01da5a5b-97cd-4989-9ae3-af646eb35bc9",--WPN_Ogre_Greatclub_A (Gnarled Tree Branch)
+"1fdc0473-8d0f-4e59-8ef8-9bd67568c002",--WPN_Ogre_Greatclub_B (Heavy Spiked Club)
+"3186614b-537e-44f1-82bc-c9edba59e593",--WPN_Ogre_Greatclub_B_1HS
+"148cd3dd-bf44-4489-a593-0ead19359aa6",--WPN_Pike_REF
+"44f1ec46-4976-41ac-9697-313083bbc3c1",--WPN_Quarterstaff_REF
+"8b58571f-5d21-4fb6-80eb-bc1081f809d4",--WPN_Rapier_REF
+"4caecc0f-4ae3-4284-bc98-3f01593a8865",--WPN_RoundShield_REF
+"2b72f224-a182-43c7-97e9-dc9a6ba4f9f5",--WPN_SAHUAGIN_Longbow_A (Sahuagin Longbow)
+"b8878c58-e510-4c2f-97f0-da9cc442a75f",--WPN_SAHUAGIN_Spear_A (Spear)
+"8323e1ec-1588-4044-9119-70b87a5fe938",--WPN_SAHUAGIN_Spear_B (Sahuagin Spear)
+"8dcd8335-c066-4b33-ac3a-00f29dedb05f",--WPN_SURGEON_BoneSaw (Bonesaw)
+"0b1e7b94-6ec9-4ae4-a81b-5c91b88eff1f",--WPN_SURGEON_BoneSaw_REF (Bonesaw)
+"9de4ffa7-4d2f-44c5-8bc9-0a17a732f74c",--WPN_SURGEON_Leech (Artificial Leech)
+"0e60fb18-4b91-430b-ada8-ed605a450ba1",--WPN_SURGEON_Leech_REF (Surgeon Leech)
+"96c4bb75-ccc2-4a92-b81c-0465f10e3ea1",--WPN_SURGEON_Syringe (Syringe)
+"21ec46af-c9bb-43af-9450-bdbb309021ff",--WPN_SURGEON_Syringe_REF (Surgeon Syringe)
+"bd96b22d-cc43-4ce9-bd3b-7454262a0b9e",--WPN_SURGEON_Trepan (Trepan)
+"21ba27b3-85b6-4e6b-9210-3109f2faf8c8",--WPN_SURGEON_Trepan_REF (Surgeon Trepan)
+"1803db62-d4c8-4f36-a9b9-49e114d07570",--WPN_Scimitar_Fire_Myrmidon_A (Fire Myrmidon's Burning Scimitar)
+"cac16ce7-f5fd-4314-8b79-94b56d6a8a09",--WPN_Scimitar_Fire_Myrmidon_ConjureElemental (Scimitar of Cinder)
+"19710a61-25df-4851-884e-1c33d2fa4d45",--WPN_Scimitar_Fire_Myrmidon_Wildshape (Scimitar of Cinder)
+"1a63e2ff-7a05-4546-9ef1-75a4b151f513",--WPN_Scimitar_REF
+"b8167a9b-44a8-4cfe-ad88-dbfb7f00c7da",--WPN_Scimitar_Water_Myrmidon_A
+"5c6a74bb-ed5a-4ebf-b08d-06f0d306ecad",--WPN_ShamblingMound_Thornwhip_A
+"84912ccc-b15c-4d6e-b69e-154f3fa2ebbe",--WPN_Shield_REF
+"d28a5c6d-b569-40b7-abd5-4b6f325c98ce",--WPN_Shortbow_REF
+"276e6ec4-7169-4fea-955e-43f26e82214e",--WPN_Shortsword_REF
+"4c6e48bc-2651-45ec-9f6d-83b585a7edfc",--WPN_Sickle_REF
+"fa97e363-e81f-49f9-b663-62aae8c552ce",--WPN_Sling_REF
+"9b3005ad-3457-4003-a976-f549f360c378",--WPN_Spear_REF
+"54616284-03ad-4a60-884c-91e43cdea83b",--WPN_Toll_Collector_Halberd_A (Toll Collector Halberd)
+"3c4c27dd-dd67-456c-9567-bc9fb7867238",--WPN_Trident_REF
+"c818edc1-85c4-4c4b-bd62-03ba59265922",--WPN_Trident_Water_Myrmidon_A (Trident Water Myrmidon)
+"ba86b029-9232-4ad2-9e2d-9edcdd1d728b",--WPN_Trident_Water_Myrmidon_ConjureElemental (Trident of the Depths)
+"639a6279-f487-4783-9381-493f63e66ade",--WPN_Trident_Water_Myrmidon_Wildshape (Trident of the Depths)
+"e2391c41-845c-4d8e-9aba-d2392e193bfd",--WPN_WATCHER_Crossbow (Watcher Crossbow)
+"c25e9381-7fbd-4e07-9383-9df8aa43d4ed",--WPN_WATCHER_Greatsword_A (Watcher Greatsword)
+"ebdf1022-bb30-4a03-ac29-82f488bfce4f",--WPN_WATCHER_Greatsword_B (Watcher Greatsword)
+"73bb434e-c6c1-465f-a389-78148ac2584d",--WPN_Wand_REF (Wand)
+"4d76009b-7410-424a-8391-362aa95852cd",--WPN_WarPick_REF
+"a75ebd91-46dd-4c6a-881e-878e5ba6f67a",--WPN_Warhammer_REF
+"c71e2798-31ae-4f57-8073-c6195c2e9d02",--WPN_Wood_Woad_Club (Twisting Branch)
+"41b07341-1bf3-450d-9303-377c035c09ac",--WPN_Wood_Woad_Shield (Organic Shield)
+"18c6beaf-e553-462d-aa59-74b5ff1adb1c",--WYR_FfionRing (To the Best of Wives and Mothers)
+"4a7dbf09-3bd1-4547-ae5f-dcc1ce4b3ea9",--WYR_Helper_Gortash_CrushingFist (Bane's Fist)
+"9dc895b8-4247-44e3-a343-60622843ff09",--WYR_Posthouse_GortashCoronationPoster (Gortash Coronation Poster)
+"864981e0-ba34-44f9-9e71-7777f2fdbc18",--WYR_Posthouse_Pigeon_Blood_F (ls::TranslatedStringRepository::s_HandleUnknown)
+"c045ff24-dabc-4ebc-bc8d-b0e3e63a2ee1",--WYR_Posthouse_Pigeon_Blood_G (ls::TranslatedStringRepository::s_HandleUnknown)
+"2ee08348-ca7c-449c-9f10-25da8c8b5aad",--WYR_Posthouse_Pigeon_Blood_H (ls::TranslatedStringRepository::s_HandleUnknown)
+"f8bfbb5f-2562-4cd1-808b-71683862bdf2",--WYR_Posthouse_Pigeon_Feather_A (ls::TranslatedStringRepository::s_HandleUnknown)
