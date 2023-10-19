@@ -1,167 +1,3 @@
--- Underware
-"4b30a649-fd88-4f64-a57b-1149d7b9ac41",
-"8494f6d9-d588-4d18-bb0d-c5a58e911771",
-"6afe0665-ef74-44bb-916a-fb00a267b4b9",
-"9fecf84d-911f-4986-9454-0429ac437f45",
-"d19364cf-18f9-4841-919b-1e3f0ba2c58c",
-"0ec7d956-e65f-4bfa-b677-22f399f81a32",
-"f328179e-f5e1-4fd4-bd41-efad411223e8",
-"6d076cab-f23a-4a80-89b6-107be7f345bd",
-"5cdc0fe0-dbda-4f31-89f8-9e16782daef1",
-"1cb3fb1b-2dfc-446a-9c9b-666eb0de05d6",
-"1dc7ff19-a089-4289-8a4f-77c4be1c229d",
-"d692d48f-9a39-4001-8a38-c01e397953dc",
-"50a2cef0-8e1b-4166-ac15-06f8bde59e29",
-"3caad2f1-719f-4070-b7f0-887c49c773d3",
-"7d989a9c-ab69-43e0-8fca-02b13d254ae2",
-"78063154-288f-41aa-a99f-e56cbf601129",
-"9ebb9117-a0ae-46f2-a243-8d67650e9586",
-"305718fa-de30-474f-97a8-41ae79b4919e",
-"d40b567d-6b66-447e-8923-2bbd0d7aea00",
-"7efbf614-e004-4e64-b39e-c7928e703b8b",
-"e1797af7-5459-4db2-99da-5703fa203edb",
-"5fa043bf-0445-49ad-9e82-0df77c639fe2",
-"82c84433-0464-442a-8e5a-0891d829f99a",
-"91259e65-dd71-4312-ba3c-c55757978788",
-"e865db4c-4df3-48e9-8cf3-5abad75510ba",
-"185ab1be-e93d-4518-b053-d6d4d7168d68",
-"48a3ffbe-f14e-4cfe-b45e-ebadb3af0fd4",
-"73874ef8-a3c4-4a68-8d2a-ed3d580dfb52",
-"b460bd0c-58fe-4a56-831c-af92fd4ba7e2",
-"498c155f-8675-4a55-9cb0-89dd7270469f",
-"1930ceec-4a50-43d9-8589-94593c449be4",
-
--- CampCloath
-"3dc4b718-0504-43e2-a88f-0d6736bf6b25",
-"3fc58d24-9743-4e82-a4bd-ad18eda257cb",
-"af6ffb20-cbdc-410c-9a12-6c217eb8aa9c",
-"f369f4fa-2da7-4693-a147-16cfaf02bca5",
-"b7392453-6569-4c24-9a1b-cbaea7cebac8",
-"c56bbf29-2315-415e-a488-fada851828ea",
-"dc74db6c-14b2-44fa-8415-0dd1194e90e2",
-"0d0d9c0f-e9aa-4ba4-a0a9-1a0b7b7069ca",
-"5c79e518-2c59-41c5-84a7-d43a58e76d09",
-"54de4a07-c57c-421e-912c-7e8bd93ca0c4",
-"42ff9d36-849d-4777-968c-8cf9ca7d8027",
-"29a31736-6f9d-46ef-880d-ac3157187202",
-"7062410b-439c-4f2f-bc48-1c16ab1ace20",
-"bd2ac836-5584-41e5-b4ff-01782c0dec6d",
-"516d4737-5f69-4083-8bae-3f09e5aab180",
-"52353c73-2c58-4dd7-8370-adb266a17fab",
-"2db4d06e-db75-4bcf-97a2-de4dff6939af",
-"eff198aa-7040-4893-bde4-b0983c08142c",
-"d9caff77-293c-4e8d-a721-3e17908490f8",
-"58f9af08-f4ac-412d-ba38-f8b1d7db9e5f",
-"12c9ad5c-040f-44a5-ac30-d8ed4505d651",
-"8b9ee0cf-35a6-4439-9402-d5f829645e2a",
-"d73c75f6-7fbf-4336-817e-aab883c47406",
-"ef840839-3516-43b1-823f-103b1e0b04bf",
-"62950ae1-b74f-46a6-bfd0-055c93bad651",
-"7ab22473-bb9a-49f4-9890-4d3a691331b6",
-"82fa106f-3fb9-4c00-818f-5e5df5deb434",
-"a89389a2-37c5-4fcd-b392-f856451a2325",
-"6f3c80a9-14f8-481d-ab27-5426a00329e1",
-"cf7e5e2f-d791-4929-b1bc-a7ba35db1687",
-"5efe9bb8-bffe-4c91-bbd6-bee4d5d0611c",
-"ab68a753-921f-4df5-9979-d9663cea078e",
-"a5cc728e-6b8a-4458-86cd-7492f7c4a266",
-"2e3d2a61-a0ba-495c-80e2-faa452542035",
-"164ebd0f-432e-4aa6-8589-5dccafc8383e",
-"f577a9be-8793-48da-a03d-e66d993dc4e7",
-"c2024c47-967b-4d6b-bfb3-978f502d1321",
-"c65c5dd5-705c-4103-904c-0835d81bd846",
-"c9d62e5b-2734-42cf-9069-6953b8060df0",
-"47e4e37b-d3fa-4e23-8d53-203804cd3b6e",
-"dfe7cf67-64b5-4b91-9ae2-50aea87493f9",
-"9c1fedb8-4262-4426-84cc-8ad8dc01be97",
-"12c2f3d2-a4a6-47e6-a7aa-dfcced16add6",
-"3c8eca7a-8c7c-40a5-be4c-64455630f08f",
-"f4064489-adce-4b58-b664-311c6d476880",
-"0469f558-e4f0-4eb5-b4b2-bf00b8e0aa15",
-"a38159ef-a981-4abd-bcdd-58e61558960e",
-"0d2cf317-1e3d-492b-8755-00f33cd3f24f",
-"efb49491-ca1d-4bab-a7a7-815f8d298ee0",
-"66685917-3cd9-4dc8-a792-319288dacb30",
-"5daa7ba8-8e8d-4e68-9f5a-3c9f89c32c89",
-"6909f7fa-6da9-40ea-898e-91cbaac9bf5c",
-"d0b540dd-c778-4573-b0cb-149a0309bfa2",
-"0004915f-4399-4ae1-beab-85a62c11b674",
-"66ab6508-2aa1-4bea-a0ab-c5837a1fb615",
-"05916397-ed55-46e0-bec3-ab6c4b2b1cb4",
-"0e9c3ca7-070f-43e9-b642-bd0b21f76290",
-"91bb667d-239b-4d56-9287-c41124736872",
-"1c6c44c6-4bc5-44f6-b5f6-8d3cc4654134",
-"6cd27edd-fd6b-491b-8263-c01d9dd915aa",
-"c1212df0-3f47-4af7-b98a-164fca31da97",
-"a6e5ebd6-beb6-4d67-8aeb-254a2b063332",
-"c9588fa5-3644-4c2d-8b8b-f0d4cdb3869e",
-"9a8a79fe-a9a2-466d-af06-f3973fe5b16b",
-"b3185288-bcb3-475d-aac1-7c34fa88898e",
-"a7b3f166-f909-4103-8c2c-b8559da749b5",
-"0650531b-3a2f-499e-bf4e-58488a14636f",
-"168a676a-af4c-497c-8b98-76a0f6d20462",
-"4880fb87-77b7-4931-a586-6909c4a5752a",
-"e6497a0d-94e6-41bd-8bbd-91885bf56313",
-"22a80754-79f2-4b6a-9de4-3e619a80d5d4",
-"220d0f79-5016-407d-aaa6-5fb4208dcc56",
-"e03b6708-5865-409d-8855-67aa834c60bd",
-"4866f90d-ee70-43a8-96a4-35511f4b824e",
-"8725508f-e47e-488f-8187-3d15ebb9c8e9",
-"39d87577-6f4f-438e-a5b7-abf387a6f0f1",
-"67f1d175-a03b-4cb0-bf3c-c7304b147aca",
-"6bb7a595-7646-48a9-9c44-d39f16c1c5cb",
-"4700fad1-769e-4831-9b3f-4ead08c49cfa",
-"d8bc3625-f1d8-4ad3-8cfd-23b6b496cf36",
-"c6db137e-b61c-418f-9785-b0beb6e6de0f",
-"5272e57c-7ea0-4bda-aac5-449304f4f011",
-"16a8aee6-568c-458e-b006-cb3344cac4fb",
-"cb28ea7d-2838-43e7-a807-11277c44facb",
-"42de5102-7a39-44d2-b1d8-645ec4d8b0ce",
-"556de2bd-99a6-4d62-b78c-d4681ce5bdfa",
-"b8f42945-a42e-46cb-a424-3a0a5e97157a",
-"212bf756-b237-4ede-9c67-e871fd60e788",
-"836e13ab-78a6-4ca3-ba8e-adc4c25205f1",
-"f107cc6a-3a6e-4a58-be16-fbe73b3f7ae8",
-"1856414d-8a47-4e41-8aee-55991b18f494",
-"37ceb8fb-7d41-4373-b31b-6fcc602955b4",
-"03855492-12d7-42bf-866f-8aeb8eae176f",
-"2290f957-2e17-4ceb-870f-bd53f81f866c",
-"ba0fbaf7-324f-4f79-a124-66ba185faef9",
-"d73378c9-fd89-43cf-bfa9-0a7c7c77324f",
-"041882e7-cebb-4923-b284-7f2fed66ffe4",
-"64acdd3e-3813-4d54-90fd-36209d846147",
-"697a6021-ff43-43d5-b9c9-a432bb3ea59d",
-"aa1b4d17-528f-4934-b350-6b17f389b9dd",
-"ef8fde2f-1bb1-4474-b9e7-6f6167cb1666",
-"e92e4dad-8e96-4f27-aacb-cc430df0bc75",
-"b307af36-a2da-4c01-aac3-a31771edd407"
-
--- legendary 
-
-"2eeabe97-8f29-4f4f-827e-6cfcd8fd1779",
- "4c1143b7-1f07-465a-90a0-64df5c00717d",
- "4f313dde-14bb-43a2-abdd-07b2eb38b33a",
- "517231eb-e812-43ed-9ce3-482ba7ed31e6",
- "5961d027-75fd-4ad7-964c-8b786b5839fb",
- "5d66776d-0650-4512-b300-b2ac38e2be3a",
- "61f31bf6-47ec-41e1-9385-2f6c26facc87",
- "7107c86e-ec6a-4bd8-bc93-8147412fc501",
- "7219fca3-5f41-43a0-8253-f4c09d8b6308",
- "7ae705fd-1cfd-4482-a584-d2e68f9c1262",
-"7e39ad11-f8c3-421a-940c-05348c420c7d",
-"7e81bb6a-f465-4fe9-b1db-7ce6198246ba",
-"96a35552-0c05-4df0-9974-2a8f142e4be6",
-"9ff968d4-08ff-4da1-a288-959ac8d7abe1",
-"c1342b19-c898-451c-b2e8-6eb6666fe1c2",
-"d49bf05e-4f94-4860-bd8c-ae63dae811be",
-"d90abf24-3c4e-4bbf-84aa-def05ca9962a",
-"daf0be7f-87d9-448a-b94e-471ffec40ac5",
-"f01c3f5d-c542-420f-86c5-bdddf7819e29",
-"f8578a13-a857-4043-91e4-8101c9e7c004"
-
---- Game v4.1.1.3732833 --- Table v10 ---
---- Game v4.1.1.3648072 --- Table v4 ---
-
 [ENABLE]
 {$lua}
 if syntaxcheck then return end
@@ -466,9 +302,18 @@ Luminous Armour -- https://bg3.wiki/wiki/Luminous_Armour
 Fabricated Arbalest -- https://bg3.wiki/wiki/Fabricated_Arbalest
 Coruscation Ring -- https://bg3.wiki/wiki/Coruscation_Ring
 Callous Glow Ring -- https://bg3.wiki/wiki/Callous_Glow_Ring
+Holy Lance Helm -- https://bg3.wiki/wiki/Holy_Lance_Helm
 
 --- Crit Farm
 Shade-Slayer Cloak -- https://bg3.wiki/wiki/Shade-Slayer_Cloak
+
+--- Reverberation - DONE
+Gloves of Belligerent Skies -- https://bg3.wiki/wiki/Gloves_of_Belligerent_Skies
+Boots of Stormy Clamour -- https://bg3.wiki/wiki/Boots_of_Stormy_Clamour
+Ring of Absolute Force -- https://bg3.wiki/wiki/Ring_of_Absolute_Force
+Thunderskin Cloak -- https://bg3.wiki/wiki/Thunderskin_Cloak
+Ring of Spiteful Thunder -- https://bg3.wiki/wiki/Ring_of_Spiteful_Thunder
+Phalar Aluve -- https://bg3.wiki/wiki/Phalar_Aluve
 
 --- Healer's Kit
 Ring of Salving -- https://bg3.wiki/wiki/Ring_of_Salving
@@ -482,6 +327,8 @@ Amulet of Elemental Tormen -- https://bg3.wiki/wiki/Amulet_of_Elemental_Tormen
 --- Thrower Set
 Ring of Salving -- https://bg3.wiki/wiki/Ring_of_Salving
 Returning Pike -- https://bg3.wiki/wiki/Returning_Pike
+Gloves of Archery -- https://bg3.wiki/wiki/Gloves_of_Archery
+"6d84b9e5-e9e4-477c-8d5b-a3f232a4415a",--UNI_ARM_OfArchery_Gloves (Gloves of Archery)
 
 --- Monker
 Sentient Amulet (Very Rare) -- https://bg3.wiki/wiki/Sentient_Amulet_(Very_Rare)
