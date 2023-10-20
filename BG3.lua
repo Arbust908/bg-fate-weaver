@@ -248,7 +248,6 @@ local items = {
 }
 for i = 1, #items do
     local item = items[i]
-
     TemplateAddToPlayer(item, 1)
 end
 [DISABLE]
@@ -285,17 +284,22 @@ Hellfire Hand Crossbow -- https://bg3.wiki/wiki/Hellfire_Hand_Crossbow
 Drakethroat Glaive -- https://bg3.wiki/wiki/Drakethroat_Glaive
 Battle-Worn Blade -- https://bg3.wiki/wiki/Battle-Worn_Blade
 Phalar Aluve -- https://bg3.wiki/wiki/Phalar_Aluve
-
+Potent Robe -- https://bg3.wiki/wiki/Potent_Robe
+Ring of Mental Inhibition -- https://bg3.wiki/wiki/Ring_of_Mental_Inhibition
+Risky Ring -- https://bg3.wiki/wiki/Risky_Ring
+Stalker Gloves -- https://bg3.wiki/wiki/Stalker_Gloves
+The Dancing Breeze -- https://bg3.wiki/wiki/The_Dancing_Breeze
+Daredevil Gloves -- https://bg3.wiki/wiki/Daredevil_Gloves
 Diadem of Arcane Synergy -- https://bg3.wiki/wiki/Diadem_of_Arcane_Synergy
 Ring of Arcane Synergy -- https://bg3.wiki/wiki/Ring_of_Arcane_Synergy
-
+--- Food - amount 20
 Supply Pack -- https://bg3.wiki/wiki/Supply_Pack
 Owlbear Egg -- https://bg3.wiki/wiki/Owlbear_Egg
-
+--- Dye - amount 20
 Dark Amethyst Dye -- https://bg3.wiki/wiki/Dark_Amethyst_Dye
 Sinful Red on Bone White -- https://bg3.wiki/wiki/Sinful_Red_on_Bone_White
 
---- SunBuild
+--- SunBuild - DONE
 Luminous Gloves -- https://bg3.wiki/wiki/Luminous_Gloves
 The Sacred Star -- https://bg3.wiki/wiki/The_Sacred_Star
 Luminous Armour -- https://bg3.wiki/wiki/Luminous_Armour
@@ -304,8 +308,15 @@ Coruscation Ring -- https://bg3.wiki/wiki/Coruscation_Ring
 Callous Glow Ring -- https://bg3.wiki/wiki/Callous_Glow_Ring
 Holy Lance Helm -- https://bg3.wiki/wiki/Holy_Lance_Helm
 
---- Crit Farm
+--- Crit Farm - DONE
 Shade-Slayer Cloak -- https://bg3.wiki/wiki/Shade-Slayer_Cloak
+Dark Justiciar Helmet -- https://bg3.wiki/wiki/Dark_Justiciar_Helmet
+Covert Cowl -- https://bg3.wiki/wiki/Covert_Cowl
+Sarevok's Horned Helmet -- https://bg3.wiki/wiki/Sarevok%27s_Horned_Helmet
+Bloodthirst -- https://bg3.wiki/wiki/Bloodthirst
+Crimson Mischief -- https://bg3.wiki/wiki/Crimson_Mischief
+The Dead Shot -- https://bg3.wiki/wiki/The_Dead_Shot
+Knife of the Undermountain King -- https://bg3.wiki/wiki/Knife_of_the_Undermountain_King
 
 --- Reverberation - DONE
 Gloves of Belligerent Skies -- https://bg3.wiki/wiki/Gloves_of_Belligerent_Skies
@@ -315,9 +326,24 @@ Thunderskin Cloak -- https://bg3.wiki/wiki/Thunderskin_Cloak
 Ring of Spiteful Thunder -- https://bg3.wiki/wiki/Ring_of_Spiteful_Thunder
 Phalar Aluve -- https://bg3.wiki/wiki/Phalar_Aluve
 
---- Healer's Kit
+--- Healer's Kit - DONE
 Ring of Salving -- https://bg3.wiki/wiki/Ring_of_Salving
 The Whispering Promise -- https://bg3.wiki/wiki/The_Whispering_Promise
+Staff of Arcane Blessing -- https://bg3.wiki/wiki/Staff_of_Arcane_Blessing
+Pearl of Power Amulet -- https://bg3.wiki/wiki/Pearl_of_Power_Amulet
+Wapira's Crown -- https://bg3.wiki/wiki/Wapira%27s_Crown
+Hellrider's Pride -- https://bg3.wiki/wiki/Hellrider%27s_Pride
+The Reviving Hands -- https://bg3.wiki/wiki/The_Reviving_Hands
+Ring of Regeneration -- https://bg3.wiki/wiki/Ring_of_Regeneration
+
+-- Inferno - DONE
+Cinder Shoes -- https://bg3.wiki/wiki/Cinder_Shoes
+Fireheart -- https://bg3.wiki/wiki/Fireheart
+Ring of Self Immoliation -- https://bg3.wiki/wiki/Ring_of_Self_Immoliation
+Thermoarcanic Gloves -- https://bg3.wiki/wiki/Thermoarcanic_Gloves
+Thermodynamic Axe -- https://bg3.wiki/wiki/Thermodynamic_Axe
+Hellfire Greataxe -- https://bg3.wiki/wiki/Hellfire_Greataxe -- optional
+Hellfire Hand Crossbow -- https://bg3.wiki/wiki/Hellfire_Hand_Crossbow -- optional
 
 --- Elementalist
 Ring of Elemental Infusion -- https://bg3.wiki/wiki/Ring_of_Elemental_Infusion
@@ -328,19 +354,51 @@ Amulet of Elemental Tormen -- https://bg3.wiki/wiki/Amulet_of_Elemental_Tormen
 Ring of Salving -- https://bg3.wiki/wiki/Ring_of_Salving
 Returning Pike -- https://bg3.wiki/wiki/Returning_Pike
 Gloves of Archery -- https://bg3.wiki/wiki/Gloves_of_Archery
-"6d84b9e5-e9e4-477c-8d5b-a3f232a4415a",--UNI_ARM_OfArchery_Gloves (Gloves of Archery)
+The Greceful Cloth -- https://bg3.wiki/wiki/The_Greceful_Cloth
 
 --- Monker
 Sentient Amulet (Very Rare) -- https://bg3.wiki/wiki/Sentient_Amulet_(Very_Rare)
 Sentient Amulet (Rare) -- https://bg3.wiki/wiki/Sentient_Amulet_(Rare)
+Bracers of Defence -- https://bg3.wiki/wiki/Bracers_of_Defence
+Gloves of Crushing -- https://bg3.wiki/wiki/Gloves_of_Crushing
+The Graceful Cloth -- https://bg3.wiki/wiki/The_Greceful_Cloth
+The Mighty Cloth -- https://bg3.wiki/wiki/The_Mighty_Cloth
+Vest of Soul Rejuvenation -- https://bg3.wiki/wiki/Vest_of_Soul_Rejuvenation
+Scabby Pugilist Circlet -- https://bg3.wiki/wiki/Scabby_Pugilist_Circlet
+Elegant Light Garb -- https://bg3.wiki/wiki/Elegant_Light_Garb
 
 --- Black Panther
 Rippling Force Mail -- https://bg3.wiki/wiki/Rippling_Force_Mail
 Swires' Sledboard -- https://bg3.wiki/wiki/Swires%27_Sledboard
 The Skinburster -- https://bg3.wiki/wiki/The_Skinburster
 
---- Gith Set
+--- Gith Set - DONE
 Voss' Silver Sword -- https://bg3.wiki/wiki/Voss%27_Silver_Sword
+Soulbreaker Greatsword -- https://bg3.wiki/wiki/Soulbreaker_Greatsword
+Circlet of Psionic Revenge -- https://bg3.wiki/wiki/Circlet_of_Psionic_Revenge
+Psionic Ward Armour -- https://bg3.wiki/wiki/Psionic_Ward_Armour
+Hr'a'cknir Bracers -- https://bg3.wiki/wiki/Hr%27a%27cknir_Bracers
+Boots of Psionic Movement -- https://bg3.wiki/wiki/Boots_of_Psionic_Movement
+Cerebral Citadel Armour -- https://bg3.wiki/wiki/Cerebral_Citadel_Armour
+Sword of the Emperor -- https://bg3.wiki/wiki/Sword_of_the_Emperor
+
+--- NecroMance
+Sethan -- https://bg3.wiki/wiki/Sethan
+Abyss Beckoners -- https://bg3.wiki/wiki/Abyss_Beckoners
+Circle of Bones -- https://bg3.wiki/wiki/Circle_of_Bones
+Infernal Rapier -- https://bg3.wiki/wiki/Infernal_Rapier
+Crypt Lord Ring -- https://bg3.wiki/wiki/Crypt_Lord_Ring
+
+--- Rockstar
+Boots of Brilliance -- https://bg3.wiki/wiki/Boots_of_Brilliance
+Wondrous Gloves -- https://bg3.wiki/wiki/Wondrous_Gloves
+
+--- Barbarian
+Bonespike Garb -- https://bg3.wiki/wiki/Bonespike_Garb
+Bonespike Boots -- https://bg3.wiki/wiki/Bonespike_Boots
+Bonespike Helmet -- https://bg3.wiki/wiki/Bonespike_Helmet
+Bonespike Gloves -- https://bg3.wiki/wiki/Bonespike_Gloves
+Enraging Heart Garb -- https://bg3.wiki/wiki/Enraging_Heart_Garb
 
 --- containers
 Stuffed Bear (Container) -- https://bg3.wiki/wiki/Stuffed_Bear_(Container)

@@ -2574,6 +2574,14 @@ function GenerateTreasureBag(TreasureID)
   return bag
 end
 
+function GenerateTreasureContainer(TreasureID, ContainerID)
+  local player = GetHostCharacter()
+  local bag = ContainerID
+  bag = CreateAtObject(bag, player, 0, 0, 0, 0)
+  GenerateTreasure(bag, TreasureID, 12, player)
+  return bag
+end
+
 function GetEquippedWeapon(Character)
   if Character == nil then
     Character = GetHostCharacter()
@@ -6519,6 +6527,344 @@ TemplateAddToPlayer(item, 1)
 </AssemblerScript>
                 </CheatEntry>
                 <CheatEntry>
+                  <ID>366</ID>
+                  <Description>"Spawn Things"</Description>
+                  <VariableType>Auto Assembler Script</VariableType>
+                  <AssemblerScript>{$lua}
+                    if syntaxcheck then return end
+                    [ENABLE]
+                    
+                    -- New Loot
+                    
+                    local items = {
+                        "ac9145d1-31d0-4aa3-8755-62cc85dad22b", -- Disintegrating Night Walkers
+                        "119f753a-8b06-44d8-bb9a-8a307f6032da", -- Evasive Shoes
+                        "f3775096-0055-4d35-8cc0-f5765284bc7d", -- Gloves of Dexterity
+                        "6ea2650e-c12b-43d9-873e-f3d426d30d18", -- Gauntlet of the Tyrant
+                        "7ef359b6-79af-4414-99bc-f93bc5eeed77", -- Abyss Beckoners
+                        "97e362b2-e2aa-4703-9840-6824d7068334", -- Gloves of The Duellist
+                        "8f4876f1-44d9-4bb8-802e-907c6b0a0dba", -- Warped Headband of Intellect
+                        "f4bef44e-57f1-47b5-ab2d-2457ff21c707", -- Key of the Ancients
+                        "602f62dd-0fba-4438-ad68-b846f17ac538", -- Cloak of Protection
+                        "209c50b2-1e39-4484-905d-588741eba320", -- Glimmergad's Selgaunt Fiddle
+                        "09de8b63-12ad-43d5-a2cf-b9b32692e777", -- Dostrealt's Piccolo
+                        "d6ee2594-7373-4fed-a167-f9d95cb4ecfd", -- Ring of Regeneration
+                        "7becedf0-a90a-40d3-a726-e4e671f3d73f", -- True Love's Embrace
+                        "bf59a1e5-e3d1-48f1-9970-4aa3fdcaa780", -- True Love's Caress
+                        "bfeab8b5-8f50-470c-b2f4-0a45f8b331d3", -- Ring of Protection
+                        "3bd041cf-bff5-4464-9002-5c17b957b3c7", -- Coruscation Ring
+                        "463b0a81-1fc3-4db1-bafe-a915f9a8e028", -- Caustic Band
+                        "5ed63342-30c9-456d-9a57-a88c8596c0c9", -- Amulet of Greater Health
+                        "cc1a8802-675a-426b-a791-ec1d5a5b6328", -- Elixir of Barkskin
+                        "e6490cc8-7f81-4aac-95e8-a58ce5e88a31", -- Elixir of Cloud Giant Strength
+                        "4f17f210-9cde-4dad-80b5-fc4f9ddb1e1f", -- Supreme Elixir of Arcane Cultivation
+                        "f577a9be-8793-48da-a03d-e66d993dc4e7", -- Opalescent Outfit
+                        "2f7aadd5-65ea-4ab6-8c55-88ee584c72df", -- Elegant Robe
+                        "c03c2a3c-9e84-4042-8267-189ccb2af715", -- Mesmerising Circus Outfit
+                        "7ab22473-bb9a-49f4-9890-4d3a691331b6", -- Drow Outfit
+                        "1e294e87-978e-4b27-948c-252f02cc005e", -- Magical Hand Crossbow
+                        "f5b3b579-3569-4f6d-835c-9c19245152d6", -- Hellfire Hand Crossbow
+                        "89f511d6-6d36-4480-9ee8-6e0145c960ef", -- Drakethroat Glaive
+                        "67914214-e45d-4181-97e6-1c22e406b031", -- Phalar Aluve
+                        "1e64badf-4898-4169-9b02-3910518dc73d", -- Potent Robe
+                        "70893b6f-b0de-4f4e-af9f-f10e2c09bd1e", -- Ring of Mental Inhibition
+                        "6fa51fb6-0c99-4e2e-bf3c-f4fe18fd64a7", -- Risky Ring
+                        "dd99248c-fe42-4d07-9861-853e9291ea51", -- Stalker Gloves
+                        "0a6e5a22-414d-4f4e-b9e1-6083822648c4", -- The Dancing Breeze
+                        "c9f03464-488c-4f3f-aa2f-6d4c8e48a106", -- Daredevil Gloves
+                        "f6585fc7-22bb-4e58-b4a6-bbb56e48a86f", -- Diadem of Arcane Synergy
+                        "fa7b47e8-d411-4379-b68a-8ceb26891265", -- Ring of Arcane Synergy
+                    }
+                    for i = 1, #items do
+                        local item = items[i]
+                        TemplateAddToPlayer(item, 1)
+                    end
+                    [DISABLE]
+                    
+                    
+                    {$lua}
+                    if syntaxcheck then return end
+                    [ENABLE]
+                    
+                    -- Food
+                    
+                    local items = {
+                        "398e7328-ce90-4c02-94a2-93341fac499a", -- Supply Pack
+                        "5447e710-4fcf-4635-a6af-c7c62de06a93", -- Owlbear Egg
+                    }
+                    for i = 1, #items do
+                        local item = items[i]
+                        TemplateAddToPlayer(item, 20)
+                    end
+                    [DISABLE]
+                    
+                    
+                    {$lua}
+                    if syntaxcheck then return end
+                    [ENABLE]
+                    
+                    -- Dye
+                    
+                    local items = {
+                        "808cd643-ac73-415c-8ed8-0a81b8b71dd8", -- Dark Amethyst Dye
+                        "1d0d3883-6196-4ccd-8a49-8e4fb84f6c6b", -- Sinful Red on Bone White
+                    }
+                    for i = 1, #items do
+                        local item = items[i]
+                        TemplateAddToPlayer(item, 20)
+                    end
+                    [DISABLE]
+                    
+                    
+                    {$lua}
+                    if syntaxcheck then return end
+                    [ENABLE]
+                    
+                    -- SunBuild
+                    
+                    local items = {
+                        "e8a72355-b81f-484e-bc7d-945ec81c04a3", -- Luminous Gloves
+                        "5637bf93-ebd4-4170-a251-d77d9687c58a", -- The Sacred Star
+                        "a2cbaf4f-3eb8-4362-9f2e-d325a0d47a36", -- Luminous Armour
+                        "45d888b5-e002-4bb8-85d7-6df569aceaa4", -- Fabricated Arbalest
+                        "3bd041cf-bff5-4464-9002-5c17b957b3c7", -- Coruscation Ring
+                        "afdcde80-f976-4781-86be-75a5fb0ae05e", -- Callous Glow Ring
+                        "5b3c40c5-b0c0-44b5-9b75-e642069fd2cc", -- Holy Lance Helm
+                    }
+                    for i = 1, #items do
+                        local item = items[i]
+                        TemplateAddToPlayer(item, 1)
+                    end
+                    [DISABLE]
+                    
+                    
+                    {$lua}
+                    if syntaxcheck then return end
+                    [ENABLE]
+                    
+                    -- Crit Farm
+                    
+                    local items = {
+                        "aff94826-0ea4-42e3-8855-aa2002c01b76", -- Shade-Slayer Cloak
+                        "e6786129-7084-4a18-8b74-2cbf06c28c08", -- Dark Justiciar Helmet
+                        "8aaf7649-5bee-442a-9192-5e8abd723c55", -- Covert Cowl
+                        "139b28dc-7db0-40b2-a383-3a4ce4c09812", -- Sarevok's Horned Helmet
+                        "5961d027-75fd-4ad7-964c-8b786b5839fb", -- Crimson Mischief
+                        "269b2b03-aaaf-4635-98e2-e9b32dab5ffa", -- The Dead Shot
+                        "025e162a-45ec-4f4c-89da-04d8e8dfe606", -- Knife of the Undermountain King
+                    }
+                    for i = 1, #items do
+                        local item = items[i]
+                        TemplateAddToPlayer(item, 1)
+                    end
+                    [DISABLE]
+                    
+                    
+                    {$lua}
+                    if syntaxcheck then return end
+                    [ENABLE]
+                    
+                    -- Reverberation
+                    
+                    local items = {
+                        "c987b6e4-adcb-47d6-8dfd-6d4d2f15a381", -- Gloves of Belligerent Skies
+                        "3908725d-29d1-4c9a-be46-4e03c8c65238", -- Boots of Stormy Clamour
+                        "c7a58f48-f24f-4139-b0f0-8b12e1bf074e", -- Ring of Absolute Force
+                        "c4c5150c-0931-4d9e-b7b2-36f40d56c290", -- Thunderskin Cloak
+                        "5c05ff73-9d0d-4d58-b93a-e4b448a1e388", -- Ring of Spiteful Thunder
+                        "67914214-e45d-4181-97e6-1c22e406b031", -- Phalar Aluve
+                    }
+                    for i = 1, #items do
+                        local item = items[i]
+                        TemplateAddToPlayer(item, 1)
+                    end
+                    [DISABLE]
+                    
+                    
+                    {$lua}
+                    if syntaxcheck then return end
+                    [ENABLE]
+                    
+                    -- Healer's Kit
+                    
+                    local items = {
+                        "a6fe2fbc-b0f8-4c35-a3ab-d5deb6aa2978", -- Ring of Salving
+                        "4aef9bb0-38a8-428e-8b87-6e462d612dd6", -- The Whispering Promise
+                        "da0ba39a-366d-456b-8dbd-1c5790ca40bf", -- Staff of Arcane Blessing
+                        "6b8fcc06-fa6a-4a11-8318-075d90d8e909", -- Pearl of Power Amulet
+                        "e305c00e-a231-41e4-86de-cbb320bafbc8", -- Wapira's Crown
+                        "db4d4560-dc72-4d64-b552-5caf442c0927", -- Hellrider's Pride
+                        "0e94335a-bf4d-47b9-bde7-85ee2f01102f", -- The Reviving Hands
+                        "d6ee2594-7373-4fed-a167-f9d95cb4ecfd", -- Ring of Regeneration
+                        "eff1515c-4612-4e23-9b50-71f318a2f117", -- Cinder Shoes
+                        "ad278f33-7c10-4779-88fc-d1448f25ae72", -- Fireheart
+                        "aaf703d3-77d2-4259-9369-f98416be0e2e", -- Thermoarcanic Gloves
+                        "dd0e9fa2-e012-454d-9f2d-53c0a0776015", -- Hellfire Greataxe
+                        "f5b3b579-3569-4f6d-835c-9c19245152d6", -- Hellfire Hand Crossbow
+                    }
+                    for i = 1, #items do
+                        local item = items[i]
+                        TemplateAddToPlayer(item, 1)
+                    end
+                    [DISABLE]
+                    
+                    
+                    {$lua}
+                    if syntaxcheck then return end
+                    [ENABLE]
+                    
+                    -- Elementalist
+                    
+                    local items = {
+                        "9ce563ca-82b0-4c28-bd82-8640fd0a5be3", -- Ring of Elemental Infusion
+                        "a92cec2f-3a86-4aa1-a7e9-1d6dc9e12957", -- Necklace of Elemental Augmentation
+                    }
+                    for i = 1, #items do
+                        local item = items[i]
+                        TemplateAddToPlayer(item, 1)
+                    end
+                    [DISABLE]
+                    
+                    
+                    {$lua}
+                    if syntaxcheck then return end
+                    [ENABLE]
+                    
+                    -- Thrower Set
+                    
+                    local items = {
+                        "a6fe2fbc-b0f8-4c35-a3ab-d5deb6aa2978", -- Ring of Salving
+                        "1047ac9f-7860-44fd-9154-0f06fe64936c", -- Returning Pike
+                        "6d84b9e5-e9e4-477c-8d5b-a3f232a4415a", -- Gloves of Archery
+                    }
+                    for i = 1, #items do
+                        local item = items[i]
+                        TemplateAddToPlayer(item, 1)
+                    end
+                    [DISABLE]
+                    
+                    
+                    {$lua}
+                    if syntaxcheck then return end
+                    [ENABLE]
+                    
+                    -- Monker
+                    
+                    local items = {
+                        "58315437-f06a-4797-a26a-6bbcff80c4fe", -- Bracers of Defence
+                        "a8d15838-5721-4a3f-bfbd-f51c58c2fde3", -- Gloves of Crushing
+                        "b18ef236-44dc-43cd-8f6e-51ae785fae4d", -- The Graceful Cloth
+                        "48215bcb-b4a2-48cb-bfbe-8b601e678032", -- The Mighty Cloth
+                        "1c69a87e-9136-4e13-90af-c0f02d0fc81f", -- Vest of Soul Rejuvenation
+                        "48920bf4-85b0-44a1-9f6a-0ad8b493fa47", -- Scabby Pugilist Circlet
+                        "0d109073-74f6-4e35-80f7-4da10bfcf3b9", -- Elegant Light Garb
+                    }
+                    for i = 1, #items do
+                        local item = items[i]
+                        TemplateAddToPlayer(item, 1)
+                    end
+                    [DISABLE]
+                    
+                    
+                    {$lua}
+                    if syntaxcheck then return end
+                    [ENABLE]
+                    
+                    -- Black Panther
+                    
+                    local items = {
+                        "b2530a6b-1235-4f5f-b61c-d174a980bc0b", -- Rippling Force Mail
+                        "1cee750f-79c6-4109-8272-d27b97ef02df", -- Swires' Sledboard
+                        "64cdd668-5c09-48f3-a064-d4581156ca31", -- The Skinburster
+                    }
+                    for i = 1, #items do
+                        local item = items[i]
+                        TemplateAddToPlayer(item, 1)
+                    end
+                    [DISABLE]
+                    
+                    
+                    {$lua}
+                    if syntaxcheck then return end
+                    [ENABLE]
+                    
+                    -- Gith Set
+                    
+                    local items = {
+                        "20c66f8d-f455-42fc-8e48-543512247e75", -- Voss' Silver Sword
+                        "523a959d-4101-4beb-9a8e-276c3f687c02", -- Soulbreaker Greatsword
+                        "8a17f2b1-5c5d-4bb0-8b2e-408e837c4d1f", -- Circlet of Psionic Revenge
+                        "f601bac2-16a7-4da0-854a-ae4132ca448f", -- Psionic Ward Armour
+                        "4be77d67-2310-44fc-bdaf-81cffb411467", -- Hr'a'cknir Bracers
+                        "18919a04-67a0-4321-82ff-ce2b64a27589", -- Boots of Psionic Movement
+                        "ee3c78be-d33b-4d1b-b433-2634a39f50aa", -- Cerebral Citadel Armour
+                        "777cb3d5-0689-4cfd-9719-b460897cb9e6", -- Sword of the Emperor
+                    }
+                    for i = 1, #items do
+                        local item = items[i]
+                        TemplateAddToPlayer(item, 1)
+                    end
+                    [DISABLE]
+                    
+                    
+                    {$lua}
+                    if syntaxcheck then return end
+                    [ENABLE]
+                    
+                    -- NecroMance
+                    
+                    local items = {
+                        "7bbc2408-14de-4129-bab0-db29927b7f43", -- Sethan
+                        "7ef359b6-79af-4414-99bc-f93bc5eeed77", -- Abyss Beckoners
+                        "d2a4e407-b5de-4f0b-ab7a-75f9bf5041dd", -- Circle of Bones
+                        "c9b018e7-f3a9-4500-a6b0-386d7e6b7295", -- Infernal Rapier
+                        "e86c0cbb-9791-4cc7-95ba-9821902119fa", -- Crypt Lord Ring
+                    }
+                    for i = 1, #items do
+                        local item = items[i]
+                        TemplateAddToPlayer(item, 1)
+                    end
+                    [DISABLE]
+                    
+                    
+                    {$lua}
+                    if syntaxcheck then return end
+                    [ENABLE]
+                    
+                    -- Rockstar
+                    
+                    local items = {
+                        "a7ce200c-ab1a-4d49-bf7d-c6894b1e5b06", -- Boots of Brilliance
+                        "afe6c7a2-fdd7-4cca-9441-e0b3a2237f5f", -- Wondrous Gloves
+                    }
+                    for i = 1, #items do
+                        local item = items[i]
+                        TemplateAddToPlayer(item, 1)
+                    end
+                    [DISABLE]
+                    
+                    
+                    {$lua}
+                    if syntaxcheck then return end
+                    [ENABLE]
+                    
+                    -- Barbarian
+                    
+                    local items = {
+                        "7cca51a5-bfa6-4c65-b2d9-ef0167762a19", -- Bonespike Garb
+                        "23806fd3-f5f6-4ff3-826d-054afe03b7c0", -- Bonespike Boots
+                        "72152951-3670-4004-b275-6b722c498bbc", -- Bonespike Helmet
+                        "7e32e812-b79d-4bdb-a7c6-ee6778e893ec", -- Bonespike Gloves
+                        "3a213e92-1714-4f11-9726-ca762943d2cc", -- Enraging Heart Garb
+                    }
+                    for i = 1, #items do
+                        local item = items[i]
+                        TemplateAddToPlayer(item, 1)
+                    end
+                    [DISABLE]
+</AssemblerScript>
+                </CheatEntry>
+                <CheatEntry>
                   <ID>4911</ID>
                   <Description>"Create Smokepowder Barrel"</Description>
                   <VariableType>Auto Assembler Script</VariableType>
@@ -6789,6 +7135,28 @@ local item = {
 "498c155f-8675-4a55-9cb0-89dd7270469f"
 }
 TemplateAddToPlayer(item, 1)
+[DISABLE]
+</AssemblerScript>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1099</ID>
+                      <Description>"My Items"</Description>
+                      <VariableType>Auto Assembler Script</VariableType>
+                      <AssemblerScript>{$lua}
+if syntaxcheck then return end
+[ENABLE]
+GenerateTreasureContainer("DLC_DD_DEBUG_ALL","c0b7e734-8f91-4471-8119-292c1131f7c2")
+[DISABLE]
+</AssemblerScript>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1099</ID>
+                      <Description>"My Items 2"</Description>
+                      <VariableType>Auto Assembler Script</VariableType>
+                      <AssemblerScript>{$lua}
+if syntaxcheck then return end
+[ENABLE]
+GenerateTreasureContainer("UNI_UND_MonkAmulet","c0b7e734-8f91-4471-8119-292c1131f7c2")
 [DISABLE]
 </AssemblerScript>
                     </CheatEntry>

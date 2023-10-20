@@ -1,0 +1,765 @@
+[
+  {
+    "name": "New Loot",
+    "items": [
+      {
+        "name": "Disintegrating Night Walkers",
+        "uuid": "ac9145d1-31d0-4aa3-8755-62cc85dad22b",
+        "d_name": "Disintegrating Night Walkers",
+        "t_name": "UNI_NightWalkers"
+      },
+      {
+        "name": "Evasive Shoes",
+        "uuid": "119f753a-8b06-44d8-bb9a-8a307f6032da",
+        "d_name": "Evasive Shoes",
+        "t_name": "MAG_Evasive_Shoes"
+      },
+      {
+        "name": "Gloves of Dexterity",
+        "uuid": "f3775096-0055-4d35-8cc0-f5765284bc7d",
+        "d_name": "Gloves of Dexterity",
+        "t_name": "MAG_BG_OfDexterity_Gloves"
+      },
+      {
+        "name": "Gauntlet of the Tyrant",
+        "uuid": "6ea2650e-c12b-43d9-873e-f3d426d30d18",
+        "d_name": "Gauntlet of the Tyrant",
+        "t_name": "MAG_Gortash_Gloves_WithoutNetherstone"
+      },
+      {
+        "name": "Abyss Beckoners",
+        "uuid": "7ef359b6-79af-4414-99bc-f93bc5eeed77",
+        "d_name": "Abyss Beckoners",
+        "t_name": "MAG_Zhentarim_Demonspirit_Gloves"
+      },
+      {
+        "name": "Gloves of The Duellist",
+        "uuid": "97e362b2-e2aa-4703-9840-6824d7068334",
+        "d_name": "Gloves of The Duellist",
+        "t_name": "MAG_OfTheDuelist_Gloves"
+      },
+      {
+        "name": "Warped Headband of Intellect",
+        "uuid": "8f4876f1-44d9-4bb8-802e-907c6b0a0dba",
+        "d_name": "Warped Headband of Intellect",
+        "t_name": "UNI_FOR_OgresForHire_HeadbandOfIntellect"
+      },
+      {
+        "name": "Key of the Ancients",
+        "uuid": "f4bef44e-57f1-47b5-ab2d-2457ff21c707",
+        "d_name": "Key of the Ancients",
+        "t_name": "DEN_DruidHelmet_Circlet"
+      },
+      {
+        "name": "Cloak of Protection",
+        "uuid": "602f62dd-0fba-4438-ad68-b846f17ac538",
+        "d_name": "Cloak of Protection",
+        "t_name": "MAG_PHB_CloakOfProtection_Cloak"
+      },
+      {
+        "name": "Glimmergad's Selgaunt Fiddle",
+        "uuid": "209c50b2-1e39-4484-905d-588741eba320",
+        "d_name": "Glimmergad's Selgaunt Fiddle",
+        "t_name": "UNI_TOOL_Music_Violin_GlimmergadSelgauntFiddle"
+      },
+      {
+        "name": "Dostrealt's Piccolo",
+        "uuid": "09de8b63-12ad-43d5-a2cf-b9b32692e777",
+        "d_name": "Dostrealt's Piccolo",
+        "t_name": "UNI_TOOL_Music_Flute_DostrealtsPiccolo"
+      },
+      {
+        "name": "Ring of Regeneration",
+        "uuid": "d6ee2594-7373-4fed-a167-f9d95cb4ecfd",
+        "d_name": "Ring of Regeneration",
+        "t_name": "MAG_PHB_OfRegeneration_Ring"
+      },
+      {
+        "name": "True Love's Embrace",
+        "uuid": "7becedf0-a90a-40d3-a726-e4e671f3d73f",
+        "d_name": "True Love's Embrace",
+        "t_name": "UNI_TWN_BondedByLove_HusbandsRing"
+      },
+      {
+        "name": "True Love's Caress",
+        "uuid": "bf59a1e5-e3d1-48f1-9970-4aa3fdcaa780",
+        "d_name": "True Love's Caress",
+        "t_name": "UNI_TWN_BondedByLove_WifesRing"
+      },
+      {
+        "name": "Ring of Protection",
+        "uuid": "bfeab8b5-8f50-470c-b2f4-0a45f8b331d3",
+        "d_name": "Ring of Protection",
+        "t_name": "LOOT_GEN_Ring_Protection_A"
+      },
+      {
+        "name": "Coruscation Ring",
+        "uuid": "3bd041cf-bff5-4464-9002-5c17b957b3c7",
+        "d_name": "Coruscation Ring",
+        "t_name": "MAG_Radiant_RadiatingOrb_Ring"
+      },
+      {
+        "name": "Caustic Band",
+        "uuid": "463b0a81-1fc3-4db1-bafe-a915f9a8e028",
+        "d_name": "Caustic Band",
+        "t_name": "MAG_Acid_AcidDamageOnWeaponAttack_Ring"
+      },
+      {
+        "name": "Amulet of Greater Health",
+        "uuid": "5ed63342-30c9-456d-9a57-a88c8596c0c9",
+        "d_name": "Amulet of Greater Health",
+        "t_name": "MAG_ofGreaterHealth_Amulet"
+      },
+      {
+        "name": "Elixir of Barkskin",
+        "uuid": "cc1a8802-675a-426b-a791-ec1d5a5b6328",
+        "d_name": "Elixir of Barkskin",
+        "t_name": "ALCH_Soultion_Elixir_Barkskin"
+      },
+      {
+        "name": "Elixir of Cloud Giant Strength",
+        "uuid": "e6490cc8-7f81-4aac-95e8-a58ce5e88a31",
+        "d_name": "Elixir of Cloud Giant Strength",
+        "t_name": "CONS_Potion_Cloud_Giant_Strength"
+      },
+      {
+        "name": "Supreme Elixir of Arcane Cultivation",
+        "uuid": "4f17f210-9cde-4dad-80b5-fc4f9ddb1e1f",
+        "d_name": "Supreme Elixir of Arcane Cultivation",
+        "t_name": "ALCH_Solution_Elixir_Meditation_Supreme"
+      },
+      {
+        "name": "Opalescent Outfit",
+        "uuid": "f577a9be-8793-48da-a03d-e66d993dc4e7",
+        "d_name": "Opalescent Outfit",
+        "t_name": "ARM_Camp_Patriars_A_Blue"
+      },
+      {
+        "name": "Elegant Robe",
+        "uuid": "2f7aadd5-65ea-4ab6-8c55-88ee584c72df",
+        "d_name": "Elegant Robe",
+        "t_name": "ARM_Vanity_ElegantRobe"
+      },
+      {
+        "name": "Mesmerising Circus Outfit",
+        "uuid": "c03c2a3c-9e84-4042-8267-189ccb2af715",
+        "d_name": "Mesmerising Circus Outfit",
+        "t_name": "ARM_Vanity_Circus_Body_B"
+      },
+      {
+        "name": "Drow Outfit",
+        "uuid": "7ab22473-bb9a-49f4-9890-4d3a691331b6",
+        "d_name": "Drow Outfit",
+        "t_name": "ARM_Camp_Drow"
+      },
+      {
+        "name": "Magical Hand Crossbow",
+        "uuid": "1e294e87-978e-4b27-948c-252f02cc005e",
+        "d_name": "Magical Hand Crossbow",
+        "t_name": "MAG_Generic_01_HandCrossbow_1"
+      },
+      {
+        "name": "Hellfire Hand Crossbow",
+        "uuid": "f5b3b579-3569-4f6d-835c-9c19245152d6",
+        "d_name": "Hellfire Hand Crossbow",
+        "t_name": "MAG_Orthon_Hellfire_HandCrossbow"
+      },
+      {
+        "name": "Drakethroat Glaive",
+        "uuid": "89f511d6-6d36-4480-9ee8-6e0145c960ef",
+        "d_name": "Drakethroat Glaive",
+        "t_name": "MAG_BG_DragonsBreath_Glaive"
+      },
+      {
+        "name": "Battle-Worn Blade"
+      },
+      {
+        "name": "Phalar Aluve",
+        "uuid": "67914214-e45d-4181-97e6-1c22e406b031",
+        "d_name": "Phalar Aluve",
+        "t_name": "UND_SwordInStone"
+      },
+      {
+        "name": "Potent Robe",
+        "uuid": "1e64badf-4898-4169-9b02-3910518dc73d",
+        "d_name": "Potent Robe",
+        "t_name": "MAG_CharismaCaster_Robe"
+      },
+      {
+        "name": "Ring of Mental Inhibition",
+        "uuid": "70893b6f-b0de-4f4e-af9f-f10e2c09bd1e",
+        "d_name": "Ring of Mental Inhibition",
+        "t_name": "MAG_Psychic_MentalOverload_Ring"
+      },
+      {
+        "name": "Risky Ring",
+        "uuid": "6fa51fb6-0c99-4e2e-bf3c-f4fe18fd64a7",
+        "d_name": "Risky Ring",
+        "t_name": "MAG_RiskyAttack_Ring"
+      },
+      {
+        "name": "Stalker Gloves",
+        "uuid": "dd99248c-fe42-4d07-9861-853e9291ea51",
+        "d_name": "Stalker Gloves",
+        "t_name": "MAG_Stalker_Gloves"
+      },
+      {
+        "name": "The Dancing Breeze",
+        "uuid": "0a6e5a22-414d-4f4e-b9e1-6083822648c4",
+        "d_name": "The Dancing Breeze",
+        "t_name": "MAG_Finesse_Glaive"
+      },
+      {
+        "name": "Daredevil Gloves",
+        "uuid": "c9f03464-488c-4f3f-aa2f-6d4c8e48a106",
+        "d_name": "Daredevil Gloves",
+        "t_name": "MAG_CQCaster_CloseRangedSpellMastery_Gloves"
+      },
+      {
+        "name": "Diadem of Arcane Synergy",
+        "uuid": "f6585fc7-22bb-4e58-b4a6-bbb56e48a86f",
+        "d_name": "Diadem of Arcane Synergy",
+        "t_name": "MAG_Gish_ArcaneSynergy_Circlet"
+      },
+      {
+        "name": "Ring of Arcane Synergy",
+        "uuid": "fa7b47e8-d411-4379-b68a-8ceb26891265",
+        "d_name": "Ring of Arcane Synergy",
+        "t_name": "MAG_Gish_ArcaneSynergy_Ring"
+      }
+    ]
+  },
+  {
+    "name": "Food",
+    "items": [
+      {
+        "name": "Supply Pack",
+        "uuid": "398e7328-ce90-4c02-94a2-93341fac499a",
+        "d_name": "Supply Pack",
+        "t_name": "LOOT_Camp_Pack"
+      },
+      {
+        "name": "Owlbear Egg",
+        "uuid": "5447e710-4fcf-4635-a6af-c7c62de06a93",
+        "d_name": "Owlbear Egg",
+        "t_name": "CONT_Egg_Owlbear_A"
+      }
+    ],
+    "amount": "20"
+  },
+  {
+    "name": "Dye",
+    "items": [
+      {
+        "name": "Dark Amethyst Dye",
+        "uuid": "808cd643-ac73-415c-8ed8-0a81b8b71dd8",
+        "d_name": "Dark Amethyst Dye",
+        "t_name": "LOOT_Dye_Purple_01"
+      },
+      {
+        "name": "Sinful Red on Bone White",
+        "uuid": "1d0d3883-6196-4ccd-8a49-8e4fb84f6c6b",
+        "d_name": "Sinful Red on Bone White",
+        "t_name": "LOOT_Dye_WhiteRed_01"
+      }
+    ],
+    "amount": "20"
+  },
+  {
+    "name": "SunBuild",
+    "items": [
+      {
+        "name": "Luminous Gloves",
+        "uuid": "e8a72355-b81f-484e-bc7d-945ec81c04a3",
+        "d_name": "Luminous Gloves",
+        "t_name": "MAG_Radiant_RadiatingOrb_Gloves"
+      },
+      {
+        "name": "The Sacred Star",
+        "uuid": "5637bf93-ebd4-4170-a251-d77d9687c58a",
+        "d_name": "The Sacred Star",
+        "t_name": "MAG_RadiantLight_Morningstar"
+      },
+      {
+        "name": "Luminous Armour",
+        "uuid": "a2cbaf4f-3eb8-4362-9f2e-d325a0d47a36",
+        "d_name": "Luminous Armour",
+        "t_name": "MAG_Radiant_RadiatingOrb_Armor"
+      },
+      {
+        "name": "Fabricated Arbalest",
+        "uuid": "45d888b5-e002-4bb8-85d7-6df569aceaa4",
+        "d_name": "Fabricated Arbalest",
+        "t_name": "MAG_Gortash_HeavyCrossbow"
+      },
+      {
+        "name": "Coruscation Ring",
+        "uuid": "3bd041cf-bff5-4464-9002-5c17b957b3c7",
+        "d_name": "Coruscation Ring",
+        "t_name": "MAG_Radiant_RadiatingOrb_Ring"
+      },
+      {
+        "name": "Callous Glow Ring",
+        "uuid": "afdcde80-f976-4781-86be-75a5fb0ae05e",
+        "d_name": "Callous Glow Ring",
+        "t_name": "MAG_Radiant_DamageBonusOnIlluminatedTarget_Ring"
+      },
+      {
+        "name": "Holy Lance Helm",
+        "uuid": "5b3c40c5-b0c0-44b5-9b75-e642069fd2cc",
+        "d_name": "Holy Lance Helm",
+        "t_name": "MAG_Radiant_Radiating_Helmet"
+      }
+    ],
+    "done": true
+  },
+  {
+    "name": "Crit Farm",
+    "items": [
+      {
+        "name": "Shade-Slayer Cloak",
+        "uuid": "aff94826-0ea4-42e3-8855-aa2002c01b76",
+        "d_name": "Shade-Slayer Cloak",
+        "t_name": "MAG_Long_Critical_HidingCritical_Cloak"
+      },
+      {
+        "name": "Dark Justiciar Helmet",
+        "uuid": "e6786129-7084-4a18-8b74-2cbf06c28c08",
+        "d_name": "Dark Justiciar Helmet",
+        "t_name": "ARM_Helmet_Metal_Dark_Justiciar_A"
+      },
+      {
+        "name": "Covert Cowl",
+        "uuid": "8aaf7649-5bee-442a-9192-5e8abd723c55",
+        "d_name": "Covert Cowl",
+        "t_name": "MAG_Shadow_CriticalBoostWhileObscured_Helmet"
+      },
+      {
+        "name": "Sarevok's Horned Helmet",
+        "uuid": "139b28dc-7db0-40b2-a383-3a4ce4c09812",
+        "d_name": "Sarevok's Horned Helmet",
+        "t_name": "UNI_ARM_Sarevok_Horned_Helmet"
+      },
+      {
+        "name": "Bloodthirst"
+      },
+      {
+        "name": "Crimson Mischief",
+        "uuid": "5961d027-75fd-4ad7-964c-8b786b5839fb",
+        "d_name": "Crimson Mischief",
+        "t_name": "MAG_TheCrimson_Shortsword"
+      },
+      {
+        "name": "The Dead Shot",
+        "uuid": "269b2b03-aaaf-4635-98e2-e9b32dab5ffa",
+        "d_name": "The Dead Shot",
+        "t_name": "MAG_DeadShot_Longbow"
+      },
+      {
+        "name": "Knife of the Undermountain King",
+        "uuid": "025e162a-45ec-4f4c-89da-04d8e8dfe606",
+        "d_name": "Knife of the Undermountain King",
+        "t_name": "MAG_Duergar_Sword_KingsKnife"
+      }
+    ],
+    "done": true
+  },
+  {
+    "name": "Reverberation",
+    "items": [
+      {
+        "name": "Gloves of Belligerent Skies",
+        "uuid": "c987b6e4-adcb-47d6-8dfd-6d4d2f15a381",
+        "d_name": "Gloves of Belligerent Skies",
+        "t_name": "MAG_Thunder_Reverberation_Gloves"
+      },
+      {
+        "name": "Boots of Stormy Clamour",
+        "uuid": "3908725d-29d1-4c9a-be46-4e03c8c65238",
+        "d_name": "Boots of Stormy Clamour",
+        "t_name": "MAG_Thunder_ReverberationOnStatusApply_Boots"
+      },
+      {
+        "name": "Ring of Absolute Force",
+        "uuid": "c7a58f48-f24f-4139-b0f0-8b12e1bf074e",
+        "d_name": "Ring of Absolute Force",
+        "t_name": "UNI_UND_KC_RingOfAbsolute"
+      },
+      {
+        "name": "Thunderskin Cloak",
+        "uuid": "c4c5150c-0931-4d9e-b7b2-36f40d56c290",
+        "d_name": "Thunderskin Cloak",
+        "t_name": "MAG_Thunder_InflictDazeOnReverberatedCreature_Cloak"
+      },
+      {
+        "name": "Ring of Spiteful Thunder",
+        "uuid": "5c05ff73-9d0d-4d58-b93a-e4b448a1e388",
+        "d_name": "Ring of Spiteful Thunder",
+        "t_name": "MAG_Thunder_InflictDazeOnThunderDamage_Ring"
+      },
+      {
+        "name": "Phalar Aluve",
+        "uuid": "67914214-e45d-4181-97e6-1c22e406b031",
+        "d_name": "Phalar Aluve",
+        "t_name": "UND_SwordInStone"
+      }
+    ],
+    "done": true
+  },
+  {
+    "name": "Healer's Kit",
+    "items": [
+      {
+        "name": "Ring of Salving",
+        "uuid": "a6fe2fbc-b0f8-4c35-a3ab-d5deb6aa2978",
+        "d_name": "Ring of Salving",
+        "t_name": "UNI_UND_SocietyOfBrilliance_PullingRing"
+      },
+      {
+        "name": "The Whispering Promise",
+        "uuid": "4aef9bb0-38a8-428e-8b87-6e462d612dd6",
+        "d_name": "The Whispering Promise",
+        "t_name": "UNI_MassHealRing"
+      },
+      {
+        "name": "Staff of Arcane Blessing",
+        "uuid": "da0ba39a-366d-456b-8dbd-1c5790ca40bf",
+        "d_name": "Staff of Arcane Blessing",
+        "t_name": "UNI_UND_Tower_StaffBlessMystra"
+      },
+      {
+        "name": "Pearl of Power Amulet",
+        "uuid": "6b8fcc06-fa6a-4a11-8318-075d90d8e909",
+        "d_name": "Pearl of Power Amulet",
+        "t_name": "MAG_PHB_ofPower_Pearl_Amulet"
+      },
+      {
+        "name": "Wapira's Crown",
+        "uuid": "e305c00e-a231-41e4-86de-cbb320bafbc8",
+        "d_name": "Wapira's Crown",
+        "t_name": "MAG_Healer_HealSelf_Helmet"
+      },
+      {
+        "name": "Hellrider's Pride",
+        "uuid": "db4d4560-dc72-4d64-b552-5caf442c0927",
+        "d_name": "Hellrider's Pride",
+        "t_name": "UNI_DEN_TieflingLeader_HellridersPride"
+      },
+      {
+        "name": "The Reviving Hands",
+        "uuid": "0e94335a-bf4d-47b9-bde7-85ee2f01102f",
+        "d_name": "The Reviving Hands",
+        "t_name": "MAG_OfRevivify_Gloves"
+      },
+      {
+        "name": "Ring of Regeneration",
+        "uuid": "d6ee2594-7373-4fed-a167-f9d95cb4ecfd",
+        "d_name": "Ring of Regeneration",
+        "t_name": "MAG_PHB_OfRegeneration_Ring"
+      },
+      {
+        "name": "-- Inferno - DONE"
+      },
+      {
+        "name": "Cinder Shoes",
+        "uuid": "eff1515c-4612-4e23-9b50-71f318a2f117",
+        "d_name": "Cinder Shoes",
+        "t_name": "MAG_Fire_HeatOnInflictBurning_Boots"
+      },
+      {
+        "name": "Fireheart",
+        "uuid": "ad278f33-7c10-4779-88fc-d1448f25ae72",
+        "d_name": "Fireheart",
+        "t_name": "MAG_Fire_HeatOnTakingFireDamage_Amulet"
+      },
+      {
+        "name": "Ring of Self Immoliation"
+      },
+      {
+        "name": "Thermoarcanic Gloves",
+        "uuid": "aaf703d3-77d2-4259-9369-f98416be0e2e",
+        "d_name": "Thermoarcanic Gloves",
+        "t_name": "MAG_Fire_HeatOnFireDamage_Gloves"
+      },
+      {
+        "name": "Thermodynamic Axe"
+      },
+      {
+        "name": "Hellfire Greataxe",
+        "uuid": "dd0e9fa2-e012-454d-9f2d-53c0a0776015",
+        "d_name": "Hellfire Greataxe",
+        "t_name": "MAG_WATCHER_Human_Greataxe"
+      },
+      {
+        "name": "Hellfire Hand Crossbow",
+        "uuid": "f5b3b579-3569-4f6d-835c-9c19245152d6",
+        "d_name": "Hellfire Hand Crossbow",
+        "t_name": "MAG_Orthon_Hellfire_HandCrossbow"
+      }
+    ],
+    "done": true
+  },
+  {
+    "name": "Elementalist",
+    "items": [
+      {
+        "name": "Ring of Elemental Infusion",
+        "uuid": "9ce563ca-82b0-4c28-bd82-8640fd0a5be3",
+        "d_name": "Ring of Elemental Infusion",
+        "t_name": "MAG_ElementalGish_ElementalInfusion_Ring"
+      },
+      {
+        "name": "Necklace of Elemental Augmentation",
+        "uuid": "a92cec2f-3a86-4aa1-a7e9-1d6dc9e12957",
+        "d_name": "Necklace of Elemental Augmentation",
+        "t_name": "MAG_ElementalGish_CantripBooster_Amulet"
+      },
+      {
+        "name": "Amulet of Elemental Tormen"
+      }
+    ]
+  },
+  {
+    "name": "Thrower Set",
+    "items": [
+      {
+        "name": "Ring of Salving",
+        "uuid": "a6fe2fbc-b0f8-4c35-a3ab-d5deb6aa2978",
+        "d_name": "Ring of Salving",
+        "t_name": "UNI_UND_SocietyOfBrilliance_PullingRing"
+      },
+      {
+        "name": "Returning Pike",
+        "uuid": "1047ac9f-7860-44fd-9154-0f06fe64936c",
+        "d_name": "Returning Pike",
+        "t_name": "MAG_Throwable_Pike"
+      },
+      {
+        "name": "Gloves of Archery",
+        "uuid": "6d84b9e5-e9e4-477c-8d5b-a3f232a4415a",
+        "d_name": "Gloves of Archery",
+        "t_name": "UNI_ARM_OfArchery_Gloves"
+      },
+      {
+        "name": "The Greceful Cloth"
+      }
+    ]
+  },
+  {
+    "name": "Monker",
+    "items": [
+      {
+        "name": "Sentient Amulet (Very Rare)"
+      },
+      {
+        "name": "Sentient Amulet (Rare)"
+      },
+      {
+        "name": "Bracers of Defence",
+        "uuid": "58315437-f06a-4797-a26a-6bbcff80c4fe",
+        "d_name": "Bracers of Defence",
+        "t_name": "UNI_ARM_OfDefense_Gloves"
+      },
+      {
+        "name": "Gloves of Crushing",
+        "uuid": "a8d15838-5721-4a3f-bfbd-f51c58c2fde3",
+        "d_name": "Gloves of Crushing",
+        "t_name": "MAG_BG_OfCrushing_Gloves"
+      },
+      {
+        "name": "The Graceful Cloth",
+        "uuid": "b18ef236-44dc-43cd-8f6e-51ae785fae4d",
+        "d_name": "The Graceful Cloth",
+        "t_name": "MAG_BarbMonk_Cloth_A_1"
+      },
+      {
+        "name": "The Mighty Cloth",
+        "uuid": "48215bcb-b4a2-48cb-bfbe-8b601e678032",
+        "d_name": "The Mighty Cloth",
+        "t_name": "MAG_BarbMonk_Cloth_A_1_Late"
+      },
+      {
+        "name": "Vest of Soul Rejuvenation",
+        "uuid": "1c69a87e-9136-4e13-90af-c0f02d0fc81f",
+        "d_name": "Vest of Soul Rejuvenation",
+        "t_name": "MAG_BarbMonk_Cloth_A_2_Late"
+      },
+      {
+        "name": "Scabby Pugilist Circlet",
+        "uuid": "48920bf4-85b0-44a1-9f6a-0ad8b493fa47",
+        "d_name": "Scabby Pugilist Circlet",
+        "t_name": "MAG_BarbMonk_Leather_Circlet"
+      },
+      {
+        "name": "Elegant Light Garb",
+        "uuid": "0d109073-74f6-4e35-80f7-4da10bfcf3b9",
+        "d_name": "Elegant Light Garb",
+        "t_name": "MAG_BarbMonk_Cloth_Hat_A_1"
+      }
+    ]
+  },
+  {
+    "name": "Black Panther",
+    "items": [
+      {
+        "name": "Rippling Force Mail",
+        "uuid": "b2530a6b-1235-4f5f-b61c-d174a980bc0b",
+        "d_name": "Rippling Force Mail",
+        "t_name": "MAG_ZOC_ForceConduit_ChainMail"
+      },
+      {
+        "name": "Swires' Sledboard",
+        "uuid": "1cee750f-79c6-4109-8272-d27b97ef02df",
+        "d_name": "Swires' Sledboard",
+        "t_name": "MAG_Steadfast_Shield"
+      },
+      {
+        "name": "The Skinburster",
+        "uuid": "64cdd668-5c09-48f3-a064-d4581156ca31",
+        "d_name": "The Skinburster",
+        "t_name": "MAG_ZOC_ForceConduit_Halberd"
+      }
+    ]
+  },
+  {
+    "name": "Gith Set",
+    "items": [
+      {
+        "name": "Voss' Silver Sword",
+        "uuid": "20c66f8d-f455-42fc-8e48-543512247e75",
+        "d_name": "Voss' Silver Sword",
+        "t_name": "MAG_Primeval_Silver_Longsword"
+      },
+      {
+        "name": "Soulbreaker Greatsword",
+        "uuid": "523a959d-4101-4beb-9a8e-276c3f687c02",
+        "d_name": "Soulbreaker Greatsword",
+        "t_name": "MAG_Githborn_Mindcrusher_Greatsword"
+      },
+      {
+        "name": "Circlet of Psionic Revenge",
+        "uuid": "8a17f2b1-5c5d-4bb0-8b2e-408e837c4d1f",
+        "d_name": "Circlet of Psionic Revenge",
+        "t_name": "CRE_MAG_Psychic_Githborn_Circlet"
+      },
+      {
+        "name": "Psionic Ward Armour",
+        "uuid": "f601bac2-16a7-4da0-854a-ae4132ca448f",
+        "d_name": "Psionic Ward Armour",
+        "t_name": "MAG_Githborn_MagicEating_HalfPlate"
+      },
+      {
+        "name": "Hr'a'cknir Bracers",
+        "uuid": "4be77d67-2310-44fc-bdaf-81cffb411467",
+        "d_name": "Hr'a'cknir Bracers",
+        "t_name": "MAG_Githborn_MageHandSupport_Gloves"
+      },
+      {
+        "name": "Boots of Psionic Movement",
+        "uuid": "18919a04-67a0-4321-82ff-ce2b64a27589",
+        "d_name": "Boots of Psionic Movement",
+        "t_name": "MAG_Githborn_PsionicMovement_Boots"
+      },
+      {
+        "name": "Cerebral Citadel Armour",
+        "uuid": "ee3c78be-d33b-4d1b-b433-2634a39f50aa",
+        "d_name": "Cerebral Citadel Armour",
+        "t_name": "MAG_Illithid_Carapace_Armor"
+      },
+      {
+        "name": "Sword of the Emperor",
+        "uuid": "777cb3d5-0689-4cfd-9719-b460897cb9e6",
+        "d_name": "Sword of the Emperor",
+        "t_name": "LOW_Elfsong_EmperorSword_LongSword"
+      }
+    ],
+    "done": true
+  },
+  {
+    "name": "NecroMance",
+    "items": [
+      {
+        "name": "Sethan",
+        "uuid": "7bbc2408-14de-4129-bab0-db29927b7f43",
+        "d_name": "Sethan",
+        "t_name": "MAG_SpiritualStand_Greataxe"
+      },
+      {
+        "name": "Abyss Beckoners",
+        "uuid": "7ef359b6-79af-4414-99bc-f93bc5eeed77",
+        "d_name": "Abyss Beckoners",
+        "t_name": "MAG_Zhentarim_Demonspirit_Gloves"
+      },
+      {
+        "name": "Circle of Bones",
+        "uuid": "d2a4e407-b5de-4f0b-ab7a-75f9bf5041dd",
+        "d_name": "Circle of Bones",
+        "t_name": "MAG_Myrkulites_CircletOfMyrkul_Circlet"
+      },
+      {
+        "name": "Infernal Rapier",
+        "uuid": "c9b018e7-f3a9-4500-a6b0-386d7e6b7295",
+        "d_name": "Infernal Rapier",
+        "t_name": "CINE_ORI_Wyll_Infernal_Rapier"
+      },
+      {
+        "name": "Crypt Lord Ring",
+        "uuid": "e86c0cbb-9791-4cc7-95ba-9821902119fa",
+        "d_name": "Crypt Lord Ring",
+        "t_name": "MAG_OfUndeadServant_Ring"
+      }
+    ]
+  },
+  {
+    "name": "Rockstar",
+    "items": [
+      {
+        "name": "Boots of Brilliance",
+        "uuid": "a7ce200c-ab1a-4d49-bf7d-c6894b1e5b06",
+        "d_name": "Boots of Brilliance",
+        "t_name": "MAG_Bard_RefreshBardicInspirationSlot_Shoes"
+      },
+      {
+        "name": "Wondrous Gloves",
+        "uuid": "afe6c7a2-fdd7-4cca-9441-e0b3a2237f5f",
+        "d_name": "Wondrous Gloves",
+        "t_name": "MAG_BG_Wondrous_Gloves"
+      }
+    ]
+  },
+  {
+    "name": "Barbarian",
+    "items": [
+      {
+        "name": "Bonespike Garb",
+        "uuid": "7cca51a5-bfa6-4c65-b2d9-ef0167762a19",
+        "d_name": "Bonespike Garb",
+        "t_name": "MAG_BarbMonk_Cloth_B_1"
+      },
+      {
+        "name": "Bonespike Boots",
+        "uuid": "23806fd3-f5f6-4ff3-826d-054afe03b7c0",
+        "d_name": "Bonespike Boots",
+        "t_name": "ARM_Shoes_Barbarian_Magic_B"
+      },
+      {
+        "name": "Bonespike Helmet",
+        "uuid": "72152951-3670-4004-b275-6b722c498bbc",
+        "d_name": "Bonespike Helmet",
+        "t_name": "ARM_Helmet_Barbarian_Magic_B"
+      },
+      {
+        "name": "Bonespike Gloves",
+        "uuid": "7e32e812-b79d-4bdb-a7c6-ee6778e893ec",
+        "d_name": "Bonespike Gloves",
+        "t_name": "ARM_Gloves_Barbarian_Magic_B"
+      },
+      {
+        "name": "Enraging Heart Garb",
+        "uuid": "3a213e92-1714-4f11-9726-ca762943d2cc",
+        "d_name": "Enraging Heart Garb",
+        "t_name": "MAG_Barbarian_Magic_Armor_1"
+      }
+    ]
+  }
+]
